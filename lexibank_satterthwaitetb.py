@@ -2,9 +2,10 @@
 from __future__ import unicode_literals, print_function
 
 from clldutils.path import Path
+from clldutils.misc import slug
 from pylexibank.dataset import Metadata
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.lingpy_util import getEvoBibAsBibtex
+from pylexibank.util import getEvoBibAsBibtex
 
 from clldutils.text import split_text, strip_brackets
 import re
@@ -150,19 +151,19 @@ class Dataset(BaseDataset):
             # add languages
             for lang in self.languages:
                 ds.add_language(
-                    ID=lang['NAME'],
-                    glottocode=lang['GLOTTOCODE'],
-                    name=lang['GLOTTOLOG_NAME'],
+                    ID=slug(lang['NAME']),
+                    Glottocode=lang['GLOTTOCODE'],
+                    Name=lang['GLOTTOLOG_NAME'],
                 )
 
             # add concepts
             for concept_id in self.conceptlist.concepts:
                 concept = self.conceptlist.concepts[concept_id]
                 ds.add_concept(
-                    ID=concept.english,
-                    conceptset=concept.concepticon_id,
-                    gloss=concept.english,
-                    concepticon_gloss=concept.concepticon_gloss,
+                    ID=slug(concept.english),
+                    Concepticon_ID=concept.concepticon_id,
+                    Name=concept.english,
+                    Concepticon_Gloss=concept.concepticon_gloss,
                 )
 
             graphemes = []
@@ -197,10 +198,11 @@ class Dataset(BaseDataset):
 
                             # add lexeme to database
                             for row in ds.add_lexemes(
-                                Language_ID=lang['NAME'],
-                                Parameter_ID=english,
+                                Language_ID=slug(lang['NAME']),
+                                Parameter_ID=slug(english),
                                 Value=form,
-                                Source='SatterthwaitePhillips2011'):
+                                Source=['SatterthwaitePhillips2011'],
+                            ):
                                 pass
 
     def cmd_download(self, **kw):
