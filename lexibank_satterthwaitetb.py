@@ -148,6 +148,7 @@ class Dataset(BaseDataset):
             page_data.append(rows)
 
         with self.cldf as ds:
+            ds.add_sources(*self.raw.read_bib())
             # add languages
             for lang in self.languages:
                 ds.add_language(

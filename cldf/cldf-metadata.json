@@ -9,6 +9,7 @@
         "Creative Commons Attribution Non Commercial 3.0",
         "https://creativecommons.org/licenses/by-nc/3.0/"
     ],
+    "dc:source": "sources.bib",
     "dc:title": "Phylogenetic inference of the Tibeto-Burman languages or on the usefuseful of lexicostatistics (and \"megalo\"-comparison) for the subgrouping of Tibeto-Burman",
     "rdf:ID": "satterthwaitetb",
     "dialect": {
@@ -21,11 +22,19 @@
                 "concepticon_version": "pyconcepticon-1.3-45-g85ba61d",
                 "glottolog_version": "v3.2-55-gef2031a"
             }
+        },
+        {
+            "dc:title": "environment",
+            "properties": {
+                "concepticon_version": "pyconcepticon-1.3-45-g85ba61d",
+                "glottolog_version": "v3.2-55-gef2031a"
+            }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:extent": 6845,
             "tableSchema": {
                 "columns": [
                     {
@@ -120,6 +129,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 18,
             "tableSchema": {
                 "columns": [
                     {
@@ -165,6 +175,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:extent": 422,
             "tableSchema": {
                 "columns": [
                     {
@@ -196,6 +207,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
