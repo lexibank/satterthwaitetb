@@ -8,6 +8,8 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/3.0/
 
 Available online at http://purl.stanford.edu/wv919xj7158
 
+Conceptlist in Concepticon: [SatterthwaitePhillips-2011-423](http://concepticon.clld.org/contributions/SatterthwaitePhillips-2011-423)
+
 ## Notes
 
 Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
@@ -26,7 +28,7 @@ Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
 - **Lexemes:** 6,845
 - **Synonymy:** 1.01
 - **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 6,845
+- **Invalid lexemes:** 0
 - **Tokens:** 0
-- **Segments:** 0 (0 LingPy errors, 0 CLPA errors, 0 CLPA modified)
+- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
 - **Inventory size (avg):** 0.00

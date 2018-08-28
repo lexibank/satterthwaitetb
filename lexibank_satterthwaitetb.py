@@ -14,6 +14,7 @@ import itertools
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
+    id = 'satterthwaitetb'
 
     def cmd_install(self, **kw):
         # read all the lines in the text file; I'm also including the
@@ -148,38 +149,24 @@ class Dataset(BaseDataset):
             page_data.append(rows)
 
         with self.cldf as ds:
-            ds.add_sources(*self.raw.read_bib())
-            # add languages
-            for lang in self.languages:
-                ds.add_language(
-                    ID=slug(lang['NAME']),
-                    Glottocode=lang['GLOTTOCODE'],
-                    Name=lang['GLOTTOLOG_NAME'],
-                )
-
-            # add concepts
-            for concept_id in self.conceptlist.concepts:
-                concept = self.conceptlist.concepts[concept_id]
-                ds.add_concept(
-                    ID=slug(concept.english),
-                    Concepticon_ID=concept.concepticon_id,
-                    Name=concept.english,
-                    Concepticon_Gloss=concept.concepticon_gloss,
-                )
+            ds.add_sources()
+            ds.add_languages(id_factory=lambda l: slug(l['Name']))
+            ds.add_concepts(id_factory=lambda c: slug(c.label))
 
             graphemes = []
             for page in page_data:
                 # for each concept...
                 for idx, english in enumerate(page['concepts']):
-                    # for each language/key (except 'concepts' and 'Hanzi')...
-                    for lang in self.languages:
+                    for lang in page.keys():
+                        if lang in ['concepts', 'Hanzi']:
+                            continue
                         # extract the value (raw transcription) and apply
                         # some initial correction before splitting into the
                         # various forms; before removing parentheses, we
                         # manually correct and preserve the few cases in which
                         # the parentheses are actual sound information and
                         # not comments
-                        value = page[lang['NAME']][idx]
+                        value = page[lang][idx]
                         value = value.replace('(y)', 'y')
                         value = value.replace('(r)', 'r')
                         value = value.replace('(ɨ)', 'ɨ')
@@ -199,7 +186,7 @@ class Dataset(BaseDataset):
 
                             # add lexeme to database
                             for row in ds.add_lexemes(
-                                Language_ID=slug(lang['NAME']),
+                                Language_ID=slug(lang),
                                 Parameter_ID=slug(english),
                                 Value=form,
                                 Source=['SatterthwaitePhillips2011'],

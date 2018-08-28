@@ -4,14 +4,12 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": "http://concepticon.clld.org/contributions/SatterthwaitePhillips-2011-423",
     "dc:identifier": "http://purl.stanford.edu/wv919xj7158",
-    "dc:license": [
-        "CC-BY-NC-3.0",
-        "Creative Commons Attribution Non Commercial 3.0",
-        "https://creativecommons.org/licenses/by-nc/3.0/"
-    ],
+    "dc:license": "https://creativecommons.org/licenses/by-nc/3.0/",
     "dc:source": "sources.bib",
     "dc:title": "Phylogenetic inference of the Tibeto-Burman languages or on the usefuseful of lexicostatistics (and \"megalo\"-comparison) for the subgrouping of Tibeto-Burman",
+    "dcat:accessURL": "https://github.com/lexibank/satterthwaitetb",
     "rdf:ID": "satterthwaitetb",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -19,15 +17,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "concepticon_version": "pyconcepticon-1.3-45-g85ba61d",
-                "glottolog_version": "v3.2-55-gef2031a"
-            }
-        },
-        {
-            "dc:title": "environment",
-            "properties": {
-                "concepticon_version": "pyconcepticon-1.3-45-g85ba61d",
-                "glottolog_version": "v3.2-55-gef2031a"
+                "glottolog_version": "v3.3.2",
+                "concepticon_version": "pyconcepticon-1.4.0-10-g1d57531"
             }
         }
     ],
@@ -211,7 +202,7 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },
