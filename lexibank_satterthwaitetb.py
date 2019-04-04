@@ -5,7 +5,7 @@ from clldutils.path import Path
 from clldutils.misc import slug
 from pylexibank.dataset import Metadata
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.util import getEvoBibAsBibtex
+from pylexibank.util import getEvoBibAsBibtex, pb
 
 from clldutils.text import split_text, strip_brackets
 import re
@@ -154,7 +154,7 @@ class Dataset(BaseDataset):
             ds.add_concepts(id_factory=lambda c: slug(c.label))
 
             graphemes = []
-            for page in page_data:
+            for page in pb(page_data):
                 # for each concept...
                 for idx, english in enumerate(page['concepts']):
                     for lang in page.keys():

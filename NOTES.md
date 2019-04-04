@@ -1,1 +1,1 @@
-Any dataset specific notes on lexibank decisions/mapping choices etc go in here.
+This dataset comprises a larger concept list of 18 Sino-Tibetan languages.

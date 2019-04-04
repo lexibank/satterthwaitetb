@@ -143,7 +143,7 @@ frog,frog,503,FROG
 fruit,fruit,1507,FRUIT
 full,full,1429,FULL
 fur,fur,580,FUR
-getup,get up,1602,WAKE UP
+getup,get up,3350,GET UP FROM BED
 girl,girl,1646,GIRL
 give,give,1447,GIVE
 givebirthto,"give birth, to",1195,GIVE BIRTH
@@ -170,7 +170,7 @@ heavy,heavy,1210,HEAVY
 here,here,136,HERE
 hide,hide,2486,HIDE
 highofplace,high (of place),1265,HIGH
-hit,hit,1433,HIT
+hit,hit,353,STRIKE
 holeincloth,hole [in cloth],1667,HOLE
 honey,honey,942,HONEY
 hook,hook,1071,HOOK
@@ -316,10 +316,10 @@ sharp2,sharp2,1396,SHARP
 she,she,1834,SHE
 sheep,sheep,1331,SHEEP
 eggshell,(egg) shell,598,SHELL
-shit,shit,676,FAECES (EXCREMENT)
+shit,shit,675,FAECES (EXCREMENT)
 shoot,shoot,1172,SHOOT
 shortoflength,short (of length),1645,SHORT
-shortofstature,short (of stature),2191,LOW (HEIGHT)
+shortofstature,short (of stature),2484,SMALL (NOT TALL)
 shoulder,shoulder,1482,SHOULDER
 sick,sick,1847,SICK
 silver,silver,759,SILVER
@@ -352,7 +352,7 @@ squeeze,squeeze,1414,SQUEEZE
 standup,stand up,570,STAND UP
 star,star,1430,STAR
 steal,steal,713,STEAL
-stink,stink,1587,SMELL (STINK)
+stink,stink,42,STINKING
 stomach,stomach,819,STOMACH
 stone,stone,857,STONE
 straight,straight,1404,STRAIGHT
@@ -366,7 +366,7 @@ sweet,sweet,717,SWEET
 swell,swell,1573,SWELL
 swim,swim,1439,SWIM
 tail,tail,1220,TAIL
-tallofstature,tall (of stature),711,TALL
+tallofstature,tall (of stature),3346,TALL (PERSON)
 taste,taste,21,TASTE (SOMETHING)
 ten,ten,1515,TEN
 that,that,78,THAT
