@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Satterthwaite-Phillips, D. (2011) Phylogenetic inference of the Tibeto-Burman languages or on the usefuseful of lexicostatistics (and \"megalo\"-comparison) for the subgrouping of Tibeto-Burman. Stanford: Stanford University.",
+    "dc:bibliographicCitation": "Satterthwaite-Phillips, Damian (2011) Phylogenetic inference of the Tibeto-Burman languages or on the usefuseful of lexicostatistics (and \"megalo\"-comparison) for the subgrouping of Tibeto-Burman. Stanford: Stanford University.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": null,
     "dc:format": [
@@ -12,7 +12,8 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/3.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Phylogenetic inference of the Tibeto-Burman languages or on the usefuseful of lexicostatistics (and \"megalo\"-comparison) for the subgrouping of Tibeto-Burman",
+    "dc:title": "Phylogenetic Inference of the Tibeto-Burman Languages",
+    "dcat:accessURL": "https://github.com/lexibank/satterthwaitetb",
     "rdf:ID": "satterthwaitetb",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -22,8 +23,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.0"
+                "glottolog_version": "v3.4-1-g07a9b54",
+                "concepticon_version": "pyconcepticon-1.4.0-207-gdf49abe"
             }
         }
     ],

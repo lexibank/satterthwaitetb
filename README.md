@@ -1,8 +1,8 @@
-# Phylogenetic inference of the Tibeto-Burman languages or on the usefuseful of lexicostatistics (and "megalo"-comparison) for the subgrouping of Tibeto-Burman
+# Phylogenetic Inference of the Tibeto-Burman Languages
 
 Cite the source dataset as
 
-> Satterthwaite-Phillips, D. (2011) Phylogenetic inference of the Tibeto-Burman languages or on the usefuseful of lexicostatistics (and "megalo"-comparison) for the subgrouping of Tibeto-Burman. Stanford: Stanford University.
+> Satterthwaite-Phillips, Damian (2011) Phylogenetic inference of the Tibeto-Burman languages or on the usefuseful of lexicostatistics (and "megalo"-comparison) for the subgrouping of Tibeto-Burman. Stanford: Stanford University.
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/3.0/us/ license
 
