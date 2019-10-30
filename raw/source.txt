@@ -1,0 +1,7597 @@
+language	concept	value
+Mandarin	animal	dong wu44
+Nasu	animal	-
+Lisu	animal	-
+Baihong	animal	dʒe31 (?)
+Hani	animal	yo deiv ssaq
+Nosu	animal	lyrw
+Samei	animal	-
+Nisu	animal	-
+Biyue	animal	-
+Kucong	animal	-
+Nusu	animal	-
+Jinghpo	animal	dusat dumyeng
+Lahu Shi	animal	-
+Lahu Na	animal	to nud to shat
+Zaozou	animal	-
+Jinuo	animal	pʊ tʃa to tʃa a mɔ
+Naxi	animal	hɯ
+Zaiwa	animal	-
+Mandarin	ant	ma yi33
+Nasu	ant	bi_ 55 ʑo_ 33
+Lisu	ant	bo 42 lo 44
+Baihong	ant	a55 f.55
+Hani	ant	al wu lal deiq
+Nosu	ant	bbutvup
+Samei	ant	gә li hә
+Nisu	ant	bɤ 55 xɤ_ 21
+Biyue	ant	bi31 sv._33
+Kucong	ant	bo o
+Nusu	ant	la ʐʊ
+Jinghpo	ant	kagyin
+Lahu Shi	ant	pɤ331 ɣɔ53
+Lahu Na	ant	piq xawt ni*
+Zaozou	ant	pha 55 vu 42 o~ 33
+Jinuo	ant	pu xo
+Naxi	ant	tɕho55 lo33
+Zaiwa	ant	pau 51 vo? 55
+Mandarin	arm	ge bo10
+Nasu	arm	la_ 55 pu 33
+Lisu	arm	tɛ 35 vu 31
+Baihong	arm	la31 dv.55
+Hani	arm	lavq biav
+Nosu	arm	hlopbbop
+Samei	arm	le vy
+Nisu	arm	li_ɛ_ 21 ʑi_ɛ_ 33 po_ 21
+Biyue	arm	la_31 tv.55
+Kucong	arm	la wo
+Nusu	arm	lo
+Jinghpo	arm	lahpum
+Lahu Shi	arm	lA31 pɯ31
+Lahu Na	arm	lar xawd
+Zaozou	arm	lou 42 ɣæ 31
+Jinuo	arm	la kho
+Naxi	arm	la31 wa
+Zaiwa	arm	lo? 21 pu 55
+Mandarin	arrow	jian4
+Nasu	arrow	nu 33 tɕhɚ 33
+Lisu	arrow	tʃɛ 42 tʃɯ 35
+Baihong	arrow	ga31 me31
+Hani	arrow	kavmiaq
+Nosu	arrow	hxi
+Samei	arrow	-
+Nisu	arrow	tɕhi_ɛ_ 21 ?u_ 33 thiɛ 55
+Biyue	arrow	nv.31 ti55
+Kucong	arrow	kha ʝi
+Nusu	arrow	mra gwa
+Jinghpo	arrow	ndan pala
+Lahu Shi	arrow	khA313 tɕi33
+Lahu Na	arrow	khaq ce
+Zaozou	arrow	ɲo 31 a 44
+Jinuo	arrow	lu tʃhɨ
+Naxi	arrow	lɯ33 sɯ33
+Zaiwa	arrow	lai 21 mjo 21
+Mandarin	ashamed	can kui24
+Nasu	ashamed	-
+Lisu	ashamed	-
+Baihong	ashamed	sa31 dɔ55
+Hani	ashamed	nyuqsaq
+Nosu	ashamed	nyitjie
+Samei	ashamed	-
+Nisu	ashamed	-
+Biyue	ashamed	-
+Kucong	ashamed	-
+Nusu	ashamed	hrɔ
+Jinghpo	ashamed	hkrit gaya
+Lahu Shi	ashamed	-
+Lahu Na	ashamed	mad qaw* yi*
+Zaozou	ashamed	-
+Jinuo	ashamed	mɒ sɒ jɒ
+Naxi	ashamed	mә gʊ ɲi
+Zaiwa	ashamed	-
+Mandarin	ashes	yan hui11
+Nasu	ashes	khu 55
+Lisu	ashes	kho 31 ha 33
+Baihong	ashes	xa31 lɛ31
+Hani	ashes	yahyuq hallyul
+Nosu	ashes	yimut
+Samei	ashes	-
+Nisu	ashes	khɯ 21 mu 21
+Biyue	ashes	ko31 li55
+Kucong	ashes	ʝa mɯ
+Nusu	ashes	ja mi
+Jinghpo	ashes	salik wan numwu
+Lahu Shi	ashes	qhɔ 21 xA33
+Lahu Na	ashes	shuq xeor
+Zaozou	ashes	na 55 ma 35 phu 33
+Jinuo	ashes	jɔ kho a mɔ (jɔ kho = ash??)
+Naxi	ashes	mi ma
+Zaiwa	ashes	mji 21 mop 55
+Mandarin	awaken	xing3
+Nasu	awaken	ʑi_ 55 tɕhɚ 33
+Lisu	awaken	xua 55 sʃhɨ 31
+Baihong	awaken	ny31
+Hani	awaken	nyuq
+Nosu	awaken	jyjji
+Samei	awaken	ʐi ɲi
+Nisu	awaken	nɯ 33
+Biyue	awaken	ɲi31
+Kucong	awaken	do no
+Nusu	awaken	so
+Jinghpo	awaken	hprang
+Lahu Shi	awaken	zɨ31 nɔ55 lA33
+Lahu Na	awaken	nawd
+Zaozou	awaken	ɲe 35
+Jinuo	awaken	-
+Naxi	awaken	gә no33
+Zaiwa	awaken	pun 21
+Mandarin	back	bei4
+Nasu	back	-
+Lisu	back	-
+Baihong	back	a31 dʑʊ31
+Hani	back	daol teil
+Nosu	back	gepdep
+Samei	back	gau (gan? Possible typo) tɕi
+Nisu	back	-
+Biyue	back	-
+Kucong	back	o dæ
+Nusu	back	da (dɔ?)
+Jinghpo	back	shingma
+Lahu Shi	back	-
+Lahu Na	back	phie*
+Zaozou	back	-
+Jinuo	back	a mɔ
+Naxi	back	gɯ sɯ
+Zaiwa	back	-
+Mandarin	bad	huai4
+Nasu	bad	ɖa_ 21
+Lisu	bad	ma 31 dʒi 33
+Baihong	bad	dy55
+Hani	bad	maq meeq
+Nosu	bad	ddi
+Samei	bad	o mɔ dә (= not good)
+Nisu	bad	dɤ 55
+Biyue	bad	mo31 mɔ33
+Kucong	bad	a na
+Nusu	bad	ma gi (not good)
+Jinghpo	bad	n gaja (not good)
+Lahu Shi	bad	mA53 dA 21
+Lahu Na	bad	lul qeu*
+Zaozou	bad	tɕhɯ 31
+Jinuo	bad	a ɬæ
+Naxi	bad	kwa
+Zaiwa	bad	then 21
+Mandarin	bamboo	zhu zi20
+Nasu	bamboo	mo 33
+Lisu	bamboo	ma 44 da 33
+Baihong	bamboo	xa31 bo55
+Hani	bamboo	haq bol
+Nosu	bamboo	ma
+Samei	bamboo	mo
+Nisu	bamboo	mo 55
+Biyue	bamboo	o31 bo55
+Kucong	bamboo	wa; wa ɟæ
+Nusu	bamboo	hm,ɯ
+Jinghpo	bamboo	kawa
+Lahu Shi	bamboo	vA53 tɕɛ31
+Lahu Na	bamboo	va jie*
+Zaozou	bamboo	khuɔ 33 tse~ 33
+Jinuo	bamboo	va (βa?)
+Naxi	bamboo	mɯ55
+Zaiwa	bamboo	va 21
+Mandarin	banana	xiang jiao14
+Nasu	banana	-
+Lisu	banana	ŋa 44 ma 33
+Baihong	banana	na31 dʑi31 a 55 sɨ31
+Hani	banana	al qul
+Nosu	banana	xiejuo
+Samei	banana	-
+Nisu	banana	-
+Biyue	banana	ɕa~55 dʑau55
+Kucong	banana	a bo ba
+Nusu	banana	ŋo
+Jinghpo	banana	guihkom
+Lahu Shi	banana	A33 pɔ55 sɨ11
+Lahu Na	banana	aq pawd hawq shif
+Zaozou	banana	ɕa 33 tɕiɔ 31
+Jinuo	banana	ɕaŋ tɕaɔ
+Naxi	banana	ɕa33 tsia33
+Zaiwa	banana	ŋo`ʔ 55 mjuʔ 21 xom 21
+Mandarin	bark	shu pi41
+Nasu	bark	-
+Lisu	bark	-
+Baihong	bark	ba55 xo55
+Hani	bark	al bol al hov
+Nosu	bark	-
+Samei	bark	ʂɨ gy to gau
+Nisu	bark	-
+Biyue	bark	-
+Kucong	bark	çә gә
+Nusu	bark	si ku ʐe
+Jinghpo	bark	-
+Lahu Shi	bark	-
+Lahu Na	bark	sit geul
+Zaozou	bark	-
+Jinuo	bark	a tsɨ a khɔ (=tree + shell)
+Naxi	bark	ndza ɣɯ
+Zaiwa	bark	-
+Mandarin	barley	da ma44
+Nasu	barley	zu 21
+Lisu	barley	e 44 sɛ 35
+Baihong	barley	mɯ31 dzɨ55
+Hani	barley	daf meiq
+Nosu	barley	ssup
+Samei	barley	hɔ
+Nisu	barley	ʐo 21
+Biyue	barley	me35 dzɨ31
+Kucong	barley	mә ɟɨ
+Nusu	barley	swa dzwo (dzwɔ?)
+Jinghpo	barley	htangmam
+Lahu Shi	barley	mɤ31 tsɨ
+Lahu Na	barley	ri sha*
+Zaozou	barley	miæ 31 zao 31
+Jinuo	barley	-
+Naxi	barley	ndze33
+Zaiwa	barley	me 55 ja 21
+Mandarin	bat	bian fu12
+Nasu	bat	ha_ 33 ɳo, 33
+Lisu	bat	ua 31 la 31
+Baihong	bat	a55 bi31 la55 xa31
+Hani	bat	al ku bial hhaq
+Nosu	bat	hxielup
+Samei	bat	-
+Nisu	bat	diɛ 21 vA 33
+Biyue	bat	-
+Kucong	bat	bu ŋjɛ
+Nusu	bat	bja ja
+Jinghpo	bat	hpatsip
+Lahu Shi	bat	fA35 su 21
+Lahu Na	bat	pol naq
+Zaozou	bat	mi 31 khɯ 33 lou 42 o~
+Jinuo	bat	pe ɔ pe ke
+Naxi	bat	mbi33 mbә31
+Zaiwa	bat	pha` 51 xi 55
+Mandarin	be born, to	chu sheng11
+Nasu	be born, to	-
+Lisu	be born, to	-
+Baihong	be born, to	bo55
+Hani	be born, to	bo deivq
+Nosu	be born, to	yur
+Samei	be born, to	-
+Nisu	be born, to	-
+Biyue	be born, to	-
+Kucong	be born, to	de le
+Nusu	be born, to	pa
+Jinghpo	be born, to	shangai
+Lahu Shi	be born, to	-
+Lahu Na	be born, to	paw
+Zaozou	be born, to	-
+Jinuo	be born, to	tsha to mә
+Naxi	be born, to	ndʐɔ
+Zaiwa	be born, to	-
+Mandarin	beam	heng liang22
+Nasu	beam	ɖu 21 le_ 21
+Lisu	beam	hi 33 o 55 lo 33
+Baihong	beam	xo55 dzo31
+Hani	beam	-
+Nosu	beam	-
+Samei	beam	ʐo
+Nisu	beam	tA 55 liA_ 21
+Biyue	beam	lia~31
+Kucong	beam	du xɔ
+Nusu	beam	-
+Jinghpo	beam	-
+Lahu Shi	beam	liAŋ31
+Lahu Na	beam	yiel caw*
+Zaozou	beam	khɔ 33 ɣuo~ 35 te~ 44
+Jinuo	beam	ta lja~ (cg. daliang)
+Naxi	beam	-
+Zaiwa	beam	khuŋ 51
+Mandarin	bean	dou4
+Nasu	bean	no_ 21
+Lisu	bean	a 55 no 44
+Baihong	bean	a55 be31
+Hani	bean	nee beiv
+Nosu	bean	nurma
+Samei	bean	no
+Nisu	bean	nu_ 33
+Biyue	bean	ne33 sɨ31
+Kucong	bean	ŋo
+Nusu	bean	nu
+Jinghpo	bean	lasi shapre
+Lahu Shi	bean	nɔ54 sɨ11
+Lahu Na	bean	nawt
+Zaozou	bean	na 42 læ 31
+Jinuo	bean	to; a tsɨ (common type)
+Naxi	bean	ɣ. ny ly
+Zaiwa	bean	nuʔ21
+Mandarin	bear	xiong2
+Nasu	bear	tɕhi 33 ʑe 21
+Lisu	bear	ɣo 33 pha 31
+Baihong	bear	xa31 xo55
+Hani	bear	haoq'aol
+Nosu	bear	wo
+Samei	bear	-
+Nisu	bear	zɨ 21 bA 33
+Biyue	bear	o31 ji55
+Kucong	bear	çja wo
+Nusu	bear	wa
+Jinghpo	bear	tsap
+Lahu Shi	bear	ʑɛ31
+Lahu Na	bear	yiel miq tawf
+Zaozou	bear	vɔ 33 o~ 33
+Jinuo	bear	aœ
+Naxi	bear	ŋgv.31
+Zaiwa	bear	vam 51
+Mandarin	beautiful	piao liang40
+Nasu	beautiful	ʑɔ 33
+Lisu	beautiful	bi 33
+Baihong	beautiful	dza31 ɕe31
+Hani	beautiful	zaqqul
+Nosu	beautiful	hxepsa
+Samei	beautiful	sæ
+Nisu	beautiful	bi 55
+Biyue	beautiful	ga31
+Kucong	beautiful	ɟɛ da
+Nusu	beautiful	ljә
+Jinghpo	beautiful	tsom
+Lahu Shi	beautiful	ɣɔ35 sA33 dzAŋ53
+Lahu Na	beautiful	ni sha ca*
+Zaozou	beautiful	ʑa 42 ɣuo 35
+Jinuo	beautiful	ji mɹɒ
+Naxi	beautiful	lɯә
+Zaiwa	beautiful	tʃo_i 21
+Mandarin	bed	chuang2
+Nasu	bed	je 33
+Lisu	bed	e 31 ta 55 gu 33
+Baihong	bed	u31 ɣa55
+Hani	bed	hhaoqzao
+Nosu	bed	itggo
+Samei	bed	ʐ. gy (gә?)
+Nisu	bed	zɨ_ 21 do 21
+Biyue	bed	ja35
+Kucong	bed	gu ɟu
+Nusu	bed	jɔ dɯ
+Jinghpo	bed	yupku
+Lahu Shi	bed	zɨ31 phɯ33
+Lahu Na	bed	rir pheu
+Zaozou	bed	ʑa 42 pæ 33 tɕio 55
+Jinuo	bed	i jɔ (= sleep + place)
+Naxi	bed	tsua33
+Zaiwa	bed	ku 55
+Mandarin	bee	mi feng41
+Nasu	bee	ɖo 21 ɲɯ 33
+Lisu	bee	biɛ 31 ʒo 31
+Baihong	bee	a31 ba31
+Hani	bee	biaq sil
+Nosu	bee	syjji
+Samei	bee	ljɔ
+Nisu	bee	xiɛ 21 dʐA 21 do 33
+Biyue	bee	bo31
+Kucong	bee	bjɛ
+Nusu	bee	bjɔ
+Jinghpo	bee	lagat
+Lahu Shi	bee	pɛ55 zɨ53
+Lahu Na	bee	pied
+Zaozou	bee	pio 31 o~ 33
+Jinuo	bee	pjɔ jɔ
+Naxi	bee	mba33
+Zaiwa	bee	pjo` 21 jaŋ 21
+Mandarin	beetle	jia chong32
+Nasu	beetle	-
+Lisu	beetle	-
+Baihong	beetle	-
+Hani	beetle	al hov eq e byuq ssaq
+Nosu	beetle	-
+Samei	beetle	-
+Nisu	beetle	-
+Biyue	beetle	-
+Kucong	beetle	ça bo ʝi gæ
+Nusu	beetle	-
+Jinghpo	beetle	kop rong ai shingtai
+Lahu Shi	beetle	-
+Lahu Na	beetle	-
+Zaozou	beetle	-
+Jinuo	beetle	-
+Naxi	beetle	-
+Zaiwa	beetle	-
+Mandarin	belch	da ge32
+Nasu	belch	ɣa_ 21 mo_ 21 tsɯ_ 55 khɯ 33
+Lisu	belch	kɯ 55 tɯ 55 dɯ 31
+Baihong	belch	kɤ55 dɤ31 dɤ31
+Hani	belch	heldev dev
+Nosu	belch	oplippup; sip'ot
+Samei	belch	-
+Nisu	belch	ʔɤ 55 lɤ 55 khɯ 33
+Biyue	belch	xe35 ge31
+Kucong	belch	ә dә
+Nusu	belch	da gɤ
+Jinghpo	belch	gaik
+Lahu Shi	belch	E31 kɤ33 lɤ33 mɤ31
+Lahu Na	belch	eo* tie*
+Zaozou	belch	ʑɯ 44
+Jinuo	belch	ɤ ka mɯ mә
+Naxi	belch	-
+Zaiwa	belch	mjo? 21
+Mandarin	bell	ling2
+Nasu	bell	tʂu 33
+Lisu	bell	tsɯ 55 lɯ 55
+Baihong	bell	tsa (dzɤ?)55 tsv31
+Hani	bell	qulsul
+Nosu	bell	zyly
+Samei	bell	dzɤ Lɤ
+Nisu	bell	tsE 55 lE 55
+Biyue	bell	dzɤ55 tɤ55
+Kucong	bell	ʝi li
+Nusu	bell	liŋ
+Jinghpo	bell	dingsi
+Lahu Shi	bell	tiŋ33 liŋ33
+Lahu Na	bell	cu lu
+Zaozou	bell	tsɯ~ 55 lɯ 55 læ 31
+Jinuo	bell	tsa ji
+Naxi	bell	tɕy31 zɯ33
+Zaiwa	bell	tʃu_ 51 mo 55
+Mandarin	belly	du zi40
+Nasu	belly	o 55 pe 33
+Lisu	belly	he 31 ma 33
+Baihong	belly	ɔ31 ma55
+Hani	belly	wuqdeiq
+Nosu	belly	ipmop
+Samei	belly	a bu
+Nisu	belly	A 21 piɛ 55
+Biyue	belly	o31 pv.31
+Kucong	belly	vә be
+Nusu	belly	yɛ
+Jinghpo	belly	kan
+Lahu Shi	belly	ɣɔ53 pi31
+Lahu Na	belly	xud pel
+Zaozou	belly	va 31 læ 31
+Jinuo	belly	u phu
+Naxi	belly	ndv31 me33
+Zaiwa	belly	vam 21
+Mandarin	big	da4
+Nasu	big	ɣo, 53
+Lisu	big	vu 31
+Baihong	big	xɯ31
+Hani	big	heeq
+Nosu	big	axyy
+Samei	big	ɣa
+Nisu	big	ɣE 33
+Biyue	big	xɤ31
+Kucong	big	ә (?)
+Nusu	big	ʐi
+Jinghpo	big	gaba
+Lahu Shi	big	ɔ31 kiAŋ35
+Lahu Na	big	euf
+Zaozou	big	ʑi 31
+Jinuo	big	la hɯ
+Naxi	big	ndɯ31
+Zaiwa	big	ko_ 21
+Mandarin	big brother	ge ge10
+Nasu	big brother	a 55 mu 33
+Lisu	big brother	a 55 ʒi 42
+Baihong	big brother	a31 go55
+Hani	big brother	al go
+Nosu	big brother	vytvu
+Samei	big brother	a gɔu
+Nisu	big brother	A 55 mo 55
+Biyue	big brother	a55 go33
+Kucong	big brother	go go
+Nusu	big brother	mɯ mɯ
+Jinghpo	big brother	hpu
+Lahu Shi	big brother	A33 kɔ33
+Lahu Na	big brother	a viq paf
+Zaozou	big brother	a 33 tiæ 33
+Jinuo	big brother	a ʃo
+Naxi	big brother	ә33 mbu31
+Zaiwa	big brother	a 55 phu 21
+Mandarin	big sister	jie jie30
+Nasu	big sister	a 33 ne 55
+Lisu	big sister	a 55 tsɨ 44
+Baihong	big sister	a55 ba31
+Hani	big sister	al ba
+Nosu	big sister	vytmop
+Samei	big sister	a ji
+Nisu	big sister	A 55 vi_ 21
+Biyue	big sister	a55 dʑe31
+Kucong	big sister	ba ba
+Nusu	big sister	mɯ mɯ
+Jinghpo	big sister	na
+Lahu Shi	big sister	A33 tɕe53
+Lahu Na	big sister	awl viq ma
+Zaozou	big sister	a 33 ma 31
+Jinuo	big sister	a ʃo
+Naxi	big sister	me55 me31
+Zaiwa	big sister	a 55 na_ 55
+Mandarin	bird	niao3
+Nasu	bird	ŋa_ 21
+Lisu	bird	niɛ 35
+Baihong	bird	a55 dʑi55
+Hani	bird	al zil
+Nosu	bird	hxiezyr
+Samei	bird	ŋɔ
+Nisu	bird	xi_ɛ_ 33
+Biyue	bird	ŋa33 jɔ31
+Kucong	bird	ŋa
+Nusu	bird	hau
+Jinghpo	bird	nam u
+Lahu Shi	bird	ŋA54
+Lahu Na	bird	ngat
+Zaozou	bird	ŋɔ 44 o~ 33
+Jinuo	bird	ŋa zɔ
+Naxi	bird	v.55 zi33
+Zaiwa	bird	ŋo_ʔ
+Mandarin	bite	yao3
+Nasu	bite	tɕhɤ_ 55
+Lisu	bite	kho 42
+Baihong	bite	go31
+Hani	bite	kovq
+Nosu	bite	znyt
+Samei	bite	khɯ
+Nisu	bite	tʂhɤ_ 21
+Biyue	bite	tɔ31
+Kucong	bite	cɛ
+Nusu	bite	tswa
+Jinghpo	bite	gawa
+Lahu Shi	bite	tɕhi 21
+Lahu Na	bite	cher
+Zaozou	bite	ŋa 42
+Jinuo	bite	thɔ
+Naxi	bite	kha
+Zaiwa	bite	ŋat 21
+Mandarin	bitter	ku3
+Nasu	bitter	khɔ 33
+Lisu	bitter	khua 31
+Baihong	bitter	xa31 (same as salty)
+Hani	bitter	haq
+Nosu	bitter	ke
+Samei	bitter	kha
+Nisu	bitter	khA 33
+Biyue	bitter	kɔ31
+Kucong	bitter	a qha
+Nusu	bitter	kwɔ
+Jinghpo	bitter	hka
+Lahu Shi	bitter	qhA53
+Lahu Na	bitter	kheor
+Zaozou	bitter	khou 31
+Jinuo	bitter	a khɒ
+Naxi	bitter	kha33
+Zaiwa	bitter	kho 21
+Mandarin	black	hei1
+Nasu	black	na_ 21
+Lisu	black	e 55 nɛ 44
+Baihong	black	na55
+Hani	black	nav
+Nosu	black	axnuo
+Samei	black	ne
+Nisu	black	ni_ɛ_ 33
+Biyue	black	na33
+Kucong	black	a na
+Nusu	black	no
+Jinghpo	black	chyang
+Lahu Shi	black	nA54
+Lahu Na	black	nat
+Zaozou	black	no 42
+Jinuo	black	a na
+Naxi	black	na31
+Zaiwa	black	no? 21
+Mandarin	blood	xue4
+Nasu	blood	sɯ 33
+Lisu	blood	sɨ 31
+Baihong	blood	si (ɕi?)31
+Hani	blood	sivq
+Nosu	blood	sy
+Samei	blood	ʂɨ ɲi (ni?)
+Nisu	blood	ʂɨ 33
+Biyue	blood	o31 ʃɨ31
+Kucong	blood	çәr (çɚ?)
+Nusu	blood	swi
+Jinghpo	blood	sai
+Lahu Shi	blood	sɨ31
+Lahu Na	blood	awl sif
+Zaozou	blood	ɕyi 31
+Jinuo	blood	a ɕi
+Naxi	blood	sa33
+Zaiwa	blood	sui 21
+Mandarin	blow (out)	chui (mie)14
+Nasu	blow (out)	mu_ 21
+Lisu	blow (out)	mu 44
+Baihong	blow (out)	-
+Hani	blow (out)	-
+Nosu	blow (out)	-
+Samei	blow (out)	-
+Nisu	blow (out)	mu_ 33
+Biyue	blow (out)	dzɨ33
+Kucong	blow (out)	-
+Nusu	blow (out)	-
+Jinghpo	blow (out)	-
+Lahu Shi	blow (out)	mɤ53
+Lahu Na	blow (out)	-
+Zaozou	blow (out)	mi 42
+Jinuo	blow (out)	-
+Naxi	blow (out)	-
+Zaiwa	blow (out)	mut 21
+Mandarin	blow [of person]	chui1
+Nasu	blow [of person]	mu_ 21
+Lisu	blow [of person]	mu 44
+Baihong	blow [of person]	bo31
+Hani	blow [of person]	bo sil
+Nosu	blow [of person]	hmo
+Samei	blow [of person]	m. mɤ
+Nisu	blow [of person]	mu_ 33
+Biyue	blow [of person]	li55
+Kucong	blow [of person]	mɯ
+Nusu	blow [of person]	mɯ
+Jinghpo	blow [of person]	wut
+Lahu Shi	blow [of person]	zɔ33 (= feng chui)
+Lahu Na	blow [of person]	meot
+Zaozou	blow [of person]	læ 55
+Jinuo	blow [of person]	tsɨ
+Naxi	blow [of person]	mʊ
+Zaiwa	blow [of person]	mut 21
+Mandarin	blow [of wind]	gua1
+Nasu	blow [of wind]	ɳɯ 21
+Lisu	blow [of wind]	dʒɯ 42
+Baihong	blow [of wind]	bɔ55
+Hani	blow [of wind]	bo
+Nosu	blow [of wind]	pur
+Samei	blow [of wind]	mә (mɯ ʂi mә = gua feng)
+Nisu	blow [of wind]	ɬiɛ 55
+Biyue	blow [of wind]	li55
+Kucong	blow [of wind]	mɯ
+Nusu	blow [of wind]	hɬi
+Jinghpo	blow [of wind]	bung
+Lahu Shi	blow [of wind]	xɔ~55
+Lahu Na	blow [of wind]	meot
+Zaozou	blow [of wind]	læ 55
+Jinuo	blow [of wind]	phjo (li phjo phjo = gua feng)
+Naxi	blow [of wind]	thv33
+Zaiwa	blow [of wind]	lo 51
+Mandarin	blue	lan2
+Nasu	blue	ɣo_ 55
+Lisu	blue	e 55 ni 35 tʃhi 42
+Baihong	blue	ny55
+Hani	blue	peel
+Nosu	blue	avut
+Samei	blue	phɤ
+Nisu	blue	nɯ 55
+Biyue	blue	la~31
+Kucong	blue	a ɲɔ
+Nusu	blue	ɲɯ
+Jinghpo	blue	panglai nsam
+Lahu Shi	blue	nɔ55 lA33
+Lahu Na	blue	naw
+Zaozou	blue	ɕa 44
+Jinuo	blue	a lɯ
+Naxi	blue	lan
+Zaiwa	blue	ɲui 51
+Mandarin	boat	chuan2
+Nasu	boat	lɔ 33
+Lisu	boat	tsha 31 phu 31
+Baihong	boat	lɔ31
+Hani	boat	loq
+Nosu	boat	-
+Samei	boat	ʐɨ
+Nisu	boat	lA 33
+Biyue	boat	lo31
+Kucong	boat	lɔ
+Nusu	boat	-
+Jinghpo	boat	li
+Lahu Shi	boat	tshuAn 21
+Lahu Na	boat	haw lor qof
+Zaozou	boat	ʔo~ 31 tsɔ 33
+Jinuo	boat	tʃhwan
+Naxi	boat	lɯ
+Zaiwa	boat	la_i 55
+Mandarin	boil	zhu3
+Nasu	boil	tʂa_ 55
+Lisu	boil	tʃa 55
+Baihong	boil	dza31
+Hani	boil	qavq
+Nosu	boil	jot
+Samei	boil	ji
+Nisu	boil	tɕi_ɛ_ 21
+Biyue	boil	dza31
+Kucong	boil	ɟa
+Nusu	boil	gjɔ
+Jinghpo	boil	shadu
+Lahu Shi	boil	tsA35
+Lahu Na	boil	caq
+Zaozou	boil	tɕiɔ 44
+Jinuo	boil	tʃha
+Naxi	boil	tɕә55
+Zaiwa	boil	tʃo_ 55
+Mandarin	bone	gu to30
+Nasu	bone	ɣɯ 21
+Lisu	bone	o 42 to 44
+Baihong	bone	sa31 ʐɨ31
+Hani	bone	saqyyuq
+Nosu	bone	-
+Samei	bone	ha v(y)
+Nisu	bone	ɣɯ 33
+Biyue	bone	o31 ji31
+Kucong	bone	a ga
+Nusu	bone	ʐɨ
+Jinghpo	bone	nra
+Lahu Shi	bone	ɔ31 u53 ku33
+Lahu Na	bone	awl mur ku
+Zaozou	bone	xo 31 ʔua 44
+Jinuo	bone	ʃɔ ɯ
+Naxi	bone	so33 lo33
+Zaiwa	bone	ʃo` 21 vui 21
+Mandarin	bow	gong1
+Nasu	bow	tɕha_ 55
+Lisu	bow	mia 31 ma 33
+Baihong	bow	ga55 dɤ (dɯ?)31
+Hani	bow	kavtev
+Nosu	bow	hot
+Samei	bow	-
+Nisu	bow	lo 55 bɛ_ 33
+Biyue	bow	-
+Kucong	bow	kha
+Nusu	bow	li
+Jinghpo	bow	ndan
+Lahu Shi	bow	lɛ35 bɔ53
+Lahu Na	bow	khaq
+Zaozou	bow	le 31 kha 42
+Jinuo	bow	lɯ pja
+Naxi	bow	lɯ33 ɣɯ
+Zaiwa	bow	lai 21
+Mandarin	bowl	wan3
+Nasu	bowl	pa_ 21
+Lisu	bowl	sɨ 55 kɯ 55
+Baihong	bowl	xo (xɔ)31 ma31
+Hani	bowl	haoq maq
+Nosu	bowl	zhepsse
+Samei	bowl	si (ɕi?)
+Nisu	bowl	pi_ɛ_ 33 sE 33
+Biyue	bowl	kɔ31 jɔ31
+Kucong	bowl	kho
+Nusu	bowl	phɯ
+Jinghpo	bowl	wan
+Lahu Shi	bowl	A33 khɛ53
+Lahu Na	bowl	awl khied
+Zaozou	bowl	e 35 læ 31
+Jinuo	bowl	lo phʊ
+Naxi	bowl	khua55
+Zaiwa	bowl	khoʔ 55
+Mandarin	boy	nan hai22
+Nasu	boy	ɬa_ 55 zo 33
+Lisu	boy	za 31 gu 31 lɛ 55
+Baihong	boy	ja31 jo (jʊ?)55
+Hani	boy	-
+Nosu	boy	ssevo
+Samei	boy	ʂɨ le lɔ
+Nisu	boy	tʂhA 21 ɬi_ɛ_ 21
+Biyue	boy	ɕɔ31 xɔ31 dzɨ
+Kucong	boy	xɔ qha ba
+Nusu	boy	ju~ ʐwɔ
+Jinghpo	boy	shadang sha
+Lahu Shi	boy	tshɔ33 xA35
+Lahu Na	boy	ca* ba*
+Zaozou	boy	ku 31 lou 31 zo 31
+Jinuo	boy	khɒ phɒ zɒ kʊ
+Naxi	boy	zwɔ zy
+Zaiwa	boy	i 21 ʒam 51
+Mandarin	brain	nao zi30
+Nasu	brain	ʔu 33 no 55
+Lisu	brain	o 55 nɯ 55
+Baihong	brain	ʊ55 nʊ31
+Hani	brain	wuqnaovq
+Nosu	brain	onot
+Samei	brain	no
+Nisu	brain	ʔu_ 33 nu_ 21
+Biyue	brain	v.31 xe31
+Kucong	brain	u nɔ
+Nusu	brain	o xiu~
+Jinghpo	brain	bonu
+Lahu Shi	brain	u~ŋ35 nɛ31
+Lahu Na	brain	uq nawr
+Zaozou	brain	ɣɯ 31 na 44
+Jinuo	brain	v. no
+Naxi	brain	gʊ fv. dʑi
+Zaiwa	brain	u 21 nuʔ 55
+Mandarin	branch	zhi1
+Nasu	branch	si_ 21 ka_ 55
+Lisu	branch	sɨ 35 lɛ 31 ka 55
+Baihong	branch	a55 la31
+Hani	branch	al lavq
+Nosu	branch	lot
+Samei	branch	ʂɨ gau
+Nisu	branch	sɨ_ 33 li_ɛ_ 21
+Biyue	branch	la31 ja55
+Kucong	branch	çә gaj læ
+Nusu	branch	-
+Jinghpo	branch	lakying
+Lahu Shi	branch	sɨ54 qA35
+Lahu Na	branch	sit qaq
+Zaozou	branch	sæ 55 ?ɯ 35
+Jinuo	branch	a la
+Naxi	branch	ndzәr31 gɯ
+Zaiwa	branch	sik 55 kja_ŋ 51
+Mandarin	break (damage)	nong huai24
+Nasu	break (damage)	ʈha_ 21
+Lisu	break (damage)	phiɛ 35 thɯ 33
+Baihong	break (damage)	dzɤ31 bje31
+Hani	break (damage)	-
+Nosu	break (damage)	-
+Samei	break (damage)	di khɔ
+Nisu	break (damage)	gu 21 nɛ_ 33
+Biyue	break (damage)	mi55 bje31
+Kucong	break (damage)	xɯ no
+Nusu	break (damage)	mu gi
+Jinghpo	break (damage)	-
+Lahu Shi	break (damage)	phuo35 xuAi35
+Lahu Na	break (damage)	tie* lul (= nong + huai)
+Zaozou	break (damage)	mu 33 a 44
+Jinuo	break (damage)	mɯ ɬæ (ɬæ = bad)
+Naxi	break (damage)	phiә55 phiә33
+Zaiwa	break (damage)	lo_? 55 phjoʔ 51
+Mandarin	break in two (as a branch)	duan4
+Nasu	break in two (as a branch)	ɖɯ 33
+Lisu	break in two (as a branch)	kho 35 ʒe 44
+Baihong	break in two (as a branch)	dʑe31
+Hani	break in two (as a branch)	ceiv
+Nosu	break in two (as a branch)	-
+Samei	break in two (as a branch)	thi gɔ
+Nisu	break in two (as a branch)	thɯ 33
+Biyue	break in two (as a branch)	dɕe33
+Kucong	break in two (as a branch)	ce
+Nusu	break in two (as a branch)	tʂɨ
+Jinghpo	break in two (as a branch)	do
+Lahu Shi	break in two (as a branch)	ɔŋ35 thɛ33
+Lahu Na	break in two (as a branch)	thie*
+Zaozou	break in two (as a branch)	kɯ 31
+Jinuo	break in two (as a branch)	thɯ
+Naxi	break in two (as a branch)	-
+Zaiwa	break in two (as a branch)	kjui 21
+Mandarin	breast	nai3
+Nasu	breast	a 55 pa_ 21
+Lisu	breast	a 55 tʃɨ 35
+Baihong	breast	a31 tʃɨ55
+Hani	breast	aq qul
+Nosu	breast	axnie
+Samei	breast	a bi
+Nisu	breast	A 55 nɯ 21
+Biyue	breast	na55 nv.33
+Kucong	breast	ɟu
+Nusu	breast	nɯ nɯ
+Jinghpo	breast	chyu
+Lahu Shi	breast	dzu35 pɛ31
+Lahu Na	breast	cuq
+Zaozou	breast	na 35 pho 42
+Jinuo	breast	me po
+Naxi	breast	zɔ
+Zaiwa	breast	nau 55
+Mandarin	breathe	hu xi11
+Nasu	breathe	-
+Lisu	breathe	-
+Baihong	breathe	sa31 wo (ɣo?)55
+Hani	breathe	savq hhol
+Nosu	breathe	sotcyp sotmgo
+Samei	breathe	se tswa
+Nisu	breathe	-
+Biyue	breathe	-
+Kucong	breathe	ça qo
+Nusu	breathe	swɔ
+Jinghpo	breathe	nsa sa
+Lahu Shi	breathe	-
+Lahu Na	breathe	shaq xawl
+Zaozou	breathe	-
+Jinuo	breathe	a sa ka
+Naxi	breathe	sa khɯ
+Zaiwa	breathe	-
+Mandarin	bright	ming liang24
+Nasu	bright	bo_ 21
+Lisu	bright	lɛ 35
+Baihong	bright	ba55
+Hani	bright	bia loq nei
+Nosu	bright	ssi
+Samei	bright	ljɔ
+Nisu	bright	bo 21
+Biyue	bright	lɤ31
+Kucong	bright	ɟɛ ba
+Nusu	bright	dʐœ
+Jinghpo	bright	san
+Lahu Shi	bright	bA33
+Lahu Na	bright	ba ca*
+Zaozou	bright	pa~o 35
+Jinuo	bright	a pɹɔ
+Naxi	bright	mbu33
+Zaiwa	bright	san 21
+Mandarin	build	jian zhu44
+Nasu	build	-
+Lisu	build	-
+Baihong	build	dzʊ31
+Hani	build	laqhyul cuv
+Nosu	build	-
+Samei	build	xi v. (xi = house)
+Nisu	build	-
+Biyue	build	-
+Kucong	build	ʝɛ co
+Nusu	build	gwo
+Jinghpo	build	shachyo
+Lahu Shi	build	-
+Lahu Na	build	yie* te
+Zaozou	build	-
+Jinuo	build	khe
+Naxi	build	-
+Zaiwa	build	-
+Mandarin	burn	ran shao21
+Nasu	burn	-
+Lisu	burn	-
+Baihong	burn	pɤ31
+Hani	burn	peev
+Nosu	burn	jjie
+Samei	burn	do zo
+Nisu	burn	-
+Biyue	burn	-
+Kucong	burn	mi du
+Nusu	burn	dzY
+Jinghpo	burn	hkru
+Lahu Shi	burn	-
+Lahu Na	burn	tor ca*
+Zaozou	burn	-
+Jinuo	burn	pɹo (?)
+Naxi	burn	ndʐɨ
+Zaiwa	burn	-
+Mandarin	butt	pi gu40
+Nasu	butt	-
+Lisu	butt	-
+Baihong	butt	do31 me55
+Hani	butt	-
+Nosu	butt	-
+Samei	butt	-
+Nisu	butt	-
+Biyue	butt	-
+Kucong	butt	-
+Nusu	butt	phi ba
+Jinghpo	butt	-
+Lahu Shi	butt	-
+Lahu Na	butt	-
+Zaozou	butt	-
+Jinuo	butt	-
+Naxi	butt	tɕɛ kwәr
+Zaiwa	butt	-
+Mandarin	buy	mai3
+Nasu	buy	vo, 21
+Lisu	buy	vu 33
+Baihong	buy	ɯ (ɣɯ?)55
+Hani	buy	hhel
+Nosu	buy	miep
+Samei	buy	vɤ
+Nisu	buy	vE 21
+Biyue	buy	v.55
+Kucong	buy	vә
+Nusu	buy	we
+Jinghpo	buy	mari
+Lahu Shi	buy	vɯ31
+Lahu Na	buy	veol
+Zaozou	buy	ve 33
+Jinuo	buy	ju
+Naxi	buy	xa31
+Zaiwa	buy	vui 51
+Mandarin	candle	la zhu42
+Nasu	candle	la_ 21 tʂu_ 21
+Lisu	candle	la 31 tʂu 31
+Baihong	candle	la dʒu
+Hani	candle	biaq saoq al dovq
+Nosu	candle	lapcy dutdda
+Samei	candle	-
+Nisu	candle	lA_ 21 tʂu_ 21
+Biyue	candle	-
+Kucong	candle	bjɛ xo
+Nusu	candle	la dʐu
+Jinghpo	candle	hpayongdeng
+Lahu Shi	candle	-
+Lahu Na	candle	pied khaw*
+Zaozou	candle	la 35 tsu 35
+Jinuo	candle	-
+Naxi	candle	la 13 tsu 13
+Zaiwa	candle	pjo` 21 pau 55 mji 21
+Mandarin	cat	mao1
+Nasu	cat	a 33 mɚ_ 55
+Lisu	cat	a 31 ni 33 za 31
+Baihong	cat	a55 mi55
+Hani	cat	al mil
+Nosu	cat	axnyie
+Samei	cat	mә mi
+Nisu	cat	A 55 nE 33
+Biyue	cat	a55 ɲi55
+Kucong	cat	mi næ
+Nusu	cat	ma ɲɛ
+Jinghpo	cat	nyau
+Lahu Shi	cat	nA35 mi35
+Lahu Na	cat	mieq ni
+Zaozou	cat	pa 31 ɲi 35
+Jinuo	cat	jo me
+Naxi	cat	xua55 le31
+Zaiwa	cat	la` 21 ɲa_u 55
+Mandarin	catch	zhuo1
+Nasu	catch	ʑu 21
+Lisu	catch	zu 33
+Baihong	catch	-
+Hani	catch	-
+Nosu	catch	-
+Samei	catch	-
+Nisu	catch	ʐu 21
+Biyue	catch	ɲi33
+Kucong	catch	-
+Nusu	catch	-
+Jinghpo	catch	-
+Lahu Shi	catch	ni31
+Lahu Na	catch	-
+Zaozou	catch	næ 31
+Jinuo	catch	-
+Naxi	catch	-
+Zaiwa	catch	tʃu_p 55
+Mandarin	caterpillar	mao chong22
+Nasu	caterpillar	tʂhi_ 55 bu 21 mi 33 tsɨ 33
+Lisu	caterpillar	bɯ 31 tshu 31 sɛ 35
+Baihong	caterpillar	a31 bi31
+Hani	caterpillar	aq zuq
+Nosu	caterpillar	-
+Samei	caterpillar	v. (= insect)
+Nisu	caterpillar	bɤ 21 dʐɨ 33
+Biyue	caterpillar	bi31 dʒv.31
+Kucong	caterpillar	bu mɯ
+Nusu	caterpillar	a sɨ (si?) ba (same as insect)
+Jinghpo	caterpillar	sumbra
+Lahu Shi	caterpillar	po31 mɤ31 sɯ54
+Lahu Na	caterpillar	peoq meof peu*
+Zaozou	caterpillar	pa 42 ɕi 55 pɔ 35 o~ 33
+Jinuo	caterpillar	pu tʃu
+Naxi	caterpillar	-
+Zaiwa	caterpillar	tuŋ 51 saŋ 21
+Mandarin	cattle	niu3
+Nasu	cattle	ɲɯ 33
+Lisu	cattle	a 55 ɲi 31
+Baihong	cattle	a31 ɲu31
+Hani	cattle	aq niuq
+Nosu	cattle	le
+Samei	cattle	a nә
+Nisu	cattle	ni 33
+Biyue	cattle	v.55 nv.31 mo53 no31
+Kucong	cattle	ɲu
+Nusu	cattle	nu
+Jinghpo	cattle	nga
+Lahu Shi	cattle	nu53
+Lahu Na	cattle	nud
+Zaozou	cattle	nu 31
+Jinuo	cattle	me nju (= huangniu); pɔ na (= shuiniu)
+Naxi	cattle	ɣɯ33
+Zaiwa	cattle	no 21
+Mandarin	cave	shan dong14
+Nasu	cave	fa_ 55 bɔ 33
+Lisu	cave	ɣa 55 tʃhɨ 44 khu 31
+Baihong	cave	-
+Hani	cave	-
+Nosu	cave	-
+Samei	cave	-
+Nisu	cave	bɤ 21 lu 55 tɤ 21
+Biyue	cave	mi53 ko55
+Kucong	cave	-
+Nusu	cave	-
+Jinghpo	cave	-
+Lahu Shi	cave	mi31 qhɔ33 qu31
+Lahu Na	cave	-
+Zaozou	cave	ɔ 31 tɔ~ 31 tɔ~ 31
+Jinuo	cave	-
+Naxi	cave	-
+Zaiwa	cave	pum 51 toŋ 21
+Mandarin	chicken	ji1
+Nasu	chicken	ɣa_ 21
+Lisu	chicken	a 55 ɣa 55
+Baihong	chicken	a31 xa55
+Hani	chicken	aq ha
+Nosu	chicken	va
+Samei	chicken	ʑi
+Nisu	chicken	ʑi_ɛ_ 33
+Biyue	chicken	ja33
+Kucong	chicken	ɣɔ
+Nusu	chicken	ʐo
+Jinghpo	chicken	u
+Lahu Shi	chicken	ɣA54
+Lahu Na	chicken	xat
+Zaozou	chicken	ʔu 42
+Jinuo	chicken	ja
+Naxi	chicken	a31
+Zaiwa	chicken	voʔ 21
+Mandarin	claw	zhua3
+Nasu	claw	da_ 55
+Lisu	claw	lɛ 31 se 31
+Baihong	claw	la31 sɤ55
+Hani	claw	seiqsaoq
+Nosu	claw	xyxsi
+Samei	claw	-
+Nisu	claw	li_ɛ_ 21 ʂɨ 33
+Biyue	claw	po31 sɨ31
+Kucong	claw	la ga
+Nusu	claw	lo sæ (se?)
+Jinghpo	claw	lamyin
+Lahu Shi	claw	lA 21 qA53
+Lahu Na	claw	kheu shif
+Zaozou	claw	tɯ 55 se~ 31 vu 35
+Jinuo	claw	la sɨ (sɚ?)
+Naxi	claw	tʂә31
+Zaiwa	claw	san 21
+Mandarin	clay	nian tu23
+Nasu	clay	-
+Lisu	clay	-
+Baihong	clay	dza31 ge55
+Hani	clay	milneiq milnil
+Nosu	clay	zapnyo
+Samei	clay	ɲi ho (same as mud)
+Nisu	clay	-
+Biyue	clay	-
+Kucong	clay	ni cә
+Nusu	clay	-
+Jinghpo	clay	ga gitnai
+Lahu Shi	clay	-
+Lahu Na	clay	jed nawd
+Zaozou	clay	-
+Jinuo	clay	a pɹɯ
+Naxi	clay	dʐɨ nda
+Zaiwa	clay	-
+Mandarin	close (shut)	guan bi14
+Nasu	close (shut)	pi 55
+Lisu	close (shut)	tsɨ 55
+Baihong	close (shut)	ɣɯ (ɯ?)55 pi31
+Hani	close (shut)	piq
+Nosu	close (shut)	ggot
+Samei	close (shut)	u dʐɨ
+Nisu	close (shut)	pi 21
+Biyue	close (shut)	v.55 pi31
+Kucong	close (shut)	xu
+Nusu	close (shut)	bi
+Jinghpo	close (shut)	la
+Lahu Shi	close (shut)	fu54
+Lahu Na	close (shut)	hot
+Zaozou	close (shut)	tɕiɔ 35
+Jinuo	close (shut)	phi
+Naxi	close (shut)	tәr55
+Zaiwa	close (shut)	mji 21
+Mandarin	clothes	yi fu10
+Nasu	clothes	mbhe 33
+Lisu	clothes	ba 33 tshɨ 31
+Baihong	clothes	pa55 xoŋ31
+Hani	clothes	peilhaoq
+Nosu	clothes	vitgga
+Samei	clothes	a thaɔr
+Nisu	clothes	thA 21
+Biyue	clothes	go31 dʒɨ31
+Kucong	clothes	a çja
+Nusu	clothes	go; gwɔ
+Jinghpo	clothes	labu palong
+Lahu Shi	clothes	A31 pu31
+Lahu Na	clothes	aq por
+Zaozou	clothes	mi 33 kɯ 33
+Jinuo	clothes	kɔ tɯ
+Naxi	clothes	mba33 la31
+Zaiwa	clothes	pu 21
+Mandarin	cloud	yun2
+Nasu	cloud	to, 33
+Lisu	cloud	mu 44 ku 55
+Baihong	cloud	dʒɨ55 xo55
+Hani	cloud	joqhyuq
+Nosu	cloud	hxip
+Samei	cloud	-
+Nisu	cloud	tE 55
+Biyue	cloud	ɲi31 tɕi31
+Kucong	cloud	mɔ fi
+Nusu	cloud	pɯ
+Jinghpo	cloud	samui
+Lahu Shi	cloud	mo31 fi53
+Lahu Na	cloud	mol
+Zaozou	cloud	tɕiæ~ 55
+Jinuo	cloud	pɯ te (= cotton)
+Naxi	cloud	tɕi31
+Zaiwa	cloud	mu_t 55 mau 55
+Mandarin	coarse	cu cao11
+Nasu	coarse	sa_ 21
+Lisu	coarse	sɛ 35 su 31 mu 44
+Baihong	coarse	ju (ʒo?)31 di31 le31
+Hani	coarse	savtuvnei
+Nosu	coarse	culuhele
+Samei	coarse	phɯ (??)
+Nisu	coarse	ɕi_ɛ_ 33
+Biyue	coarse	tʃv.33
+Kucong	coarse	ça
+Nusu	coarse	ʑi
+Jinghpo	coarse	mazut mazat
+Lahu Shi	coarse	mA53 dA 21
+Lahu Na	coarse	shat
+Zaozou	coarse	tɕhu 35 tɯ 44 tɯ 42
+Jinuo	coarse	a su a sæ
+Naxi	coarse	bœ
+Zaiwa	coarse	kjut 21
+Mandarin	cockroach	zhang1 lang2
+Nasu	cockroach	-
+Lisu	cockroach	-
+Baihong	cockroach	a31 pa31 la55 ɣa55 ma55
+Hani	cockroach	al pia
+Nosu	cockroach	bbusyxsy
+Samei	cockroach	-
+Nisu	cockroach	-
+Biyue	cockroach	-
+Kucong	cockroach	bi ba ɣu (~gu?)
+Nusu	cockroach	-
+Jinghpo	cockroach	shalip
+Lahu Shi	cockroach	-
+Lahu Na	cockroach	piq pa
+Zaozou	cockroach	-
+Jinuo	cockroach	pu phɹɔ lɔ phɹɔ
+Naxi	cockroach	bә di
+Zaiwa	cockroach	-
+Mandarin	cold	leng3
+Nasu	cold	njhɔ 21
+Lisu	cold	dʒɛ 44
+Baihong	cold	ga55
+Hani	cold	gav
+Nosu	cold	mgo
+Samei	cold	dzɔ
+Nisu	cold	ji_ɛ_ 33
+Biyue	cold	dzv.31
+Kucong	cold	ga
+Nusu	cold	dʐwɔ
+Jinghpo	cold	gatsi
+Lahu Shi	cold	kA53
+Lahu Na	cold	kat
+Zaozou	cold	kou 42
+Jinuo	cold	tʃho
+Naxi	cold	tɕhi55
+Zaiwa	cold	kjoʔ 21
+Mandarin	color	yan se24
+Nasu	color	ʑe_ 21 sɤ_ 21
+Lisu	color	phi 31
+Baihong	color	jæn (ʒæn?)31 sɤ31
+Hani	color	zaqciq
+Nosu	color	nyitnjy
+Samei	color	-
+Nisu	color	zi_ɛ_ 21 sɤ_ 21
+Biyue	color	o31 sɤ31
+Kucong	color	-
+Nusu	color	jæ~ sɤ
+Jinghpo	color	nsam
+Lahu Shi	color	-
+Lahu Na	color	awl sheoq
+Zaozou	color	tɯ 55 ʑi 42 sɯ 35
+Jinuo	color	a khja
+Naxi	color	jæn sә
+Zaiwa	color	i_ 21 sam 51
+Mandarin	come	lai2
+Nasu	come	le 21
+Lisu	come	la 33
+Baihong	come	la31
+Hani	come	lal
+Nosu	come	la
+Samei	come	go li
+Nisu	come	liɛ 21
+Biyue	come	la55
+Kucong	come	la
+Nusu	come	do
+Jinghpo	come	sa
+Lahu Shi	come	lA31
+Lahu Na	come	lal
+Zaozou	come	le 35
+Jinuo	come	lɒ
+Naxi	come	lɔ
+Zaiwa	come	le 55
+Mandarin	cooked	shu2
+Nasu	cooked	mɚ 21
+Lisu	cooked	e 55 mi 44
+Baihong	cooked	mɔ55
+Hani	cooked	miao
+Nosu	cooked	-
+Samei	cooked	mi
+Nisu	cooked	mi_ɛ_ 21
+Biyue	cooked	mi33
+Kucong	cooked	mæ
+Nusu	cooked	ɲo
+Jinghpo	cooked	hkut
+Lahu Shi	cooked	mɛ33
+Lahu Na	cooked	mie
+Zaozou	cooked	mi 42
+Jinuo	cooked	a tʃa (same as ripe)
+Naxi	cooked	-
+Zaiwa	cooked	ɲoʔ 21
+Mandarin	cough	ke sou20
+Nasu	cough	tsɯ 55
+Lisu	cough	tsɨ 55
+Baihong	cough	-
+Hani	cough	-
+Nosu	cough	zyp
+Samei	cough	dʐɨ(r?) (dzɨ ?)
+Nisu	cough	tʂɨ 21
+Biyue	cough	tʃɨ31
+Kucong	cough	-
+Nusu	cough	-
+Jinghpo	cough	jahkru
+Lahu Shi	cough	tsɨ31
+Lahu Na	cough	zif
+Zaozou	cough	tsha 31 ɣɯ 31 tsa 44
+Jinuo	cough	-
+Naxi	cough	tʂәr33
+Zaiwa	cough	khjuŋ 21 tsau 21
+Mandarin	crow	wu1 ya1
+Nasu	crow	a 55 je 33
+Lisu	crow	a 55 nɛ 55
+Baihong	crow	ɔ55 na55
+Hani	crow	haqnav'aqma
+Nosu	crow	axiji
+Samei	crow	a ne
+Nisu	crow	A 55 niɛ_ 33
+Biyue	crow	lɤ31 ŋa31
+Kucong	crow	a na qɔ
+Nusu	crow	dʐɨ no
+Jinghpo	crow	uhka
+Lahu Shi	crow	A31 nA31 dzɨ
+Lahu Na	crow	aq nat qaf
+Zaozou	crow	lou 31 pɔ 33 o~ 33
+Jinuo	crow	u ja
+Naxi	crow	la33 ka31
+Zaiwa	crow	ŋo`ʔ 55 noʔ 21
+Mandarin	cry	ku1
+Nasu	cry	ŋɯ 21
+Lisu	cry	ŋu 33
+Baihong	cry	ny55
+Hani	cry	ngyul
+Nosu	cry	yingox
+Samei	cry	ŋy
+Nisu	cry	ŋɯ 55
+Biyue	cry	ɲi55
+Kucong	cry	xo
+Nusu	cry	ŋɯ
+Jinghpo	cry	hkrap
+Lahu Shi	cry	xɔ~31
+Lahu Na	cry	hawl
+Zaozou	cry	ŋɯ 33
+Jinuo	cry	ɲy
+Naxi	cry	ŋv.31
+Zaiwa	cry	ŋau 51
+Mandarin	cucumber	huang gua21
+Nasu	cucumber	sa 33 tɕe 33
+Lisu	cucumber	a 31 pu 44
+Baihong	cucumber	si31 xo31
+Hani	cucumber	siqhuvq
+Nosu	cucumber	-
+Samei	cucumber	-
+Nisu	cucumber	ʂA 21 tɕiɛ 33
+Biyue	cucumber	so31 ko31
+Kucong	cucumber	a pho çi
+Nusu	cucumber	zwa
+Jinghpo	cucumber	n-gyin
+Lahu Shi	cucumber	A33 phAi53
+Lahu Na	cucumber	a phied
+Zaozou	cucumber	ta~ 44 khu 42
+Jinuo	cucumber	sɨ khu
+Naxi	cucumber	-
+Zaiwa	cucumber	tuŋ 51 kho 21
+Mandarin	cup	bei1 zi0
+Nasu	cup	lo_ 55 tɕe 33 ʑi 33 pa_ 21
+Lisu	cup	do 33 kɯ 55
+Baihong	cup	be55 dzɨ31
+Hani	cup	-
+Nosu	cup	bixzy
+Samei	cup	-
+Nisu	cup	tʂhA_ 21 pE 33
+Biyue	cup	-
+Kucong	cup	bej
+Nusu	cup	bej dzɨ
+Jinghpo	cup	gom
+Lahu Shi	cup	pei33 tsɨ33
+Lahu Na	cup	khied (same as bowl)
+Zaozou	cup	tɕio~ 42 tɕu 35 læ 31
+Jinuo	cup	pʊ tho
+Naxi	cup	bej dzɨ
+Zaiwa	cup	pha? 21 lap 21 kom 51
+Mandarin	cut	qie1
+Nasu	cut	so_ 21
+Lisu	cut	ɣo 44
+Baihong	cut	je (ʒe?)31
+Hani	cut	yeiq
+Nosu	cut	wo
+Samei	cut	so
+Nisu	cut	ʂu_ 33
+Biyue	cut	ji31
+Kucong	cut	wo
+Nusu	cut	no
+Jinghpo	cut	mot
+Lahu Shi	cut	sɔ54
+Lahu Na	cut	shawt
+Zaozou	cut	ɣæ 33
+Jinuo	cut	tɒ
+Naxi	cut	xer55
+Zaiwa	cut	xum 51
+Mandarin	dance	tiao wu43
+Nasu	dance	go_ 21 ʈhi_ 21
+Lisu	dance	kua 44 khi 35 khi 35
+Baihong	dance	tsɔ
+Hani	dance	haqhhal seil
+Nosu	dance	biexqie
+Samei	dance	dy tjɔ (song + borrowed 'tiao'?)
+Nisu	dance	ko 33 pi_ 33
+Biyue	dance	tiau35 v.33
+Kucong	dance	ɲo çæ
+Nusu	dance	go
+Jinghpo	dance	ka
+Lahu Shi	dance	qA31 qhi53
+Lahu Na	dance	qa* khie*
+Zaozou	dance	thiɔ 55
+Jinuo	dance	thjɒ mә
+Naxi	dance	tsho33 tsho33
+Zaiwa	dance	ma` khon 51 ko 51
+Mandarin	dark	an4
+Nasu	dark	na_ 33 dɯ 33
+Lisu	dark	nɛ 44 tshi 35
+Baihong	dark	na55
+Hani	dark	navhaoq
+Nosu	dark	-
+Samei	dark	ne bʊ
+Nisu	dark	ni_ɛ_ 33
+Biyue	dark	na33
+Kucong	dark	na xu
+Nusu	dark	khә
+Jinghpo	dark	sin
+Lahu Shi	dark	mɛ54 mA53 mɔ31
+Lahu Na	dark	nat hor
+Zaozou	dark	ʔi~ 44
+Jinuo	dark	a na
+Naxi	dark	-
+Zaiwa	dark	no? 21
+Mandarin	daughter	nü er32
+Nasu	daughter	-
+Lisu	daughter	-
+Baihong	daughter	ja31 mi31
+Hani	daughter	-
+Nosu	daughter	-
+Samei	daughter	-
+Nisu	daughter	-
+Biyue	daughter	-
+Kucong	daughter	-
+Nusu	daughter	-
+Jinghpo	daughter	num sha
+Lahu Shi	daughter	-
+Lahu Na	daughter	-
+Zaozou	daughter	-
+Jinuo	daughter	-
+Naxi	daughter	-
+Zaiwa	daughter	-
+Mandarin	day	bai tian21
+Nasu	day	mu 33 ɲi 21
+Lisu	day	mo 42 lo 44
+Baihong	day	ʊ31 nɔ55
+Hani	day	naohhaol
+Nosu	day	munyipmop
+Samei	day	mә nә
+Nisu	day	mu 33 ni 21
+Biyue	day	ɲi33 ko55
+Kucong	day	mɔ xɔ gɔ
+Nusu	day	ɲi tsa
+Jinghpo	day	shani shingtung
+Lahu Shi	day	mo55 qɔ33
+Lahu Na	day	mud law* gaw*
+Zaozou	day	mɯ 35 kha 35
+Jinuo	day	ɲi kɔ
+Naxi	day	ɲi33 le55 ŋgv.33
+Zaiwa	day	ɲi 55 khjui 55
+Mandarin	deep	shen1
+Nasu	deep	na_ 55
+Lisu	deep	nɛ 55
+Baihong	deep	nɤ (na?)31
+Hani	deep	navq
+Nosu	deep	ahnut
+Samei	deep	ne
+Nisu	deep	ni_ɛ_ 21
+Biyue	deep	ne31
+Kucong	deep	na
+Nusu	deep	tʂu
+Jinghpo	deep	sung
+Lahu Shi	deep	nA35
+Lahu Na	deep	naq
+Zaozou	deep	hæ~ 33
+Jinuo	deep	ji na (many +)
+Naxi	deep	xo55
+Zaiwa	deep	nik 21
+Mandarin	descend	xia4
+Nasu	descend	za_ 55
+Lisu	descend	zɛ 31
+Baihong	descend	ʐɨ (ʐe)
+Hani	descend	ssavq yil
+Nosu	descend	jjyp
+Samei	descend	ze ʑi
+Nisu	descend	tɯ 33
+Biyue	descend	go33 ji55
+Kucong	descend	ʝa kha (kha = go)
+Nusu	descend	thɯ
+Jinghpo	descend	yu
+Lahu Shi	descend	zA 21
+Lahu Na	descend	yar e (xiaqu)
+Zaozou	descend	kɔ 35
+Jinuo	descend	zaj (zae?)
+Naxi	descend	mә
+Zaiwa	descend	kjo 55
+Mandarin	die	si3
+Nasu	die	ɕi 33
+Lisu	die	ʃɨ 44
+Baihong	die	sɨ31
+Hani	die	sil
+Nosu	die	sy
+Samei	die	ʂɨ go
+Nisu	die	ʂɨ 21
+Biyue	die	ʃɨ55
+Kucong	die	çә
+Nusu	die	ɕi
+Jinghpo	die	si
+Lahu Shi	die	sɨ55
+Lahu Na	die	si
+Zaozou	die	ɕi 55
+Jinuo	die	ɕi
+Naxi	die	ʂɯ33
+Zaiwa	die	ʃi 55
+Mandarin	difficult	nan2
+Nasu	difficult	pa_ 55 kha_ 33
+Lisu	difficult	xua 55
+Baihong	difficult	nan31
+Hani	difficult	syuq
+Nosu	difficult	wezze
+Samei	difficult	nɔ; nә hɔ
+Nisu	difficult	tɕhi_ɛ_ 33
+Biyue	difficult	sɔ31
+Kucong	difficult	ɟә na
+Nusu	difficult	gja
+Jinghpo	difficult	yak
+Lahu Shi	difficult	ti33 mA31 sA33
+Lahu Na	difficult	hawq
+Zaozou	difficult	tɕhia~ 31
+Jinuo	difficult	ja
+Naxi	difficult	njә31
+Zaiwa	difficult	vui 21
+Mandarin	dig	wa1
+Nasu	dig	kɚ_ 55
+Lisu	dig	du 31
+Baihong	dig	dv.55
+Hani	dig	duq
+Nosu	dig	ndu
+Samei	dig	ga
+Nisu	dig	kɛ_ 21
+Biyue	dig	dv.31
+Kucong	dig	du
+Nusu	dig	du
+Jinghpo	dig	htu
+Lahu Shi	dig	kA31
+Lahu Na	dig	qawd
+Zaozou	dig	uæ 42
+Jinuo	dig	tu
+Naxi	dig	jjɛ
+Zaiwa	dig	khai 21
+Mandarin	dog	gou3
+Nasu	dog	tɕhi 33
+Lisu	dog	a 55 na 31
+Baihong	dog	a31 kɯ55
+Hani	dog	aq keeq
+Nosu	dog	ke
+Samei	dog	khy
+Nisu	dog	tshɨ 33
+Biyue	dog	kɤ31
+Kucong	dog	phɯ
+Nusu	dog	khwi
+Jinghpo	dog	gui
+Lahu Shi	dog	phɯ53
+Lahu Na	dog	pheud
+Zaozou	dog	khyi 31
+Jinuo	dog	khy jo
+Naxi	dog	khɯ33
+Zaiwa	dog	khui 21
+Mandarin	door	men2
+Nasu	door	a 21 ŋgho 33
+Lisu	door	a 55 khɯ 31
+Baihong	door	lɔ55 ʊ31
+Hani	door	lulhhuv
+Nosu	door	ipko
+Samei	door	a khe
+Nisu	door	go 21
+Biyue	door	ji55 gv.33
+Kucong	door	ɣa mi
+Nusu	door	khɔ
+Jinghpo	door	nhka
+Lahu Shi	door	ɣA54 mi31
+Lahu Na	door	yiel miq
+Zaozou	door	khæ 31 kha 42
+Jinuo	door	a ko
+Naxi	door	khu33
+Zaiwa	door	khum 21
+Mandarin	dream (n)	meng4
+Nasu	dream (n)	ʑi_ 55 ma_ 33
+Lisu	dream (n)	e 31 mɛ 33
+Baihong	dream (n)	ma55 dʊ55
+Hani	dream (n)	yiuvq mav
+Nosu	dream (n)	ietmuop
+Samei	dream (n)	ʑi me
+Nisu	dream (n)	zɨ_ 21 mi_ɛ_ 21
+Biyue	dream (n)	ma33 mi55
+Kucong	dream (n)	ʝә (?) ma
+Nusu	dream (n)	hmɯ
+Jinghpo	dream (n)	yupmang
+Lahu Shi	dream (n)	zɨ31 mA33
+Lahu Na	dream (n)	rir mat
+Zaozou	dream (n)	ɣæ 33 mo 42
+Jinuo	dream (n)	mi ma
+Naxi	dream (n)	ʑi55 mu33
+Zaiwa	dream (n)	ju_p 55 mo? 21
+Mandarin	dress, to	chuan1
+Nasu	dress, to	go 55
+Lisu	dress, to	gua 31
+Baihong	dress, to	dv.55
+Hani	dress, to	dao
+Nosu	dress, to	ggat
+Samei	dress, to	vi
+Nisu	dress, to	vi_ 21
+Biyue	dress, to	di33
+Kucong	dress, to	vɯ
+Nusu	dress, to	wa
+Jinghpo	dress, to	hpun
+Lahu Shi	dress, to	vɯ 21
+Lahu Na	dress, to	veu*
+Zaozou	dress, to	va 42
+Jinuo	dress, to	tɯ
+Naxi	dress, to	mu31
+Zaiwa	dress, to	vut 21
+Mandarin	drink	he1
+Nasu	drink	ndhɔ 21
+Lisu	drink	do 33
+Baihong	drink	dɔ55
+Hani	drink	dol
+Nosu	drink	-
+Samei	drink	du (dʊ?)
+Nisu	drink	dA 21
+Biyue	drink	do55
+Kucong	drink	do
+Nusu	drink	ʂu
+Jinghpo	drink	lu
+Lahu Shi	drink	dɔ31
+Lahu Na	drink	dawl
+Zaozou	drink	fu 42
+Jinuo	drink	tɒ
+Naxi	drink	-
+Zaiwa	drink	ʃuʔ 55
+Mandarin	drum	gu3
+Nasu	drum	dzɔ 21
+Lisu	drum	da 31 khu 35
+Baihong	drum	lɯ31 dɯ31
+Hani	drum	luqduq
+Nosu	drum	gozzi
+Samei	drum	ji bo
+Nisu	drum	dzE 21 po 33
+Biyue	drum	pi31 mo33
+Kucong	drum	gu
+Nusu	drum	gu
+Jinghpo	drum	chying
+Lahu Shi	drum	luo31 ku53
+Lahu Na	drum	ciel qof
+Zaozou	drum	to~ 33 to~ 33 læ 31
+Jinuo	drum	sɨ thu
+Naxi	drum	nda33 kv.33
+Zaiwa	drum	tsiŋ 51
+Mandarin	drunk	zui4
+Nasu	drunk	ʑi_ 55
+Lisu	drunk	ʒi 42
+Baihong	drunk	je31
+Hani	drunk	yevq
+Nosu	drunk	yit
+Samei	drunk	ʑi ; du ʑi (du = drink)
+Nisu	drunk	ɕiɛ 33
+Biyue	drunk	bv.33
+Kucong	drunk	bo
+Nusu	drunk	ija; ja
+Jinghpo	drunk	na
+Lahu Shi	drunk	bɔ35
+Lahu Na	drunk	but
+Zaozou	drunk	ʑa 42
+Jinuo	drunk	mo
+Naxi	drunk	ko31
+Zaiwa	drunk	vut 21
+Mandarin	dry	gan1
+Nasu	dry	fo,_ 21
+Lisu	dry	fu 44 le 33
+Baihong	dry	kɯ (gɯ?)55
+Hani	dry	gee
+Nosu	dry	totgga
+Samei	dry	fә
+Nisu	dry	fɛ_ 21
+Biyue	dry	gɤ33
+Kucong	dry	vi
+Nusu	dry	hwej
+Jinghpo	dry	ka
+Lahu Shi	dry	vi33
+Lahu Na	dry	vi
+Zaozou	dry	ka 44
+Jinuo	dry	a kɤ
+Naxi	dry	pv.31
+Zaiwa	dry	xui 55
+Mandarin	duck	ya zi10
+Nasu	duck	e 21
+Lisu	duck	ɛ~ 35
+Baihong	duck	ɔ55 xa55
+Hani	duck	oq'a
+Nosu	duck	ie
+Samei	duck	ә
+Nisu	duck	e 21
+Biyue	duck	o31 bi55
+Kucong	duck	a bæ
+Nusu	duck	a
+Jinghpo	duck	hkaipyek
+Lahu Shi	duck	A31 pɛ31
+Lahu Na	duck	a piel
+Zaozou	duck	a 44 o~ 33
+Jinuo	duck	tʃu ka
+Naxi	duck	a55
+Zaiwa	duck	pje_t 55
+Mandarin	dull	dun4
+Nasu	dull	ma 21 tha_ 21
+Lisu	dull	di 31 le 33
+Baihong	dull	dɔ31
+Hani	dull	daoq
+Nosu	dull	ap tuo
+Samei	dull	mɔ the (not sharp)
+Nisu	dull	dɤ 33
+Biyue	dull	di31
+Kucong	dull	a tha
+Nusu	dull	ma tʊ
+Jinghpo	dull	ton
+Lahu Shi	dull	mA31 thAŋ53
+Lahu Na	dull	mad zit
+Zaozou	dull	tæ 31
+Jinuo	dull	mә tha
+Naxi	dull	mә33 tha55
+Zaiwa	dull	tum 21
+Mandarin	ear	er duo30
+Nasu	ear	nɔ 21 pɔ 55
+Lisu	ear	na 55 po 44
+Baihong	ear	na31 bo55
+Hani	ear	naq bol
+Nosu	ear	hnapbo
+Samei	ear	nɔ bu (possible confusion with nose?)
+Nisu	ear	no 55 pA 55
+Biyue	ear	no31 bo55
+Kucong	ear	no bo
+Nusu	ear	hi~ sә
+Jinghpo	ear	na
+Lahu Shi	ear	nA31 pɔ55 tɕhi33
+Lahu Na	ear	naf paw
+Zaozou	ear	na 44 se 33 phɔ 42
+Jinuo	ear	na kho
+Naxi	ear	xe33 tsɯ31
+Zaiwa	ear	no` 21 phjo 21
+Mandarin	early	zao3
+Nasu	early	ʂo, 33
+Lisu	early	nɛ 42 nɛ 42
+Baihong	early	na31
+Hani	early	aoq soq
+Nosu	early	shedex
+Samei	early	ne
+Nisu	early	ni_ɛ_ 21
+Biyue	early	na31
+Kucong	early	na
+Nusu	early	na
+Jinghpo	early	jau
+Lahu Shi	early	ti33 nA31
+Lahu Na	early	nar
+Zaozou	early	mia 44
+Jinuo	early	ji na
+Naxi	early	tʂɔ
+Zaiwa	early	no? 21
+Mandarin	earth1	di4
+Nasu	earth1	mi 21
+Lisu	earth1	mi 44 nɛ 44
+Baihong	earth1	mi55 tsa55
+Hani	earth1	mil caq (di, tudi)/hal caq (tu)
+Nosu	earth1	-
+Samei	earth1	mi/mi tɕi
+Nisu	earth1	mi 55
+Biyue	earth1	mi55 tso31
+Kucong	earth1	mi qa
+Nusu	earth1	mi diɛ; ljɔ
+Jinghpo	earth1	ga; ga
+Lahu Shi	earth1	mi31 kA31
+Lahu Na	earth1	mil (= di)/jer (=tu)/hie (=tudi)
+Zaozou	earth1	na 55 ma 35 pæ~ 33
+Jinuo	earth1	mi tsha
+Naxi	earth1	ndy31
+Zaiwa	earth1	mji 21 kuŋ 51
+Mandarin	earth2	tu di24
+Nasu	earth2	mi 33
+Lisu	earth2	mɯ 33 nɛ 33
+Baihong	earth2	-
+Hani	earth2	-
+Nosu	earth2	-
+Samei	earth2	-
+Nisu	earth2	mi 55
+Biyue	earth2	mi55 tso31
+Kucong	earth2	-
+Nusu	earth2	-
+Jinghpo	earth2	-
+Lahu Shi	earth2	mi31 kA 21
+Lahu Na	earth2	-
+Zaozou	earth2	ʑo 33
+Jinuo	earth2	-
+Naxi	earth2	-
+Zaiwa	earth2	mau 21 mji 21
+Mandarin	easy	rong yi24
+Nasu	easy	lo, 21
+Lisu	easy	sa 44 sa 35
+Baihong	easy	ʒoŋ31 i55
+Hani	easy	yal
+Nosu	easy	ggapjjyx
+Samei	easy	di se
+Nisu	easy	ʂo 21
+Biyue	easy	ja55 gi31
+Kucong	easy	ɟә ça
+Nusu	easy	wɔ
+Jinghpo	easy	loi
+Lahu Shi	easy	ti33 sA33
+Lahu Na	easy	te shaq (= hao zuo)
+Zaozou	easy	lou 33
+Jinuo	easy	ji næ
+Naxi	easy	la31 ʑә33 xɯ31
+Zaiwa	easy	lui 21
+Mandarin	eat	chi1
+Nasu	eat	dzo 33
+Lisu	eat	dza 31
+Baihong	eat	dza31
+Hani	eat	zaq
+Nosu	eat	zze
+Samei	eat	dzɔ
+Nisu	eat	dʐo 33
+Biyue	eat	dzɔ31
+Kucong	eat	ɟa
+Nusu	eat	dzwɔ
+Jinghpo	eat	sha
+Lahu Shi	eat	tsA53
+Lahu Na	eat	cad
+Zaozou	eat	tso 31
+Jinuo	eat	tsa
+Naxi	eat	ndzɯ33
+Zaiwa	eat	tso_ 21
+Mandarin	egg	(ji) dan14
+Nasu	egg	ʈho_ 21
+Lisu	egg	e 55 fu 44
+Baihong	egg	a55 v.31
+Hani	egg	ha wuv
+Nosu	egg	qip (= dan4)
+Samei	egg	ʑi fɯ
+Nisu	egg	fu 21
+Biyue	egg	ja33 v.33
+Kucong	egg	u
+Nusu	egg	ʐo ŋ
+Jinghpo	egg	udi
+Lahu Shi	egg	u~33
+Lahu Na	egg	u
+Zaozou	egg	tɯ 55 vu 35
+Jinuo	egg	ja wu
+Naxi	egg	kv.33
+Zaiwa	egg	a 21 u 55
+Mandarin	eight	ba1
+Nasu	eight	hi_ 55
+Lisu	eight	he 42
+Baihong	eight	ɕe31
+Hani	eight	xeivq
+Nosu	eight	hxit
+Samei	eight	xe
+Nisu	eight	xi_ 21
+Biyue	eight	xie31
+Kucong	eight	xe
+Nusu	eight	hja
+Jinghpo	eight	matsat
+Lahu Shi	eight	xi35
+Lahu Na	eight	hiq
+Zaozou	eight	ʑa 44
+Jinuo	eight	he
+Naxi	eight	xo55
+Zaiwa	eight	ʃit 55
+Mandarin	emerge	chu1
+Nasu	emerge	-
+Lisu	emerge	-
+Baihong	emerge	dʊ31
+Hani	emerge	duv
+Nosu	emerge	bbit
+Samei	emerge	do jɪ
+Nisu	emerge	-
+Biyue	emerge	-
+Kucong	emerge	le
+Nusu	emerge	twɔ
+Jinghpo	emerge	pru
+Lahu Shi	emerge	-
+Lahu Na	emerge	tawt
+Zaozou	emerge	-
+Jinuo	emerge	tue
+Naxi	emerge	bu dy
+Zaiwa	emerge	-
+Mandarin	enter	jin4
+Nasu	enter	khɯ 21 le 33
+Lisu	enter	du 31 la 33
+Baihong	enter	dɔ31
+Hani	enter	tao
+Nosu	enter	-
+Samei	enter	dɤ; dɤ ʑi
+Nisu	enter	gɯ 33 liɛ 33
+Biyue	enter	o55 la55
+Kucong	enter	lu
+Nusu	enter	khu kha (= jin/jinlai = lo)
+Jinghpo	enter	shang
+Lahu Shi	enter	lo 21 lA33
+Lahu Na	enter	lor e
+Zaozou	enter	ʔo~ 33 le 35
+Jinuo	enter	oe
+Naxi	enter	-
+Zaiwa	enter	vaŋ 51
+Mandarin	evening	wan shang34
+Nasu	evening	-
+Lisu	evening	-
+Baihong	evening	ɤ55 gi55
+Hani	evening	aoq qivq pyu
+Nosu	evening	ketmop
+Samei	evening	ma khә
+Nisu	evening	-
+Biyue	evening	-
+Kucong	evening	mɔ xa
+Nusu	evening	swa na
+Jinghpo	evening	shana
+Lahu Shi	evening	-
+Lahu Na	evening	mud pheor
+Zaozou	evening	-
+Jinuo	evening	-
+Naxi	evening	mɔ khʊ
+Zaiwa	evening	-
+Mandarin	extinguish	mie4
+Nasu	extinguish	si_ 55
+Lisu	extinguish	se 31
+Baihong	extinguish	me31
+Hani	extinguish	sil
+Nosu	extinguish	sy
+Samei	extinguish	di ɕi
+Nisu	extinguish	sɨ_ 21
+Biyue	extinguish	dɤ33 ʃɨ55
+Kucong	extinguish	çәr (çɚ?)
+Nusu	extinguish	sa
+Jinghpo	extinguish	krip sat
+Lahu Shi	extinguish	A31 kA35 ni35 po31
+Lahu Na	extinguish	shif be*
+Zaozou	extinguish	ɕi 55
+Jinuo	extinguish	mɯ mi (mi = fire)
+Naxi	extinguish	khә55
+Zaiwa	extinguish	tʃo_m 21
+Mandarin	eye	yan jing30
+Nasu	eye	na_ 21 du 33
+Lisu	eye	mia 44 sɯ 31
+Baihong	eye	ma31 nɯ31?
+Hani	eye	miav
+Nosu	eye	nyuozzyp
+Samei	eye	ne sa
+Nisu	eye	ni_ɛ_ 33 du 33
+Biyue	eye	ma33 dʒɨ33
+Kucong	eye	mi
+Nusu	eye	ma dʐɨ
+Jinghpo	eye	myi
+Lahu Shi	eye	mɛ54 qhA55
+Lahu Na	eye	miet shif
+Zaozou	eye	mio 42 tɕi 35
+Jinuo	eye	mja tsɨ
+Naxi	eye	miә31
+Zaiwa	eye	mjo? 21 tʃi 55
+Mandarin	fall	luo4
+Nasu	fall	-
+Lisu	fall	-
+Baihong	fall	ka55 tɕɛ31 (ga dʒe?)
+Hani	fall	ya
+Nosu	fall	ci
+Samei	fall	gɔ tɕi
+Nisu	fall	-
+Biyue	fall	-
+Kucong	fall	cɛ
+Nusu	fall	dʐwɔ (dʐwa?)
+Jinghpo	fall	run
+Lahu Shi	fall	-
+Lahu Na	fall	pil
+Zaozou	fall	-
+Jinuo	fall	to kɹa
+Naxi	fall	(mә) ndʐwɔ (mә = down; xia)
+Zaiwa	fall	-
+Mandarin	far	yan3
+Nasu	far	vi 33
+Lisu	far	ɣɯ 31
+Baihong	far	mo55
+Hani	far	mol
+Nosu	far	sho
+Samei	far	gɔ vi
+Nisu	far	vɤ 33
+Biyue	far	mo55
+Kucong	far	ɟjɛ v.
+Nusu	far	we
+Jinghpo	far	tsan
+Lahu Shi	far	vɯ53
+Lahu Na	far	veod
+Zaozou	far	ve 31
+Jinuo	far	a xә
+Naxi	far	khɯ33 kho33
+Zaiwa	far	ve 21
+Mandarin	fart, to	fang pi44
+Nasu	fart, to	pi_ 21
+Lisu	fart, to	khi 31
+Baihong	fart, to	do31 me55
+Hani	fart, to	daoq kaoq
+Nosu	fart, to	pypndip
+Samei	fart, to	dɯ bә
+Nisu	fart, to	bi 21
+Biyue	fart, to	ji31 kɔ31
+Kucong	fart, to	khe du
+Nusu	fart, to	do pu; do dʐɨ
+Jinghpo	fart, to	dangkang
+Lahu Shi	fart, to	vi55
+Lahu Na	fart, to	qhied qhaw
+Zaozou	fart, to	tɕhi 31 yi 31
+Jinuo	fart, to	to phu; to tʃɨ
+Naxi	fart, to	tɕhәr33 khɯ
+Zaiwa	fart, to	khji 21 pu_ 51
+Mandarin	fast	kuai4
+Nasu	fast	tɕɔ 33
+Lisu	fast	mi 44
+Baihong	fast	tsa55
+Hani	fast	kol
+Nosu	fast	nji
+Samei	fast	jjo
+Nisu	fast	tʂhuA 55
+Biyue	fast	dza55
+Kucong	fast	gɔ
+Nusu	fast	tsa
+Jinghpo	fast	chyang
+Lahu Shi	fast	gɛ31
+Lahu Na	fast	giel
+Zaozou	fast	mia 44
+Jinuo	fast	ve (~væ)
+Naxi	fast	tshu31
+Zaiwa	fast	la` 21 van 55
+Mandarin	fat [of person]	pang4
+Nasu	fat [of person]	tshu 33
+Lisu	fat [of person]	tshɯ 44
+Baihong	fat [of person]	tʃʊ55
+Hani	fat [of person]	yocul
+Nosu	fat [of person]	woxbu
+Samei	fat [of person]	mu
+Nisu	fat [of person]	phɤ 55
+Biyue	fat [of person]	dzv.55
+Kucong	fat [of person]	bæ (mbæ?)
+Nusu	fat [of person]	ea (diph)
+Jinghpo	fat [of person]	hpum
+Lahu Shi	fat [of person]	E31dzAŋ53
+Lahu Na	fat [of person]	chu
+Zaozou	fat [of person]	pe~ 33
+Jinuo	fat [of person]	pa
+Naxi	fat [of person]	ka33 ndɯ31
+Zaiwa	fat [of person]	mjum 51
+Mandarin	fat [of meat]	fei rou24
+Nasu	fat [of meat]	xo 33 tshu 33
+Lisu	fat [of meat]	xua 31 tshɯ 44
+Baihong	fat [of meat]	tsu (tʃu?)55
+Hani	fat [of meat]	saqcul
+Nosu	fat [of meat]	cu
+Samei	fat [of meat]	ha sɨ mɔ
+Nisu	fat [of meat]	xo 33 tʂhu 55
+Biyue	fat [of meat]	o31 dzv.55
+Kucong	fat [of meat]	ça cu
+Nusu	fat [of meat]	ʂo tsu
+Jinghpo	fat [of meat]	hpum
+Lahu Shi	fat [of meat]	sA11 tshu33
+Lahu Na	fat [of meat]	shaf chu
+Zaozou	fat [of meat]	xo 31 tshu 33
+Jinuo	fat [of meat]	a tshɨ
+Naxi	fat [of meat]	ʂɯ33 ma31
+Zaiwa	fat [of meat]	ʃo 21 tshu 51
+Mandarin	father	ba ba40
+Nasu	father	a 55 de 33
+Lisu	father	a 31 ba 31
+Baihong	father	a31 da55
+Hani	father	aq da
+Nosu	father	-
+Samei	father	a ba
+Nisu	father	A 55 bA 33
+Biyue	father	a55 ba31
+Kucong	father	a ba
+Nusu	father	o ba
+Jinghpo	father	wa
+Lahu Shi	father	A33 tɛ33
+Lahu Na	father	a pa
+Zaozou	father	pɔ 35 ʑa 55
+Jinuo	father	a pʊ
+Naxi	father	-
+Zaiwa	father	a 55 nu 21
+Mandarin	fear, to	hai pa44
+Nasu	fear, to	jo_ 21
+Lisu	fear, to	dʒo 44
+Baihong	fear, to	gʊ55
+Hani	fear, to	guv
+Nosu	fear, to	jjurhla
+Samei	fear, to	go
+Nisu	fear, to	dʐu_ 33
+Biyue	fear, to	ki33
+Kucong	fear, to	ɟɛ gɯ
+Nusu	fear, to	dʑy (dʐʊ?)
+Jinghpo	fear, to	hkrit
+Lahu Shi	fear, to	kɔ54
+Lahu Na	fear, to	kawt
+Zaozou	fear, to	ka 42
+Jinuo	fear, to	khɯ
+Naxi	fear, to	ʐәr33
+Zaiwa	fear, to	kjuʔ 21
+Mandarin	feather	yu mao32
+Nasu	feather	-
+Lisu	feather	-
+Baihong	feather	tsa55 xu55
+Hani	feather	zil hao
+Nosu	feather	ddurnditnyie
+Samei	feather	u mәr
+Nisu	feather	-
+Biyue	feather	-
+Kucong	feather	ɣɔ mɔ (= ji mao)
+Nusu	feather	hmi
+Jinghpo	feather	u mun
+Lahu Shi	feather	-
+Lahu Na	feather	awl mu
+Zaozou	feather	-
+Jinuo	feather	a mɯ
+Naxi	feather	fv.
+Zaiwa	feather	-
+Mandarin	few	shao3
+Nasu	few	nɚ 33
+Lisu	few	ne 55
+Baihong	few	a55 dzɨ55
+Hani	few	al huvq naoq
+Nosu	few	ixnyi
+Samei	few	ɲi
+Nisu	few	ʂA 21
+Biyue	few	sau31
+Kucong	few	ji ʝa
+Nusu	few	ja
+Jinghpo	few	n lo
+Lahu Shi	few	mA53 mA53
+Lahu Na	few	mad mad
+Zaozou	few	ɲo 33
+Jinuo	few	ji
+Naxi	few	nɯ33
+Zaiwa	few	ni? 55
+Mandarin	field	tian2
+Nasu	field	to, 33 mi 33
+Lisu	field	pu 55 ʃo 55 mi 33
+Baihong	field	de ma3155
+Hani	field	xaldei
+Nosu	field	chemu
+Samei	field	mi
+Nisu	field	tE 55 mi 55
+Biyue	field	ɣɤ55 ja55
+Kucong	field	di mi
+Nusu	field	dә
+Jinghpo	field	hkauna
+Lahu Shi	field	ti33 mi33
+Lahu Na	field	ti mi
+Zaozou	field	ɣæ 33 ʑo 33
+Jinuo	field	te
+Naxi	field	lɯ33
+Zaiwa	field	jo 51
+Mandarin	finger	shou zhi33
+Nasu	finger	la_ 55 tʂɨ 33
+Lisu	finger	lɛ 31 ɲi 44
+Baihong	finger	la31 ny55
+Hani	finger	lavqnyul
+Nosu	finger	lotjy
+Samei	finger	le ny (nә?)
+Nisu	finger	li_ɛ_ 21 tʂɨ 55
+Biyue	finger	la31 ɲi55
+Kucong	finger	la ɲɔ
+Nusu	finger	lo hnɯ
+Jinghpo	finger	ta layung
+Lahu Shi	finger	lA31 nɔ33
+Lahu Na	finger	lar naw
+Zaozou	finger	lou 42 na 33
+Jinuo	finger	la ny
+Naxi	finger	la31 ɲu
+Zaiwa	finger	lo? 21 ŋju_i 21
+Mandarin	fire	huo3
+Nasu	fire	mo 33 to_ 55
+Lisu	fire	a 55 to 55
+Baihong	fire	a55 dza31
+Hani	fire	miqzaq
+Nosu	fire	mupdut
+Samei	fire	a dɔ
+Nisu	fire	mE 33 tu_ 21
+Biyue	fire	mi31 dzɔ31
+Kucong	fire	mi
+Nusu	fire	mi dɔ
+Jinghpo	fire	wan
+Lahu Shi	fire	A31 mi31
+Lahu Na	fire	al mif
+Zaozou	fire	mi 31 ɣa 44
+Jinuo	fire	mi
+Naxi	fire	mi33
+Zaiwa	fire	mji 21
+Mandarin	fish	yu2
+Nasu	fish	ŋo 33
+Lisu	fish	ŋua 55
+Baihong	fish	ŋa55 sa55
+Hani	fish	ngaqdeil
+Nosu	fish	hxe
+Samei	fish	a
+Nisu	fish	ŋo 33
+Biyue	fish	ŋɔ31 sɔ31
+Kucong	fish	ŋɔ
+Nusu	fish	ŋwo ɕjo
+Jinghpo	fish	nga
+Lahu Shi	fish	ŋA53
+Lahu Na	fish	ngad
+Zaozou	fish	ŋo 31 ko~ 55
+Jinuo	fish	ŋɔ ʃɔ
+Naxi	fish	ɲi33 dzɛ
+Zaiwa	fish	ŋo` 21 tso 21
+Mandarin	five	wu3
+Nasu	five	ŋo 33
+Lisu	five	ŋua 31
+Baihong	five	ŋa55?
+Hani	five	ngavq
+Nosu	five	nge
+Samei	five	ŋɔ
+Nisu	five	ŋo 33
+Biyue	five	ŋo31
+Kucong	five	ŋɔ
+Nusu	five	ŋwɔ
+Jinghpo	five	manga
+Lahu Shi	five	ŋA53
+Lahu Na	five	ngad
+Zaozou	five	ŋo 31
+Jinuo	five	ŋo
+Naxi	five	ua33
+Zaiwa	five	ŋo 21
+Mandarin	fix	xiu li13
+Nasu	fix	ŋghu 21
+Lisu	fix	ʃa 35
+Baihong	fix	dzɤ31 mɯ31
+Hani	fix	duvq
+Nosu	fix	ddiehmox
+Samei	fix	-
+Nisu	fix	gu 21 pu_ 33
+Biyue	fix	pa55 di55
+Kucong	fix	ʝә
+Nusu	fix	ɕwa
+Jinghpo	fix	gram
+Lahu Shi	fix	vu33 ti33
+Lahu Na	fix	gu te
+Zaozou	fix	sou 35 tæ 35
+Jinuo	fix	va
+Naxi	fix	le ma55 ma55
+Zaiwa	fix	sai 55
+Mandarin	flat	ping2
+Nasu	flat	dɔ 21
+Lisu	flat	di 44
+Baihong	flat	de31
+Hani	flat	dei
+Nosu	flat	njo
+Samei	flat	du
+Nisu	flat	phi 21
+Biyue	flat	dʒe33 gv.31
+Kucong	flat	a de
+Nusu	flat	gja
+Jinghpo	flat	ra
+Lahu Shi	flat	phiŋ31 tA35
+Lahu Na	flat	tawl (= ping)
+Zaozou	flat	tɕa~ 31
+Jinuo	flat	a ki
+Naxi	flat	ndy
+Zaiwa	flat	ʒa 55
+Mandarin	flavor	wei4 dao0
+Nasu	flavor	-
+Lisu	flavor	-
+Baihong	flavor	-
+Hani	flavor	keelmil
+Nosu	flavor	nyi
+Samei	flavor	u bi
+Nisu	flavor	-
+Biyue	flavor	-
+Kucong	flavor	ɟɛ nu
+Nusu	flavor	ja ha
+Jinghpo	flavor	namta
+Lahu Shi	flavor	-
+Lahu Na	flavor	awl pie*
+Zaozou	flavor	-
+Jinuo	flavor	a mi
+Naxi	flavor	ndza ji (= weidao??)
+Zaiwa	flavor	-
+Mandarin	flee	tao pao23
+Nasu	flee	phɔ 21
+Lisu	flee	khe 35 ge 33
+Baihong	flee	ge31
+Hani	flee	hyuqxeiv
+Nosu	flee	pobbo
+Samei	flee	sa gɔ
+Nisu	flee	phA 21
+Biyue	flee	dze31 pi31
+Kucong	flee	qho ji
+Nusu	flee	tsa (tsɔ?)
+Jinghpo	flee	hprong
+Lahu Shi	flee	to33 tɕi35
+Lahu Na	flee	phaw qie*
+Zaozou	flee	ta 55
+Jinuo	flee	khy tshɒ
+Naxi	flee	phu31
+Zaiwa	flee	phaŋ 51
+Mandarin	float	pyao liu12
+Nasu	float	bu 21
+Lisu	float	bu 33
+Baihong	float	bv.55
+Hani	float	bul hha
+Nosu	float	totbbu
+Samei	float	-
+Nisu	float	bu 21
+Biyue	float	lian33
+Kucong	float	ɟɛ da
+Nusu	float	xiɛ
+Jinghpo	float	wo ganong
+Lahu Shi	float	phiAo55
+Lahu Na	float	fud chi*
+Zaozou	float	lyi 55
+Jinuo	float	hәj jɛ nә
+Naxi	float	a nda31
+Zaiwa	float	mju 21 pjom 21
+Mandarin	flow	liu2
+Nasu	flow	ʑɯ 21
+Lisu	flow	ʒɨ 33
+Baihong	flow	ʐɨ (ʐ.)55
+Hani	flow	-
+Nosu	flow	-
+Samei	flow	ʑi
+Nisu	flow	ʂɤ 33
+Biyue	flow	ji55
+Kucong	flow	ʝo
+Nusu	flow	ljɛ (= come); kwo (= zou)
+Jinghpo	flow	lui
+Lahu Shi	flow	qhA33
+Lahu Na	flow	-
+Zaozou	flow	le 35
+Jinuo	flow	i
+Naxi	flow	-
+Zaiwa	flow	jui 51
+Mandarin	flower	hua1
+Nasu	flower	vi_ 21
+Lisu	flower	e 55 ve 44
+Baihong	flower	a31 je (ʒe?)55
+Hani	flower	al yeiv
+Nosu	flower	vur
+Samei	flower	vi ljo
+Nisu	flower	vi_ 33
+Biyue	flower	a31 ji33
+Kucong	flower	çә we
+Nusu	flower	si wA?
+Jinghpo	flower	pu
+Lahu Shi	flower	sɨ54 vi54
+Lahu Na	flower	siq vet
+Zaozou	flower	sæ 42 va 42
+Jinuo	flower	a po (pe?)
+Naxi	flower	mba31
+Zaiwa	flower	pan 21
+Mandarin	fly (n)	cang ying10
+Nasu	fly (n)	hɔ 21 mu 33
+Lisu	fly (n)	o 55 pu 55
+Baihong	fly (n)	xa55 sa55 la55 mo55
+Hani	fly (n)	al mol
+Nosu	fly (n)	yoxmu
+Samei	fly (n)	zy mә
+Nisu	fly (n)	xA 21 mu 33
+Biyue	fly (n)	ja55 pv.31
+Kucong	fly (n)	bɯ
+Nusu	fly (n)	bra
+Jinghpo	fly (n)	machyi
+Lahu Shi	fly (n)	pɤ35
+Lahu Na	fly (n)	peuq ma* pv.*
+Zaozou	fly (n)	tɕyi~ 44 o~ 33
+Jinuo	fly (n)	xjɔ mɯ
+Naxi	fly (n)	mbәr31 lәr55
+Zaiwa	fly (n)	jaŋ 51 khuŋ 21
+Mandarin	fly (v)	fei1
+Nasu	fly (v)	ɖe 21
+Lisu	fly (v)	bi 33
+Baihong	fly (v)	bɯ55
+Hani	fly (v)	biaol
+Nosu	fly (v)	jji
+Samei	fly (v)	lɯ
+Nisu	fly (v)	diɛ 21
+Biyue	fly (v)	bi55
+Kucong	fly (v)	bu
+Nusu	fly (v)	lja
+Jinghpo	fly (v)	pyen
+Lahu Shi	fly (v)	pu31 qAi33
+Lahu Na	fly (v)	pol
+Zaozou	fly (v)	piɔ 33
+Jinuo	fly (v)	pɹe
+Naxi	fly (v)	mbi31
+Zaiwa	fly (v)	taŋ 21
+Mandarin	fog	wu4
+Nasu	fog	ɲi_ 55 ʑo_ 33
+Lisu	fog	mu 44 ku 55
+Baihong	fog	dʒɨ55 xo31
+Hani	fog	joqhyuqlaqmee
+Nosu	fog	muhxuot
+Samei	fog	-
+Nisu	fog	A 55 nɯ 55
+Biyue	fog	ɲe31 tɕ31
+Kucong	fog	mɔ fi
+Nusu	fog	pɯ we~j
+Jinghpo	fog	saiwan
+Lahu Shi	fog	mo31 fi54
+Lahu Na	fog	mof yie*
+Zaozou	fog	tɕiæ~ 55
+Jinuo	fog	mɯ khy
+Naxi	fog	tɕhi55 sɯ33
+Zaiwa	fog	sai 55 von 21
+Mandarin	foot	jiao3
+Nasu	foot	tɕhi 33 pha_ 33
+Lisu	foot	tʃhi 44 phɛ 35
+Baihong	foot	a31 kɯ55
+Hani	foot	aq keel
+Nosu	foot	xy'pot
+Samei	foot	khe be
+Nisu	foot	tshɨ 21
+Biyue	foot	o31 tɕi55
+Kucong	foot	khɯ
+Nusu	foot	tʂi (?)
+Jinghpo	foot	lago
+Lahu Shi	foot	khɯ55 ku53
+Lahu Na	foot	kheu shie
+Zaozou	foot	tɕhi 33 pho 42
+Jinuo	foot	ʃɔ khi
+Naxi	foot	khɯ33 dʐɚ
+Zaiwa	foot	khji 51
+Mandarin	forget	wang ji44
+Nasu	forget	ma 21 tɕhɚ 33
+Lisu	forget	me 33 le 44
+Baihong	forget	ni (ɲi?)55 ba55
+Hani	forget	nieilzaq
+Nosu	forget	ap shut
+Samei	forget	mi gɔ
+Nisu	forget	mi 21 xo 21
+Biyue	forget	mo55 ti55
+Kucong	forget	lɯ fæ
+Nusu	forget	hmi
+Jinghpo	forget	malap
+Lahu Shi	forget	mA53 nɔ53
+Lahu Na	forget	leod
+Zaozou	forget	mæ 13
+Jinuo	forget	ɲʊ ja nә
+Naxi	forget	lɛ mi55
+Zaiwa	forget	to_ 51 mji_ 55
+Mandarin	four	si4
+Nasu	four	ɬi 33
+Lisu	four	li 33
+Baihong	four	y31
+Hani	four	yuvq
+Nosu	four	ly
+Samei	four	ʂir
+Nisu	four	ɬi 55
+Biyue	four	li31
+Kucong	four	u
+Nusu	four	ʐyi
+Jinghpo	four	mali
+Lahu Shi	four	o~31
+Lahu Na	four	awd
+Zaozou	four	yi 31
+Jinuo	four	li
+Naxi	four	lu33
+Zaiwa	four	mji 21
+Mandarin	fragrant	xiang1
+Nasu	fragrant	ɕɔ 33
+Lisu	fragrant	ŋo 55 nu 33
+Baihong	fragrant	sɔ55
+Hani	fragrant	sol
+Nosu	fragrant	nihxoxsa
+Samei	fragrant	ɕu
+Nisu	fragrant	ʂo 55
+Biyue	fragrant	ɕa~33
+Kucong	fragrant	a çɔ nu
+Nusu	fragrant	ɕja~
+Jinghpo	fragrant	manam ngon
+Lahu Shi	fragrant	xɔ~35 nu31
+Lahu Na	fragrant	hawq
+Zaozou	fragrant	ɕa~ 31
+Jinuo	fragrant	a thʃɨ
+Naxi	fragrant	ɕa~
+Zaiwa	fragrant	xom 55
+Mandarin	friend	peng you20
+Nasu	friend	tʂhɔ 55 ɣo, 21
+Lisu	friend	kua 44 tʃho 31
+Baihong	friend	jo31 tso31
+Hani	friend	yolqoq
+Nosu	friend	qopbop
+Samei	friend	tso la
+Nisu	friend	tʂhA 33 tʂhA 21
+Biyue	friend	ma31 tʃv.31
+Kucong	friend	a cjɔ
+Nusu	friend	khi gja
+Jinghpo	friend	manang
+Lahu Shi	friend	ɔ31 tshɔ53
+Lahu Na	friend	awl chawd
+Zaozou	friend	xuæ 33 ʑa 44
+Jinuo	friend	ma tshɒ
+Naxi	friend	ndzu33
+Zaiwa	friend	phji 21 tsum 55
+Mandarin	frog	qing wa11
+Nasu	frog	o 21 mɔ 55
+Lisu	frog	o 55 pa 55
+Baihong	frog	xa31 pa55
+Hani	frog	haq paq
+Nosu	frog	uoxba qihni
+Samei	frog	hә
+Nisu	frog	A 55 po 33
+Biyue	frog	po31 ɲe33
+Kucong	frog	ba
+Nusu	frog	bo
+Jinghpo	frog	shu
+Lahu Shi	frog	pA31 tɛ35 nɛ54
+Lahu Na	frog	paf ta* ne*
+Zaozou	frog	po 44 ?ua 44
+Jinuo	frog	phɔ the
+Naxi	frog	pa33
+Zaiwa	frog	po`_ 21 kje_k 55
+Mandarin	fruit	shui guo33
+Nasu	fruit	si_ 33 mo 33
+Lisu	fruit	sɨ 35 sɯ 31
+Baihong	fruit	a55 si31
+Hani	fruit	al siq
+Nosu	fruit	syrzza lurma
+Samei	fruit	-
+Nisu	fruit	sɨ_ 33 sE 33
+Biyue	fruit	o31 sɨ31
+Kucong	fruit	çә çi
+Nusu	fruit	ʂwej gwɔ
+Jinghpo	fruit	namsi
+Lahu Shi	fruit	sɨ35 sɨ11
+Lahu Na	fruit	iq shif
+Zaozou	fruit	ɕi 31
+Jinuo	fruit	a sɨ ki kɔ
+Naxi	fruit	sa kv.33 sa ly33
+Zaiwa	fruit	ʃi 21
+Mandarin	full	man3
+Nasu	full	ɖɚ 21
+Lisu	full	bi 44 le 33
+Baihong	full	boŋ55
+Hani	full	biao nei
+Nosu	full	jjip
+Samei	full	li
+Nisu	full	dE 21
+Biyue	full	bɤ33
+Kucong	full	bi
+Nusu	full	brә
+Jinghpo	full	hpring
+Lahu Shi	full	bi54
+Lahu Na	full	bid
+Zaozou	full	pie~ 35
+Jinuo	full	pɹɯ
+Naxi	full	ʂәr55
+Zaiwa	full	pjiŋ 55
+Mandarin	fur	mao2
+Nasu	fur	mu 21
+Lisu	fur	e 55 mu 44
+Baihong	fur	tsa31 xu55
+Hani	fur	hao
+Nosu	fur	nyie
+Samei	fur	-
+Nisu	fur	nu_ 33
+Biyue	fur	o31 tɕi55
+Kucong	fur	mɔ
+Nusu	fur	hmi
+Jinghpo	fur	mun
+Lahu Shi	fur	mɔ33
+Lahu Na	fur	awl mu
+Zaozou	fur	tɯ 55 ma 35
+Jinuo	fur	-
+Naxi	fur	fv.33
+Zaiwa	fur	ʃo` 21 mau 55
+Mandarin	get up	qi chuang32
+Nasu	get up	-
+Lisu	get up	-
+Baihong	get up	thɯ la (possibly mistaken for qilai not qichuang)
+Hani	get up	yiuvqsul tul
+Nosu	get up	itdep
+Samei	get up	daɔr li
+Nisu	get up	-
+Biyue	get up	-
+Kucong	get up	ʝi du
+Nusu	get up	dp
+Jinghpo	get up	yup rot
+Lahu Shi	get up	-
+Lahu Na	get up	rir tu
+Zaozou	get up	-
+Jinuo	get up	tɯ thɔ
+Naxi	get up	gә dyr
+Zaiwa	get up	-
+Mandarin	girl	nü hai32
+Nasu	girl	a 21 mo, 33 ɬa_ 55
+Lisu	girl	za 31 mɯ 42 lɛ 55
+Baihong	girl	ja31 mi31
+Hani	girl	-
+Nosu	girl	apmysse
+Samei	girl	ʐɨ ma lɔ
+Nisu	girl	A 21 mE 33 ɬi_ɛ_ 21
+Biyue	girl	ɕo31 xɔ31 mo33
+Kucong	girl	ʝa mi ma
+Nusu	girl	mi ʐwɔ
+Jinghpo	girl	-
+Lahu Shi	girl	zA33 mi53 xA35
+Lahu Na	girl	ca* mi*
+Zaozou	girl	su 33 mi 35 zo 31
+Jinuo	girl	khɒ mɒ zɒ kʊ
+Naxi	girl	mi zy
+Zaiwa	girl	tso` 21 mji 21
+Mandarin	give	gei3
+Nasu	give	je 55
+Lisu	give	gɯ 31
+Baihong	give	bi31
+Hani	give	bivq
+Nosu	give	bbyp
+Samei	give	gә
+Nisu	give	bi 21
+Biyue	give	bi31
+Kucong	give	bi
+Nusu	give	bi
+Jinghpo	give	ya
+Lahu Shi	give	pe55 lA53
+Lahu Na	give	pid
+Zaozou	give	pi 35
+Jinuo	give	pi
+Naxi	give	ʑә55
+Zaiwa	give	pji 21
+Mandarin	give birth, to	sheng1
+Nasu	give birth, to	bɔ 21
+Lisu	give birth, to	he 33
+Baihong	give birth, to	-
+Hani	give birth, to	bo
+Nosu	give birth, to	yur
+Samei	give birth, to	-
+Nisu	give birth, to	xE 21
+Biyue	give birth, to	dzo55
+Kucong	give birth, to	de le
+Nusu	give birth, to	pa
+Jinghpo	give birth, to	shangai
+Lahu Shi	give birth, to	ɣA33
+Lahu Na	give birth, to	ca* paw
+Zaozou	give birth, to	ŋa 44
+Jinuo	give birth, to	tsɒ to mә
+Naxi	give birth, to	-
+Zaiwa	give birth, to	pau 21
+Mandarin	go	qu4
+Nasu	go	li 21
+Lisu	go	ge 33
+Baihong	go	ʒi31
+Hani	go	li
+Nosu	go	goxmgabbo
+Samei	go	ʑi
+Nisu	go	zɤ 21
+Biyue	go	jo31
+Kucong	go	qæ
+Nusu	go	jɛ
+Jinghpo	go	sa
+Lahu Shi	go	qAi33
+Lahu Na	go	qai
+Zaozou	go	ʑæ 33
+Jinuo	go	le
+Naxi	go	fa
+Zaiwa	go	e_ 51
+Mandarin	good	hao3
+Nasu	good	tsu 55
+Lisu	good	tsho 44 dʒi 33
+Baihong	good	mɯ55
+Hani	good	yo meeq
+Nosu	good	nbop (nbox)
+Samei	good	o dɤ/dza mi
+Nisu	good	no 55
+Biyue	good	mɔ33
+Kucong	good	na/ɟɛ mæ
+Nusu	good	gjɛ; dzo mja (of food; dzo = eat)
+Jinghpo	good	gaja
+Lahu Shi	good	dA 21
+Lahu Na	good	dar
+Zaozou	good	lo 35
+Jinuo	good	na/tsɒ sɒ (eat+)
+Naxi	good	ka33
+Zaiwa	good	ke 51
+Mandarin	gourd	gua1
+Nasu	gourd	o 33 phu 55
+Lisu	gourd	a 55 phu 31
+Baihong	gourd	-
+Hani	gourd	maldei
+Nosu	gourd	niepga
+Samei	gourd	-
+Nisu	gourd	A 55 phɤ 21
+Biyue	gourd	-
+Kucong	gourd	a mɯ çi
+Nusu	gourd	ɣa (possibly same as pumpkin)
+Jinghpo	gourd	kahkum n-gyin
+Lahu Shi	gourd	-
+Lahu Na	gourd	-
+Zaozou	gourd	tɕɔ 31 ɔ 35
+Jinuo	gourd	-
+Naxi	gourd	gwa
+Zaiwa	gourd	phe 55 xun 51
+Mandarin	grandfather (paternal)	ye ye40
+Nasu	grandfather (paternal)	-
+Lisu	grandfather (paternal)	-
+Baihong	grandfather (paternal)	a31 bo55
+Hani	grandfather (paternal)	aq bol
+Nosu	grandfather (paternal)	-
+Samei	grandfather (paternal)	a bɔ
+Nisu	grandfather (paternal)	-
+Biyue	grandfather (paternal)	-
+Kucong	grandfather (paternal)	a bu
+Nusu	grandfather (paternal)	ba ba
+Jinghpo	grandfather (paternal)	-
+Lahu Shi	grandfather (paternal)	-
+Lahu Na	grandfather (paternal)	a bu*
+Zaozou	grandfather (paternal)	-
+Jinuo	grandfather (paternal)	a phɯ
+Naxi	grandfather (paternal)	-
+Zaiwa	grandfather (paternal)	-
+Mandarin	grandson	sun zi13
+Nasu	grandson	ɬi 21 bɤ 21 zo 33
+Lisu	grandson	li 55 pa 55
+Baihong	grandson	y55 pa31
+Hani	grandson	yuq paq
+Nosu	grandson	lyyi
+Samei	grandson	za ʐɨ
+Nisu	grandson	ɬi 33 ʐo 33
+Biyue	grandson	li31 dʒɨ31
+Kucong	grandson	xo ʝa
+Nusu	grandson	ʐui
+Jinghpo	grandson	gashu la sha
+Lahu Shi	grandson	xɔ31 pA31
+Lahu Na	grandson	awl huaif
+Zaozou	grandson	yi 31 ʑa 44
+Jinuo	grandson	li zɒ
+Naxi	grandson	lv.33 mbv.33
+Zaiwa	grandson	ka` 21 ʃu 21
+Mandarin	grass	cao3
+Nasu	grass	ʂɨ 33
+Lisu	grass	ʃɨ 55
+Baihong	grass	xa55 sa31
+Hani	grass	jahhaq
+Nosu	grass	bbut
+Samei	grass	tʂɨ mo
+Nisu	grass	ʂɨ 33
+Biyue	grass	o31 bi33
+Kucong	grass	bɯ ɲɔ
+Nusu	grass	mra
+Jinghpo	grass	nam
+Lahu Shi	grass	zɨ53
+Lahu Na	grass	rid
+Zaozou	grass	piɔ 35 tse~ 33
+Jinuo	grass	mju
+Naxi	grass	zɯ33
+Zaiwa	grass	ma_n 21
+Mandarin	green	li4
+Nasu	green	ɲɯ 21
+Lisu	green	ni 35 tʃhi 42
+Baihong	green	ny55
+Hani	green	niul
+Nosu	green	athlop
+Samei	green	lo
+Nisu	green	nɯ 55
+Biyue	green	ɲi55
+Kucong	green	a ɲɔ
+Nusu	green	ɲɯ
+Jinghpo	green	tsit
+Lahu Shi	green	nɔ31 lA33
+Lahu Na	green	naw
+Zaozou	green	ɲɯ~ 33
+Jinuo	green	a ny
+Naxi	green	ly
+Zaiwa	green	ŋui 21
+Mandarin	grind	mo2
+Nasu	grind	tɕhɯ_ 21
+Lisu	grind	dʒi 44
+Baihong	grind	ge55
+Hani	grind	siq
+Nosu	grind	vut
+Samei	grind	sa
+Nisu	grind	tʂhɨ 33
+Biyue	grind	dʑi33
+Kucong	grind	mɔ
+Nusu	grind	thu
+Jinghpo	grind	garang
+Lahu Shi	grind	gɤ313
+Lahu Na	grind	geu*
+Zaozou	grind	ʑæ~ 44
+Jinuo	grind	mo
+Naxi	grind	ɣɯ31
+Zaiwa	grind	lui 55
+Mandarin	guts (intestine)	chang2
+Nasu	guts (intestine)	ɣu 21
+Lisu	guts (intestine)	vu 33
+Baihong	guts (intestine)	-
+Hani	guts (intestine)	wul
+Nosu	guts (intestine)	vu
+Samei	guts (intestine)	v. dzɔ
+Nisu	guts (intestine)	vu 21
+Biyue	guts (intestine)	o31 v.55
+Kucong	guts (intestine)	a ɣu
+Nusu	guts (intestine)	u (βu?)
+Jinghpo	guts (intestine)	pu
+Lahu Shi	guts (intestine)	ɔ ɣu31 tɛ35 nɛ54
+Lahu Na	guts (intestine)	awl u* tie*
+Zaozou	guts (intestine)	vu 33 tɕo 55
+Jinuo	guts (intestine)	a vu
+Naxi	guts (intestine)	mbv33
+Zaiwa	guts (intestine)	u 51
+Mandarin	hair (human head)	to fa20
+Nasu	hair (human head)	ʔu 33 tshe 33
+Lisu	hair (human head)	o 55 tshe 44
+Baihong	hair (human head)	tɕe kɯ5555
+Hani	hair (human head)	ceil kaol
+Nosu	hair (human head)	uonyie
+Samei	hair (human head)	a tsu (tsɯ?)
+Nisu	hair (human head)	ʔu_ 33 tɕhiɛ 21
+Biyue	hair (human head)	dɕi55 kɤ55
+Kucong	hair (human head)	u mɔ
+Nusu	hair (human head)	tsa
+Jinghpo	hair (human head)	kara
+Lahu Shi	hair (human head)	tsɨ53 khɛ33
+Lahu Na	hair (human head)	uq mu
+Zaozou	hair (human head)	tɕha 44 ma 44
+Jinuo	hair (human head)	tshe khɯ
+Naxi	hair (human head)	ɣo33 fv.
+Zaiwa	hair (human head)	u 21 tsham 51
+Mandarin	hair (on body)	mao2
+Nasu	hair (on body)	-
+Lisu	hair (on body)	-
+Baihong	hair (on body)	-
+Hani	hair (on body)	hao
+Nosu	hair (on body)	nyie
+Samei	hair (on body)	u mә
+Nisu	hair (on body)	-
+Biyue	hair (on body)	-
+Kucong	hair (on body)	mɔ
+Nusu	hair (on body)	hmi
+Jinghpo	hair (on body)	mun
+Lahu Shi	hair (on body)	-
+Lahu Na	hair (on body)	awl mu
+Zaozou	hair (on body)	-
+Jinuo	hair (on body)	a mɯ
+Naxi	hair (on body)	-
+Zaiwa	hair (on body)	-
+Mandarin	hand	shou3
+Nasu	hand	la_ 55
+Lisu	hand	lɛ 31 phe 35
+Baihong	hand	a31 la31
+Hani	hand	aq lavq
+Nosu	hand	lot
+Samei	hand	le phe
+Nisu	hand	li_ɛ_ 21
+Biyue	hand	a31 la31
+Kucong	hand	la
+Nusu	hand	lo
+Jinghpo	hand	ta
+Lahu Shi	hand	lA31 pɯ31
+Lahu Na	hand	lar shie
+Zaozou	hand	lou 42 pho 42
+Jinuo	hand	la pu
+Naxi	hand	la31 dʐɨr
+Zaiwa	hand	lo? 21
+Mandarin	hard	ying4
+Nasu	hard	xo, 21
+Lisu	hard	fu 44
+Baihong	hard	vo (ɣo?)55
+Hani	hard	hhaol
+Nosu	hard	-
+Samei	hard	khɔ
+Nisu	hard	tɕhi_ɛ_ 33
+Biyue	hard	ka33
+Kucong	hard	xo
+Nusu	hard	-
+Jinghpo	hard	ja
+Lahu Shi	hard	xɛ33
+Lahu Na	hard	hie
+Zaozou	hard	ʔɯ 44
+Jinuo	hard	a kha
+Naxi	hard	-
+Zaiwa	hard	than 51
+Mandarin	hate1	hen4
+Nasu	hate1	ɲi 21 dzo_ 21
+Lisu	hate1	ni 35 bɯ 44
+Baihong	hate1	-
+Hani	hate1	-
+Nosu	hate1	-
+Samei	hate1	-
+Nisu	hate1	xɤ 55
+Biyue	hate1	dzɨ55
+Kucong	hate1	-
+Nusu	hate1	-
+Jinghpo	hate1	-
+Lahu Shi	hate1	zɨ31 tɕhi35
+Lahu Na	hate1	-
+Zaozou	hate1	kæ~ 31
+Jinuo	hate1	-
+Naxi	hate1	-
+Zaiwa	hate1	ni_k 55 noʔ 21
+Mandarin	hate2	tao yan34
+Nasu	hate2	-
+Lisu	hate2	-
+Baihong	hate2	ma31 ga31 (not like)
+Hani	hate2	lavsaoq
+Nosu	hate2	-
+Samei	hate2	hy (hɯ?)
+Nisu	hate2	-
+Biyue	hate2	-
+Kucong	hate2	ɟɛ ca
+Nusu	hate2	pha jә (also = hen)
+Jinghpo	hate2	nri
+Lahu Shi	hate2	-
+Lahu Na	hate2	ni bawl
+Zaozou	hate2	-
+Jinuo	hate2	mjɒ pɹɒ
+Naxi	hate2	-
+Zaiwa	hate2	-
+Mandarin	he	ta1
+Nasu	he	thi 33
+Lisu	he	e 55
+Baihong	he	a31 jo31
+Hani	he	aq yoq
+Nosu	he	cy
+Samei	he	u
+Nisu	he	kɤ 55
+Biyue	he	ji31 gɔ31 to55
+Kucong	he	jɔ
+Nusu	he	ea (diph)
+Jinghpo	he	shi
+Lahu Shi	he	zɔ53
+Lahu Na	he	yawd
+Zaozou	he	tu 55
+Jinuo	he	khә
+Naxi	he	thɯ33
+Zaiwa	he	ja_ŋ 21
+Mandarin	head	to2
+Nasu	head	ʔu 33 kɤ 21
+Lisu	head	o 55 du 33
+Baihong	head	u55 dv.31
+Hani	head	wuqduq
+Nosu	head	iqi
+Samei	head	a dɯ (dy?)
+Nisu	head	ʔu_ 33
+Biyue	head	v.31 ki31
+Kucong	head	u
+Nusu	head	a phu la
+Jinghpo	head	bo
+Lahu Shi	head	tɔ31 qu31
+Lahu Na	head	uq qof
+Zaozou	head	ʔo 55 tu 31
+Jinuo	head	v. khe
+Naxi	head	ku33 ly33
+Zaiwa	head	u 21 lu_m 21
+Mandarin	hear	ting jian14
+Nasu	hear	-
+Lisu	hear	-
+Baihong	hear	ga31
+Hani	hear	gaq
+Nosu	hear	-
+Samei	hear	bɔ nɔ
+Nisu	hear	-
+Biyue	hear	-
+Kucong	hear	na ni ga
+Nusu	hear	hnɔ tjɛ
+Jinghpo	hear	na
+Lahu Shi	hear	-
+Lahu Na	hear	na kad
+Zaozou	hear	-
+Jinuo	hear	nɒ kjɒ
+Naxi	hear	-
+Zaiwa	hear	-
+Mandarin	heart	xin zang14
+Nasu	heart	ɲi_ 21 mo_ 21
+Lisu	heart	ni 35 ma 33
+Baihong	heart	nɯ31 ma55
+Hani	heart	neema
+Nosu	heart	hxiemat
+Samei	heart	n(y) mә
+Nisu	heart	ni_ 33
+Biyue	heart	ne33 mo33
+Kucong	heart	ɲi ma çi
+Nusu	heart	hi~ na (nɔ?)
+Jinghpo	heart	salum
+Lahu Shi	heart	ni33 ma33 sɨ11
+Lahu Na	heart	ni ma shif
+Zaozou	heart	na 44 the 35 læ 31
+Jinuo	heart	nɨ sɨ
+Naxi	heart	nv55 me33
+Zaiwa	heart	ni_k 55 lu_m 21
+Mandarin	heavy	zhong4
+Nasu	heavy	li 33
+Lisu	heavy	li 31
+Baihong	heavy	koŋ55
+Hani	heavy	xao
+Nosu	heavy	lyx
+Samei	heavy	ʐɨ
+Nisu	heavy	li 33
+Biyue	heavy	dzɨ33
+Kucong	heavy	xo
+Nusu	heavy	li
+Jinghpo	heavy	li
+Lahu Shi	heavy	tsoŋ35
+Lahu Na	heavy	hawd peu*
+Zaozou	heavy	le 31
+Jinuo	heavy	ji ɬi
+Naxi	heavy	lɯ33
+Zaiwa	heavy	lai 21
+Mandarin	here	zhe li40
+Nasu	here	tʂhɤ 33 mɔ 55
+Lisu	here	the 33 kua 44
+Baihong	here	xɤ55 ga55
+Hani	here	xilgei
+Nosu	here	titgo
+Samei	here	i ba
+Nisu	here	ʔi 55 ni_ɛ_ 33
+Biyue	here	jɔ33 dza55
+Kucong	here	cɔ xɔ
+Nusu	here	a dɯ
+Jinghpo	here	ndai ko
+Lahu Shi	here	tɕho31 phɔ53
+Lahu Na	here	chol kal
+Zaozou	here	ɣuo 35 ka 44
+Jinuo	here	xi
+Naxi	here	tʂhә 13 kv33
+Zaiwa	here	xii 51 ma 55
+Mandarin	hide	duo cang32
+Nasu	hide	vɤ 55
+Lisu	hide	piɛ 33
+Baihong	hide	ge55 wa31
+Hani	hide	xeivhhovq
+Nosu	hide	nbot
+Samei	hide	pɯ mo
+Nisu	hide	phA_ 21 nɤ 33
+Biyue	hide	ma33 dza33 pi31
+Kucong	hide	ja fi
+Nusu	hide	ʑi
+Jinghpo	hide	makoi
+Lahu Shi	hide	-
+Lahu Na	hide	var taf
+Zaozou	hide	sa 55
+Jinuo	hide	tsho wa
+Naxi	hide	na33
+Zaiwa	hide	xa? 55
+Mandarin	high (of place)	gao1
+Nasu	high (of place)	mu 21
+Lisu	high (of place)	mo 44
+Baihong	high (of place)	-
+Hani	high (of place)	-
+Nosu	high (of place)	-
+Samei	high (of place)	a m.
+Nisu	high (of place)	mo 55
+Biyue	high (of place)	gau33
+Kucong	high (of place)	mɔ
+Nusu	high (of place)	hmræ
+Jinghpo	high (of place)	tso
+Lahu Shi	high (of place)	mɔ55
+Lahu Na	high (of place)	-
+Zaozou	high (of place)	mia 33
+Jinuo	high (of place)	la mjɔ a
+Naxi	high (of place)	-
+Zaiwa	high (of place)	mja_ŋ 51
+Mandarin	hit	da3
+Nasu	hit	ndhu 21
+Lisu	hit	dɯ 31
+Baihong	hit	di31
+Hani	hit	diq
+Nosu	hit	dip (dix)
+Samei	hit	dæ
+Nisu	hit	dE33
+Biyue	hit	dɤ31
+Kucong	hit	do
+Nusu	hit	bә
+Jinghpo	hit	gayat
+Lahu Shi	hit	dɔ54
+Lahu Na	hit	dawt
+Zaozou	hit	pa 42
+Jinuo	hit	tʃɨ
+Naxi	hit	la55
+Zaiwa	hit	pat 21
+Mandarin	hole [in cloth]	dong4
+Nasu	hole [in cloth]	-
+Lisu	hole [in cloth]	-
+Baihong	hole [in cloth]	jo31 bi (by?)55
+Hani	hole [in cloth]	yo byu
+Nosu	hole [in cloth]	jjur
+Samei	hole [in cloth]	ne dɔ
+Nisu	hole [in cloth]	-
+Biyue	hole [in cloth]	-
+Kucong	hole [in cloth]	a çja kho
+Nusu	hole [in cloth]	ɔ du du
+Jinghpo	hole [in cloth]	hku
+Lahu Shi	hole [in cloth]	-
+Lahu Na	hole [in cloth]	awl paw* tsi*
+Zaozou	hole [in cloth]	-
+Jinuo	hole [in cloth]	a khɬo
+Naxi	hole [in cloth]	tʂɨ kwɔr
+Zaiwa	hole [in cloth]	-
+Mandarin	honey	feng mi14
+Nasu	honey	-
+Lisu	honey	-
+Baihong	honey	ba31 tʃɨ55
+Hani	honey	biaq eel
+Nosu	honey	jjiyy
+Samei	honey	ljɔ ʐ(ɨ)
+Nisu	honey	-
+Biyue	honey	-
+Kucong	honey	bjɛ ɣɯ
+Nusu	honey	bjo ʐә
+Jinghpo	honey	lagat jahku
+Lahu Shi	honey	-
+Lahu Na	honey	pied xeul
+Zaozou	honey	-
+Jinuo	honey	pjɔ ɪ
+Naxi	honey	mbæ
+Zaiwa	honey	-
+Mandarin	hook	gou zi10
+Nasu	hook	ŋo_ 55
+Lisu	hook	ŋo 33
+Baihong	hook	-
+Hani	hook	kavngeeq
+Nosu	hook	gapngot
+Samei	hook	-
+Nisu	hook	ŋu_ 33
+Biyue	hook	gɤ55
+Kucong	hook	ɟu go
+Nusu	hook	gɤ dzɨ
+Jinghpo	hook	chyinghkyi
+Lahu Shi	hook	kuA35
+Lahu Na	hook	biq quair
+Zaozou	hook	tsa 44
+Jinuo	hook	a khʊ
+Naxi	hook	gɔ (fish hook)
+Zaiwa	hook	ŋje_ŋ 21
+Mandarin	horn	jiao3
+Nasu	horn	tɕhɯ 21
+Lisu	horn	o 55 tʃhɨ 44
+Baihong	horn	ɔ31 ky55
+Hani	horn	kyul
+Nosu	horn	ddie
+Samei	horn	khә bә
+Nisu	horn	tʂhɨ 21
+Biyue	horn	v.31 dɕi55
+Kucong	horn	khɔ
+Nusu	horn	tʂɨ(r)
+Jinghpo	horn	nrung
+Lahu Shi	horn	khɔ33
+Lahu Na	horn	khaw
+Zaozou	horn	o~ 55 khɯ~ 55
+Jinuo	horn	u khi
+Naxi	horn	-
+Zaiwa	horn	khjui 51
+Mandarin	horse	ma3
+Nasu	horse	mu 33
+Lisu	horse	a 55 mo 31
+Baihong	horse	a31 mo31
+Hani	horse	moq
+Nosu	horse	mu
+Samei	horse	mɛr (?)
+Nisu	horse	mo 33
+Biyue	horse	mo31
+Kucong	horse	mo
+Nusu	horse	mrә
+Jinghpo	horse	gumra
+Lahu Shi	horse	mɔ53
+Lahu Na	horse	iq mud
+Zaozou	horse	mia 31
+Jinuo	horse	mjʊ
+Naxi	horse	kәr (kwɔr?)
+Zaiwa	horse	mjaŋ 21
+Mandarin	hot	re4
+Nasu	hot	tsho 21
+Lisu	hot	tsha 44
+Baihong	hot	lɔ55
+Hani	hot	laol
+Nosu	hot	dutca
+Samei	hot	tswɔ
+Nisu	hot	tʂhɨ_ 33
+Biyue	hot	lo55
+Kucong	hot	ci
+Nusu	hot	tsә
+Jinghpo	hot	gahtet
+Lahu Shi	hot	xɔ~55
+Lahu Na	hot	haw
+Zaozou	hot	tshɯ 33
+Jinuo	hot	ɬo
+Naxi	hot	tshәr33
+Zaiwa	hot	ɲe 55
+Mandarin	house	fang zi20
+Nasu	house	hɚ 21
+Lisu	house	hi 33
+Baihong	house	la31 xo55
+Hani	house	laqhyul
+Nosu	house	yi
+Samei	house	hi (xi?)
+Nisu	house	xiɛ 21
+Biyue	house	ji55 go55
+Kucong	house	ʝɛ
+Nusu	house	jɔ
+Jinghpo	house	nta
+Lahu Shi	house	ʑɛ31
+Lahu Na	house	yiel
+Zaozou	house	ʑæ~ 33 læ 31
+Jinuo	house	tso
+Naxi	house	nji31
+Zaiwa	house	ju_m 51
+Mandarin	hundred	bai3
+Nasu	hundred	ho 21
+Lisu	hundred	hɛ 33
+Baihong	hundred	ja (ʒa?)55
+Hani	hundred	yal
+Nosu	hundred	hxa
+Samei	hundred	no
+Nisu	hundred	xo 21
+Biyue	hundred	ja55
+Kucong	hundred	xa
+Nusu	hundred	ti hjɔ (hja?)
+Jinghpo	hundred	tsa
+Lahu Shi	hundred	ti31 xA31 mA31
+Lahu Na	hundred	ha
+Zaozou	hundred	tɯ 31 ʑo 55
+Jinuo	hundred	thi xjɔ
+Naxi	hundred	ɕi33
+Zaiwa	hundred	ʃo 51
+Mandarin	hungry	e4
+Nasu	hungry	ɲi_ 55
+Lisu	hungry	mɯ 42
+Baihong	hungry	me31
+Hani	hungry	meivq
+Nosu	hungry	mit
+Samei	hungry	ɲi
+Nisu	hungry	ni_ 21
+Biyue	hungry	mje31
+Kucong	hungry	mɯ
+Nusu	hungry	ma
+Jinghpo	hungry	kosi
+Lahu Shi	hungry	mɤ31
+Lahu Na	hungry	meor
+Zaozou	hungry	ma 42
+Jinuo	hungry	a me mɤ (a me = rice; mifan)
+Naxi	hungry	ʐu31
+Zaiwa	hungry	tso 21 mut 55
+Mandarin	hunt	shou4 lie4
+Nasu	hunt	ɬɚ 33 ŋgha_ 55
+Lisu	hunt	xua 31 ga 42
+Baihong	hunt	sa55 le31
+Hani	hunt	saqleiq
+Nosu	hunt	kesi hxitmgot
+Samei	hunt	mә (= capture 'zhuo' ?)
+Nisu	hunt	xi_ɛ_ 33 bɛ_ 33
+Biyue	hunt	dzɨ55 tɤ33
+Kucong	hunt	çja qa
+Nusu	hunt	hɔbi
+Jinghpo	hunt	shan gap
+Lahu Shi	hunt	sA11 bɔ54
+Lahu Na	hunt	shaf bawt
+Zaozou	hunt	xo 31 tɕa~ 55
+Jinuo	hunt	u tha kɹa
+Naxi	hunt	hɯ ndy55
+Zaiwa	hunt	ŋo 21 ne_ 21 ne_ 21
+Mandarin	hurt	teng2
+Nasu	hurt	no 21
+Lisu	hurt	na 33
+Baihong	hurt	na55
+Hani	hurt	nal
+Nosu	hurt	na
+Samei	hurt	nɔ
+Nisu	hurt	no 21
+Biyue	hurt	na55
+Kucong	hurt	na
+Nusu	hurt	nwɔ
+Jinghpo	hurt	machyi
+Lahu Shi	hurt	nA31
+Lahu Na	hurt	nal
+Zaozou	hurt	no 33
+Jinuo	hurt	nɔ (same as sick)
+Naxi	hurt	ŋgu31
+Zaiwa	hurt	no 51
+Mandarin	husband	zhang4 fu1
+Nasu	husband	sɯ 55 ɣɯ 21
+Lisu	husband	hi 33 sɨ 44 pha 31
+Baihong	husband	xa31 ja55
+Hani	husband	-
+Nosu	husband	-
+Samei	husband	sa v.
+Nisu	husband	pho 21 mA 33
+Biyue	husband	a55 dʒɨ53 ɲi55
+Kucong	husband	pha mo
+Nusu	husband	mi (same as husband)
+Jinghpo	husband	madu wa
+Lahu Shi	husband	ŋa31 phɔ33 mɔ53
+Lahu Na	husband	awl phawd
+Zaozou	husband	tɕa 35 ʑa 44
+Jinuo	husband	khɒ phɔ
+Naxi	husband	-
+Zaiwa	husband	laŋ 51
+Mandarin	I	wo3
+Nasu	I	ŋo 33
+Lisu	I	ŋua 33
+Baihong	I	ŋa55
+Hani	I	ngal
+Nosu	I	nga
+Samei	I	ŋɔ
+Nisu	I	ŋo 21
+Biyue	I	ŋa55
+Kucong	I	ŋa
+Nusu	I	wɔ
+Jinghpo	I	ngai
+Lahu Shi	I	ŋA31
+Lahu Na	I	ngal
+Zaozou	I	ŋo 33
+Jinuo	I	ŋo
+Naxi	I	ŋә31
+Zaiwa	I	ŋo 51
+Mandarin	insect	chong zi20
+Nasu	insect	bu 33
+Lisu	insect	bɯ 31 di 33
+Baihong	insect	a31 bi31
+Hani	insect	aq zuq
+Nosu	insect	bbupddi
+Samei	insect	vә
+Nisu	insect	bu 33
+Biyue	insect	bi31 dʒv.31
+Kucong	insect	bo
+Nusu	insect	a ɕi (sɨ?) a (βa?)
+Jinghpo	insect	shingtai
+Lahu Shi	insect	po31 mɤ31
+Lahu Na	insect	peor meo
+Zaozou	insect	pa 31 ti 31 o~ 33
+Jinuo	insect	pu tʃu
+Naxi	insect	mbi 23 ndi31
+Zaiwa	insect	pau 21
+Mandarin	inside	li mian34
+Nasu	inside	khɯ 21 kɯ 55
+Lisu	inside	e 55 khu 31 kua 44
+Baihong	inside	xo31 dʒe31 po31
+Hani	inside	hhol qei pyu
+Nosu	inside	kujox
+Samei	inside	khʊ di
+Nisu	inside	A 55 kho 21
+Biyue	inside	ɔ31 ko55 li55
+Kucong	inside	a qo bo
+Nusu	inside	khja gɯ
+Jinghpo	inside	gata
+Lahu Shi	inside	ɔ31 qhɔ33 phɔ53
+Lahu Na	inside	awl qhaw
+Zaozou	inside	a 31 kɯ 55 ɕi 33
+Jinuo	inside	khjo ja
+Naxi	inside	-
+Zaiwa	inside	a 21 khau 51 ma 55
+Mandarin	itchy	yang3
+Nasu	itchy	ʑo 33
+Lisu	itchy	ni 35 mu 44
+Baihong	itchy	dzɤ55
+Hani	itchy	ziiv
+Nosu	itchy	yi
+Samei	itchy	khy
+Nisu	itchy	ʐo 33
+Biyue	itchy	dzɨ33
+Kucong	itchy	ɟә
+Nusu	itchy	hɤ jɯ
+Jinghpo	itchy	gaya
+Lahu Shi	itchy	dzɨ53
+Lahu Na	itchy	dzit
+Zaozou	itchy	ʑo 31
+Jinuo	itchy	tsɨ
+Naxi	itchy	ka31 ka33
+Zaiwa	itchy	jo 21
+Mandarin	joint	guan jie12
+Nasu	joint	-
+Lisu	joint	-
+Baihong	joint	dzɤ31
+Hani	joint	-
+Nosu	joint	zyt
+Samei	joint	-
+Nisu	joint	-
+Biyue	joint	-
+Kucong	joint	a ɟe gu
+Nusu	joint	lo tsi
+Jinghpo	joint	lamyi laman
+Lahu Shi	joint	-
+Lahu Na	joint	awl ziq
+Zaozou	joint	-
+Jinuo	joint	la tshɨ
+Naxi	joint	ʐәr
+Zaiwa	joint	-
+Mandarin	jump	tiao4
+Nasu	jump	ʈhi_ 21
+Lisu	jump	tɯ 35
+Baihong	jump	di55
+Hani	jump	coq
+Nosu	jump	qie
+Samei	jump	tjo
+Nisu	jump	pi_ 33
+Biyue	jump	dɤ55
+Kucong	jump	bo
+Nusu	jump	tɯ
+Jinghpo	jump	ka
+Lahu Shi	jump	pɔ54
+Lahu Na	jump	pawt
+Zaozou	jump	tɕio~ 44
+Jinuo	jump	thɯ
+Naxi	jump	tsho33
+Zaiwa	jump	pjam 51
+Mandarin	kick	ti1
+Nasu	kick	ɳɖho_ 21
+Lisu	kick	pe 35
+Baihong	kick	tɛ (de?)31
+Hani	kick	teiv
+Nosu	kick	bie
+Samei	kick	tɕa
+Nisu	kick	du_ 33
+Biyue	kick	ti55
+Kucong	kick	the
+Nusu	kick	khwe
+Jinghpo	kick	htong
+Lahu Shi	kick	thi55
+Lahu Na	kick	thet
+Zaozou	kick	pæ 44
+Jinuo	kick	kɹo
+Naxi	kick	tshɯ33
+Zaiwa	kick	pik 55
+Mandarin	kidney	sheng4
+Nasu	kidney	ʔɯ 33
+Lisu	kidney	o 42 di 33
+Baihong	kidney	jo55 dzɨ31
+Hani	kidney	hhoqsiq
+Nosu	kidney	o
+Samei	kidney	-
+Nisu	kidney	kA 33 piɛ 55
+Biyue	kidney	jau33 dzɨ31
+Kucong	kidney	a di li çi
+Nusu	kidney	u thә
+Jinghpo	kidney	sade
+Lahu Shi	kidney	ʑao53 tsɨ33
+Lahu Na	kidney	awl lad shif
+Zaozou	kidney	ʑi 55 tsɨ 31
+Jinuo	kidney	ʃәn
+Naxi	kidney	dzi
+Zaiwa	kidney	tʃin 55 lu_m 21
+Mandarin	kill	sha1
+Nasu	kill	si_ 55
+Lisu	kill	se 42
+Baihong	kill	ɕe31
+Hani	kill	seivq
+Nosu	kill	sit
+Samei	kill	ɕi
+Nisu	kill	sɨ_ 21
+Biyue	kill	ʃɨ31
+Kucong	kill	çe
+Nusu	kill	sa
+Jinghpo	kill	sat
+Lahu Shi	kill	ɕi35
+Lahu Na	kill	tid
+Zaozou	kill	sa 42
+Jinuo	kill	se
+Naxi	kill	sy (ʂɤ?)
+Zaiwa	kill	sat 55
+Mandarin	knife	dao1 zi0
+Nasu	knife	be 55 tho 33
+Lisu	knife	a 55 tha 31
+Baihong	knife	mi31 dʑe31
+Hani	knife	tossaq
+Nosu	knife	ddoxmusse
+Samei	knife	vi tɔ
+Nisu	knife	A 55 tiɛ 55
+Biyue	knife	mo33 dzo31
+Kucong	knife	a khɔ
+Nusu	knife	mre (mri?)
+Jinghpo	knife	nshi
+Lahu Shi	knife	A35 thɔ33
+Lahu Na	knife	aq thaw (big); aq thie* (small)
+Zaozou	knife	mia 31 kha 31
+Jinuo	knife	mjao kho
+Naxi	knife	zɯ33 the33
+Zaiwa	knife	ʃam 51
+Mandarin	know [info]	zhi1 dao4
+Nasu	know [info]	sɚ_ 55
+Lisu	know [info]	sɯ 55
+Baihong	know [info]	xa55 lɔ31
+Hani	know [info]	hev
+Nosu	know [info]	ddejji
+Samei	know [info]	sa
+Nisu	know [info]	sɛ_ 21
+Biyue	know [info]	sɨ31 la31
+Kucong	know [info]	çi bɯ
+Nusu	know [info]	su
+Jinghpo	know [info]	chye
+Lahu Shi	know [info]	ɕi11 A11
+Lahu Na	know [info]	ga* shif
+Zaozou	know [info]	ɲiæ 35
+Jinuo	know [info]	sɨ jɒ
+Naxi	know [info]	sɯ33
+Zaiwa	know [info]	se 55
+Mandarin	know [sb]	ren4 shi4
+Nasu	know [sb]	sɚ_ 55
+Lisu	know [sb]	sɯ 55
+Baihong	know [sb]	x55a lɔ31
+Hani	know [sb]	hev
+Nosu	know [sb]	syp
+Samei	know [sb]	sa
+Nisu	know [sb]	sɛ_ 21
+Biyue	know [sb]	sɨ31 la31
+Kucong	know [sb]	çi bɯ
+Nusu	know [sb]	su
+Jinghpo	know [sb]	chye
+Lahu Shi	know [sb]	ɕi11 A11
+Lahu Na	know [sb]	shif dar
+Zaozou	know [sb]	sa 42 ɣuo 33
+Jinuo	know [sb]	sɨ jɒ
+Naxi	know [sb]	sɯ33 sɯ33
+Zaiwa	know [sb]	se 55
+Mandarin	lake	hu2
+Nasu	lake	xɤ 21zo 33
+Lisu	lake	e 44 bɯ 33
+Baihong	lake	lɔ55 dɯ55
+Hani	lake	luduqduqma
+Nosu	lake	-
+Samei	lake	-
+Nisu	lake	xɤ 21 ʐo 33
+Biyue	lake	-
+Kucong	lake	do lo
+Nusu	lake	-
+Jinghpo	lake	nong
+Lahu Shi	lake	-
+Lahu Na	lake	xeul po
+Zaozou	lake	ɔ 31 pɯ~ 35
+Jinuo	lake	i tʃhɔ teәr mɯ (water +)
+Naxi	lake	-
+Zaiwa	lake	no_ŋ 55
+Mandarin	late	wan3
+Nasu	late	lɤ_ 21
+Lisu	late	lɯ 33 le 33
+Baihong	late	pi31
+Hani	late	aoq qivq
+Nosu	late	ketmop
+Samei	late	lә
+Nisu	late	lE 21
+Biyue	late	pi35
+Kucong	late	læ
+Nusu	late	swa
+Jinghpo	late	shana
+Lahu Shi	late	A31 lo35 lo35
+Lahu Na	late	mad nau* (=not early)
+Zaozou	late	ɲo 35
+Jinuo	late	a la
+Naxi	late	xo31
+Zaiwa	late	kan 21 tse 51
+Mandarin	laugh	xiao4
+Nasu	laugh	ɣo, 21
+Lisu	laugh	hɯ 42
+Baihong	laugh	ɯ55
+Hani	laugh	eel
+Nosu	laugh	-
+Samei	laugh	ɣә
+Nisu	laugh	ɣE 21
+Biyue	laugh	ga31 ʃɨ55
+Kucong	laugh	ɣɯ
+Nusu	laugh	ʐe
+Jinghpo	laugh	mani
+Lahu Shi	laugh	ɣɯ31
+Lahu Na	laugh	xeul
+Zaozou	laugh	ɣiæ 33
+Jinuo	laugh	ɤ (same as smile)
+Naxi	laugh	-
+Zaiwa	laugh	vui 51
+Mandarin	leaf	je zi40
+Nasu	leaf	pha_ 55
+Lisu	leaf	e 55 phia 31
+Baihong	leaf	a55 pa31
+Hani	leaf	al pavq
+Nosu	leaf	qi
+Samei	leaf	ʂɨ sɔ
+Nisu	leaf	phi_ɛ_ 21
+Biyue	leaf	a31 pa31
+Kucong	leaf	çә phjɛ
+Nusu	leaf	si po lo
+Jinghpo	leaf	lap
+Lahu Shi	leaf	sɨ54 phA 21
+Lahu Na	leaf	sit phar
+Zaozou	leaf	tɯ 55 pho 55
+Jinuo	leaf	a pha
+Naxi	leaf	ndza phiә55
+Zaiwa	leaf	a 21 xa? 55
+Mandarin	leaf (of tree)	shu4 ye4
+Nasu	leaf (of tree)	si_ 21 pha_ 55
+Lisu	leaf (of tree)	sɨ 35 phiɛ 31
+Baihong	leaf (of tree)	-
+Hani	leaf (of tree)	-
+Nosu	leaf (of tree)	-
+Samei	leaf (of tree)	-
+Nisu	leaf (of tree)	sɨ_ 33 phi_ɛ_ 21
+Biyue	leaf (of tree)	a31 pa31
+Kucong	leaf (of tree)	-
+Nusu	leaf (of tree)	-
+Jinghpo	leaf (of tree)	-
+Lahu Shi	leaf (of tree)	sɨ54 phA 21
+Lahu Na	leaf (of tree)	-
+Zaozou	leaf (of tree)	sæ 42 pho 42
+Jinuo	leaf (of tree)	-
+Naxi	leaf (of tree)	-
+Zaiwa	leaf (of tree)	sik 55 xaʔ 55
+Mandarin	leech	shui3 zhi4
+Nasu	leech	-
+Lisu	leech	-
+Baihong	leech	a31 xa31
+Hani	leech	-
+Nosu	leech	nbit
+Samei	leech	-
+Nisu	leech	-
+Biyue	leech	-
+Kucong	leech	we (ve?)
+Nusu	leech	hmju hmju
+Jinghpo	leech	dongbyin
+Lahu Shi	leech	-
+Lahu Na	leech	ver
+Zaozou	leech	-
+Jinuo	leech	ke pjʊ
+Naxi	leech	bә di nda gœ
+Zaiwa	leech	-
+Mandarin	left	zuo3
+Nasu	left	fo, 33
+Lisu	left	lɛ 42 ɣɯ 55
+Baihong	left	la31 tha55
+Hani	left	jaqqal
+Nosu	left	laxvy
+Samei	left	le va
+Nisu	left	A 55 fE 33
+Biyue	left	la31 mi_31
+Kucong	left	la? fɯ (~fәr)
+Nusu	left	we
+Jinghpo	left	pai
+Lahu Shi	left	lA 21 mɛ31
+Lahu Na	left	lar mief
+Zaozou	left	lou 42 ve~ 31
+Jinuo	left	la v.
+Naxi	left	ua33
+Zaiwa	left	lo? 21 pa_i 21
+Mandarin	leg	da4 tui3
+Nasu	leg	ʈho 33 pha_ 33 (= tui); tɕhi 33 pu 33 tso_ 21 (= datui)
+Lisu	leg	bu 44 vu 31
+Baihong	leg	kɯ31 dʊ55
+Hani	leg	saqpiaq
+Nosu	leg	bburlie
+Samei	leg	khe be
+Nisu	leg	bo 21 phi_ɛ_ 33
+Biyue	leg	bv.53 dv.53
+Kucong	leg	pha wo
+Nusu	leg	sa (= tui)
+Jinghpo	leg	magyi
+Lahu Shi	leg	phA55 ɣɔ55 du31
+Lahu Na	leg	puf tie
+Zaozou	leg	po 33 sɔ 33
+Jinuo	leg	a phɹɔ; ʃɔ khi
+Naxi	leg	khɯ (wa)
+Zaiwa	leg	ta_ŋ 21 pau 55
+Mandarin	lick	tian3
+Nasu	lick	lɚ_ 55
+Lisu	lick	lɯ 42
+Baihong	lick	mɤ55
+Hani	lick	mievq
+Nosu	lick	yot
+Samei	lick	la
+Nisu	lick	lɛ_ 21
+Biyue	lick	mɔ31
+Kucong	lick	læ
+Nusu	lick	lio (liɔ?)
+Jinghpo	lick	mata
+Lahu Shi	lick	lɛ31
+Lahu Na	lick	shaw lier
+Zaozou	lick	lio 42
+Jinuo	lick	mɹɒ
+Naxi	lick	ʑә31
+Zaiwa	lick	jo? 21
+Mandarin	lie down	tang3
+Nasu	lie down	ʑi_ 55
+Lisu	lie down	e 31 ta 55 xa 35
+Baihong	lie down	v.55 dʒa (tɕa?)55
+Hani	lie down	leeq
+Nosu	lie down	gondox
+Samei	lie down	ʐɨ de
+Nisu	lie down	zɨ_ 21
+Biyue	lie down	ji33 dza33
+Kucong	lie down	go
+Nusu	lie down	ɣɔ
+Jinghpo	lie down	galeng
+Lahu Shi	lie down	zɨ31 tA31
+Lahu Na	lie down	lo
+Zaozou	lie down	læ 42
+Jinuo	lie down	kɹɒ tʃa
+Naxi	lie down	ʑi55
+Zaiwa	lie down	leʔ 21 to_ 21
+Mandarin	lie, to tell	shuo huang12
+Nasu	lie, to tell	-
+Lisu	lie, to tell	-
+Baihong	lie, to tell	dza31 ɣa31 ɣa31
+Hani	lie, to tell	doq hheivq gee
+Nosu	lie, to tell	mgiexshyr
+Samei	lie, to tell	khi sau na
+Nisu	lie, to tell	-
+Biyue	lie, to tell	-
+Kucong	lie, to tell	ŋo (no?) xe
+Nusu	lie, to tell	lu ɕa
+Jinghpo	lie, to tell	masu
+Lahu Shi	lie, to tell	-
+Lahu Na	lie, to tell	hef
+Zaozou	lie, to tell	-
+Jinuo	lie, to tell	kɤ
+Naxi	lie, to tell	ɕi gwa (ɕi = person)
+Zaiwa	lie, to tell	-
+Mandarin	light	qing1
+Nasu	light	lɔ 21
+Lisu	light	lo 44
+Baihong	light	pa55
+Hani	light	pial
+Nosu	light	yoxso
+Samei	light	lʊ khɔ
+Nisu	light	lA 21
+Biyue	light	pa55
+Kucong	light	lɔ bæ
+Nusu	light	ljɔ
+Jinghpo	light	tsang
+Lahu Shi	light	lɔ31
+Lahu Na	light	lawl
+Zaozou	light	la~ 33
+Jinuo	light	a hjɔ phɹe
+Naxi	light	ʑu31
+Zaiwa	light	som 21
+Mandarin	lightning	shan dian34
+Nasu	lightning	tshe 33 ɖɚ_ 55
+Lisu	lightning	mu 31 bi 31
+Baihong	lightning	ɤ31 mi31
+Hani	lightning	aoq miaovq miaovq
+Nosu	lightning	muhlit
+Samei	lightning	mә gә lә ә
+Nisu	lightning	mu 33 ɬɤ_ 21
+Biyue	lightning	mi31 dzɤ31
+Kucong	lightning	mɔ bæ
+Nusu	lightning	-
+Jinghpo	lightning	myihprap
+Lahu Shi	lightning	mo53 pɛ31 pɛ31
+Lahu Na	lightning	mud tiq por
+Zaozou	lightning	mɯ 31 tɕha 33
+Jinuo	lightning	tshɨ na tɯ; mi ji tɯ
+Naxi	lightning	mɯ33 ji tse55
+Zaiwa	lightning	la_p 55 tʃhik 55
+Mandarin	like	xi huan31
+Nasu	like	le 55
+Lisu	like	ni 35 phu 33
+Baihong	like	ga31
+Hani	like	hhyul
+Nosu	like	hxievur
+Samei	like	ɣә ʐɨ
+Nisu	like	gɯ 21
+Biyue	like	mi55 mɤ31
+Kucong	like	jɛ wo læ/-ga
+Nusu	like	sɨ gjә
+Jinghpo	like	gabu/sharong
+Lahu Shi	like	xA33 lɛ31
+Lahu Na	like	ha/v+ ka*
+Zaozou	like	na 55
+Jinuo	like	mɯ nu i/tsɒ nʊ (tsa = eat)
+Naxi	like	phiә31
+Zaiwa	like	ke` 21 pu 55
+Mandarin	lip	chun2
+Nasu	lip	ɲe_ 55 tʂho, 33
+Lisu	lip	mɯ 31 lɯ 35 ku 35 dʒɪ 33
+Baihong	lip	me31 lʊ55
+Hani	lip	meiqjil
+Nosu	lip	mipbup
+Samei	lip	ɲi phi
+Nisu	lip	ni_ɛ_ 21 pɛ_ 33
+Biyue	lip	mi31 dʑi55
+Kucong	lip	mә qu (gu?)
+Nusu	lip	-
+Jinghpo	lip	nten
+Lahu Shi	lip	mɔ53 gɯ31
+Lahu Na	lip	meod geul
+Zaozou	lip	ɲi 44 ?ua 55
+Jinuo	lip	mɯ kho
+Naxi	lip	ge nv.55 mbi31 (upper mouth) mә nv.55 mbi31 (lower mouth)
+Zaiwa	lip	nu_t 55 ku_ʔ 55
+Mandarin	liquor	jiu3
+Nasu	liquor	nd&hi 21
+Lisu	liquor	dʒi 33 phɯ 31
+Baihong	liquor	dzi31 ba31
+Hani	liquor	zil baq
+Nosu	liquor	nry
+Samei	liquor	dʐɨ
+Nisu	liquor	dʐɨ 21
+Biyue	liquor	dʒɨ55 bo31
+Kucong	liquor	ɟә
+Nusu	liquor	ʑi
+Jinghpo	liquor	tsa
+Lahu Shi	liquor	dzɨ31
+Lahu Na	liquor	dzil
+Zaozou	liquor	ʑi 33
+Jinuo	liquor	jjɛ phɯ
+Naxi	liquor	ʐɯ33
+Zaiwa	liquor	I 51 phe 21
+Mandarin	listen	ting1
+Nasu	listen	no 33
+Lisu	listen	na 44 lo 35
+Baihong	listen	na55 xa31
+Hani	listen	-
+Nosu	listen	-
+Samei	listen	bɔ nɔ
+Nisu	listen	no 55 ni 55
+Biyue	listen	go31 la55 ba55
+Kucong	listen	na ni
+Nusu	listen	hnɔ
+Jinghpo	listen	madat
+Lahu Shi	listen	kA55
+Lahu Na	listen	na
+Zaozou	listen	no 55
+Jinuo	listen	nɒ (nɒ ɒ ?)
+Naxi	listen	-
+Zaiwa	listen	kjo 21
+Mandarin	little brother	di di40
+Nasu	little brother	a 55 ɲi 21 zo 33
+Lisu	little brother	ɲi 44 za 31
+Baihong	little brother	a31 ɲi55
+Hani	little brother	aq nil
+Nosu	little brother	ixyi
+Samei	little brother	ɲә khɔ
+Nisu	little brother	nE 21 tɕhi_ɛ_ 33
+Biyue	little brother	ɲi55 dʒɨ31
+Kucong	little brother	ɲɛ ba
+Nusu	little brother	gɤ gɤ
+Jinghpo	little brother	nau
+Lahu Shi	little brother	ŋA31 nA35 pA31
+Lahu Na	little brother	awl ni paf
+Zaozou	little brother	kæ 35 ʑa 44
+Jinuo	little brother	ɲɛ zɔ
+Naxi	little brother	ŋgɯ33 zɯ33
+Zaiwa	little brother	a 55 ku 21
+Mandarin	little sister	mei mei40
+Nasu	little sister	a 55 ɲi 21 zo 33
+Lisu	little sister	ɲi 44 ma 44
+Baihong	little sister	a31 ɲi55 dɤ ma (younger sib)
+Hani	little sister	dul ma
+Nosu	little sister	hnipmop
+Samei	little sister	ɲә mɔ
+Nisu	little sister	nE 21 mo 21
+Biyue	little sister	ɲi31 mo33
+Kucong	little sister	ɲɛ ma
+Nusu	little sister	gɤ gɤ
+Jinghpo	little sister	nau
+Lahu Shi	little sister	ŋA31 nA35 mA33
+Lahu Na	little sister	awl ni ma
+Zaozou	little sister	kæ 35 mi 35 ʑa 44
+Jinuo	little sister	ɲɛ zɔ
+Naxi	little sister	ŋgu33 me33
+Zaiwa	little sister	a 55 ku 21
+Mandarin	liver	gan1
+Nasu	liver	sɨ 55
+Lisu	liver	sɨ 31
+Baihong	liver	a31 tsoŋ31
+Hani	liver	caoq
+Nosu	liver	sip
+Samei	liver	gә
+Nisu	liver	sE 21
+Biyue	liver	o31 dzɨ31
+Kucong	liver	a çæ
+Nusu	liver	dzɨ(r)
+Jinghpo	liver	sinja
+Lahu Shi	liver	ɔ31 ɕɛ11
+Lahu Na	liver	awl shief
+Zaozou	liver	se~ 31 vu 35
+Jinuo	liver	tshɨ na
+Naxi	liver	sәr55
+Zaiwa	liver	siŋ 21
+Mandarin	long	chang2
+Nasu	long	ʂɚ 33
+Lisu	long	ʃɨ 44
+Baihong	long	mɔ55
+Hani	long	mol
+Nosu	long	asho
+Samei	long	go vi
+Nisu	long	sE 55
+Biyue	long	mo55
+Kucong	long	ʝәr (ʝɚr)
+Nusu	long	we
+Jinghpo	long	galu
+Lahu Shi	long	zɨ31
+Lahu Na	long	ril
+Zaozou	long	ɣe~ 55
+Jinuo	long	jɒ kho la ʃɨ
+Naxi	long	ʂәr
+Zaiwa	long	xiŋ 51
+Mandarin	look at	kan4
+Nasu	look at	na_ 21
+Lisu	look at	ɲi 44
+Baihong	look at	f. (fɯ?)31
+Hani	look at	hu
+Nosu	look at	hxep
+Samei	look at	ŋɤ
+Nisu	look at	ni 55
+Biyue	look at	di31
+Kucong	look at	ŋo
+Nusu	look at	ʐu
+Jinghpo	look at	yu
+Lahu Shi	look at	ɣɔ313
+Lahu Na	look at	ni
+Zaozou	look at	ŋæ 44
+Jinuo	look at	tæ
+Naxi	look at	ly31
+Zaiwa	look at	vu 55
+Mandarin	louse	shi zi10
+Nasu	louse	ɕe 21
+Lisu	louse	xɯ 44
+Baihong	louse	o31 ɕe55
+Hani	louse	seil
+Nosu	louse	she
+Samei	louse	gә ɕi
+Nisu	louse	ɕiɛ 21
+Biyue	louse	ɕi55 pv.55
+Kucong	louse	çjә mɔ
+Nusu	louse	ɕja
+Jinghpo	louse	tsi
+Lahu Shi	louse	sɯ54
+Lahu Na	louse	she
+Zaozou	louse	xɔ 31 o~ 33
+Jinuo	louse	ɕɛ mɔ
+Naxi	louse	su33
+Zaiwa	louse	ʃin 21
+Mandarin	lung	fei4
+Nasu	lung	tshɯ 55
+Lisu	lung	bu 42 mu 44
+Baihong	lung	a55 po55
+Hani	lung	povq
+Nosu	lung	cypmop
+Samei	lung	-
+Nisu	lung	tʂhɨ 21
+Biyue	lung	a31 pje31
+Kucong	lung	a co
+Nusu	lung	tshwә
+Jinghpo	lung	sinwop
+Lahu Shi	lung	ɔ31 tshɨ53
+Lahu Na	lung	awl zhid phod
+Zaozou	lung	tɕhy~i 33 phu 31
+Jinuo	lung	a tshɨ
+Naxi	lung	tʂhәr55
+Zaiwa	lung	tsu_t 55
+Mandarin	man	nan ren22
+Nasu	man	zo 33
+Lisu	man	za 31
+Baihong	man	xa31 dʑi31 ja31
+Hani	man	ssaqyossaq
+Nosu	man	-
+Samei	man	ʂɨ le
+Nisu	man	ʔu_ 33 tsE 55 ʐo 33
+Biyue	man	ja31 jo33
+Kucong	man	xo qha ba
+Nusu	man	ju zwɔ
+Jinghpo	man	la
+Lahu Shi	man	xɔ55 qhA53
+Lahu Na	man	hawq qhat paf
+Zaozou	man	o 55 vu 31 ʑa 44
+Jinuo	man	khɒ phɒ (same as husband)
+Naxi	man	-
+Zaiwa	man	juʔ 21 ke 51
+Mandarin	many	duo1
+Nasu	many	ɳo 33
+Lisu	many	mia 31
+Baihong	many	ɲa31
+Hani	many	miaq
+Nosu	many	axnyi
+Samei	many	nɔ
+Nisu	many	no 33
+Biyue	many	mo31
+Kucong	many	a mi
+Nusu	many	mjɔ
+Jinghpo	many	lo
+Lahu Shi	many	mA53
+Lahu Na	many	mad
+Zaozou	many	mi 42
+Jinuo	many	tha
+Naxi	many	mbɯ31
+Zaiwa	many	bɯ`m 53
+Mandarin	marrow	gu sui33
+Nasu	marrow	-
+Lisu	marrow	-
+Baihong	marrow	-
+Hani	marrow	saq yyuq piul taoq
+Nosu	marrow	jurxiur
+Samei	marrow	-
+Nisu	marrow	-
+Biyue	marrow	-
+Kucong	marrow	a bɔ xɔ
+Nusu	marrow	-
+Jinghpo	marrow	lasui
+Lahu Shi	marrow	-
+Lahu Na	marrow	awl jaw* paw*
+Zaozou	marrow	-
+Jinuo	marrow	tho no
+Naxi	marrow	ʂwa lәr se
+Zaiwa	marrow	-
+Mandarin	marry, to	jie hun21
+Nasu	marry, to	-
+Lisu	marry, to	-
+Baihong	marry, to	-
+Hani	marry, to	cuv zaq
+Nosu	marry, to	xyp
+Samei	marry, to	gy
+Nisu	marry, to	-
+Biyue	marry, to	-
+Kucong	marry, to	ʝa mi bi ca
+Nusu	marry, to	ji hʊn
+Jinghpo	marry, to	hkungran
+Lahu Shi	marry, to	-
+Lahu Na	marry, to	bie* tu*
+Zaozou	marry, to	-
+Jinuo	marry, to	tha ja mә (= "liang ge ren zai yiqi")
+Naxi	marry, to	jjɛ hʊn
+Zaiwa	marry, to	-
+Mandarin	meat	rou4
+Nasu	meat	xo 33
+Lisu	meat	xua 31
+Baihong	meat	sa31
+Hani	meat	saq
+Nosu	meat	she
+Samei	meat	ha
+Nisu	meat	xo 33
+Biyue	meat	sɔ31
+Kucong	meat	çja
+Nusu	meat	ʂo (ɕɔ?)
+Jinghpo	meat	shan
+Lahu Shi	meat	sA11
+Lahu Na	meat	shaf
+Zaozou	meat	xo 31
+Jinuo	meat	a na
+Naxi	meat	ʂɯ33
+Zaiwa	meat	ʃo 21
+Mandarin	medicine	yao4
+Nasu	medicine	no 21 tshi 33
+Lisu	medicine	nɛ 44 tshɨ 31
+Baihong	medicine	na55 tɕi31
+Hani	medicine	-
+Nosu	medicine	-
+Samei	medicine	-
+Nisu	medicine	no 21 tshɨ 33
+Biyue	medicine	tʃɨ31
+Kucong	medicine	-
+Nusu	medicine	-
+Jinghpo	medicine	tsi
+Lahu Shi	medicine	nA35 tshɨ33
+Lahu Na	medicine	-
+Zaozou	medicine	ʑu 44
+Jinuo	medicine	-
+Naxi	medicine	-
+Zaiwa	medicine	tʃhi 21
+Mandarin	mend (clothes)	bu3
+Nasu	mend (clothes)	nɚ_ 55
+Lisu	mend (clothes)	pe 44
+Baihong	mend (clothes)	gʊ31
+Hani	mend (clothes)	guvqtaol
+Nosu	mend (clothes)	ddut
+Samei	mend (clothes)	na
+Nisu	mend (clothes)	nɛ_ 21 pu_ 33
+Biyue	mend (clothes)	dv.31
+Kucong	mend (clothes)	næ ɟu
+Nusu	mend (clothes)	tʂɔ (tʂa?)
+Jinghpo	mend (clothes)	gapa
+Lahu Shi	mend (clothes)	nɛ35
+Lahu Na	mend (clothes)	nieq
+Zaozou	mend (clothes)	pho 33
+Jinuo	mend (clothes)	sɨ (same as sew?)
+Naxi	mend (clothes)	fv.55
+Zaiwa	mend (clothes)	pho 51
+Mandarin	metal	jin shu13
+Nasu	metal	-
+Lisu	metal	-
+Baihong	metal	pʊ55 sɤ55
+Hani	metal	-
+Nosu	metal	shexwo
+Samei	metal	hɯ (?)
+Nisu	metal	-
+Biyue	metal	-
+Kucong	metal	-
+Nusu	metal	ɕjɛ
+Jinghpo	metal	ja hpri magri re ai ni
+Lahu Shi	metal	-
+Lahu Na	metal	-
+Zaozou	metal	-
+Jinuo	metal	ɕɛ
+Naxi	metal	-
+Zaiwa	metal	-
+Mandarin	milk	niu nai33
+Nasu	milk	-
+Lisu	milk	-
+Baihong	milk	a31 ɲu31 a55 tʃɨ55
+Hani	milk	aq niuq niuq qul
+Nosu	milk	-
+Samei	milk	a na a bi ʐ.
+Nisu	milk	-
+Biyue	milk	-
+Kucong	milk	ɲu ɟu
+Nusu	milk	ɲu naj
+Jinghpo	milk	nga chyu
+Lahu Shi	milk	-
+Lahu Na	milk	nud cuq xeul
+Zaozou	milk	-
+Jinuo	milk	me nju me ɪ (me nju = cow, me = breast, i = water)
+Naxi	milk	ɣ. nɔ
+Zaiwa	milk	-
+Mandarin	monkey	hou zi20
+Nasu	monkey	a 33 ɳo_ 55
+Lisu	monkey	tʃɛ 35 mi 42
+Baihong	monkey	a55 mi31
+Hani	monkey	al miuvq
+Nosu	monkey	anyut
+Samei	monkey	a no
+Nisu	monkey	A 55 nu_ 21
+Biyue	monkey	a55 mv.31
+Kucong	monkey	mo
+Nusu	monkey	mju
+Jinghpo	monkey	woi
+Lahu Shi	monkey	tsA31 mɔ 21
+Lahu Na	monkey	mawr
+Zaozou	monkey	mia 42 o~ 33
+Jinuo	monkey	ho ma
+Naxi	monkey	ә55 ʑu31
+Zaiwa	monkey	mju? 21
+Mandarin	moon	ye4 liang0
+Nasu	moon	ɳo_ 21 bo_ 21
+Lisu	moon	ha 33 ba 33
+Baihong	moon	ba31 la31
+Hani	moon	ba la
+Nosu	moon	hlopbbop
+Samei	moon	sɔ bɔ
+Nisu	moon	xo 21 bo 21 mo 21
+Biyue	moon	bo33 lo33
+Kucong	moon	xa ba
+Nusu	moon	hɬɔ
+Jinghpo	moon	shata
+Lahu Shi	moon	xA33 pA33
+Lahu Na	moon	ha pa
+Zaozou	moon	lɔ 35 læ 31
+Jinuo	moon	pu ɬɔ
+Naxi	moon	xe33 ga
+Zaiwa	moon	lo`_ 55 mo 55
+Mandarin	morning	zao shang34
+Nasu	morning	ɕe 33 mu 33
+Lisu	morning	nɛ 42 nɛ 42
+Baihong	morning	ɔ (u?)55 sɔ31
+Hani	morning	aoq soq
+Nosu	morning	shedex
+Samei	morning	nɯ xɯ
+Nisu	morning	mu 33 ɕiɛ 55
+Biyue	morning	na31 na33
+Kucong	morning	mɔ çjɔ
+Nusu	morning	ɲi hna
+Jinghpo	morning	jahpot
+Lahu Shi	morning	mo55 thi53
+Lahu Na	morning	mud shawq
+Zaozou	morning	na 42 nu 42
+Jinuo	morning	nәr (nɚ?) ʃa
+Naxi	morning	i dɤ
+Zaiwa	morning	nap 21 kjo 55
+Mandarin	mortar	yan bo21
+Nasu	mortar	-
+Lisu	mortar	-
+Baihong	mortar	xo (xɔ?)31 lɔ31
+Hani	mortar	-
+Nosu	mortar	-
+Samei	mortar	ɕi
+Nisu	mortar	-
+Biyue	mortar	-
+Kucong	mortar	ca kho tho
+Nusu	mortar	phɯ tsɔ
+Jinghpo	mortar	-
+Lahu Shi	mortar	-
+Lahu Na	mortar	ca* bu*
+Zaozou	mortar	-
+Jinuo	mortar	la khe
+Naxi	mortar	-
+Zaiwa	mortar	-
+Mandarin	mosquito	wen2 zi0
+Nasu	mosquito	hɔ 21 ʂo, 33
+Lisu	mosquito	hɛ 31 tho 35
+Baihong	mosquito	a55 mo55
+Hani	mosquito	yalgoq
+Nosu	mosquito	bbusse
+Samei	mosquito	ʐu hә
+Nisu	mosquito	xA 21 sE 55
+Biyue	mosquito	ji55 gv.31
+Kucong	mosquito	bɯ çә
+Nusu	mosquito	dʐɔ
+Jinghpo	mosquito	jigrong
+Lahu Shi	mosquito	pɤ35 tsa35 qɔ53
+Lahu Na	mosquito	peuq caq qawd
+Zaozou	mosquito	tɕyi~ 44 ka~ 55 o~ 33
+Jinuo	mosquito	xjɔ kjɔ
+Naxi	mosquito	mbәr33 tsu31
+Zaiwa	mosquito	kja_ŋ 51
+Mandarin	mother	ma ma10
+Nasu	mother	a 55 me 33
+Lisu	mother	a 44 ma 44
+Baihong	mother	a31 ma55
+Hani	mother	aq ma
+Nosu	mother	-
+Samei	mother	a mɔ
+Nisu	mother	A 55 mo 21
+Biyue	mother	a55 mo33
+Kucong	mother	a me
+Nusu	mother	o bjɛ
+Jinghpo	mother	nu
+Lahu Shi	mother	A33 mA33
+Lahu Na	mother	ae
+Zaozou	mother	mæ 44 ʑa 44
+Jinuo	mother	a mo
+Naxi	mother	-
+Zaiwa	mother	a 55 nu 21
+Mandarin	mountain	shan1
+Nasu	mountain	bɤ 21
+Lisu	mountain	ko 44
+Baihong	mountain	xɔ55 dɔ55
+Hani	mountain	haolgaoq
+Nosu	mountain	bbo
+Samei	mountain	bu
+Nisu	mountain	bɤ 21
+Biyue	mountain	jo31 mo33
+Kucong	mountain	kho
+Nusu	mountain	-
+Jinghpo	mountain	bum
+Lahu Shi	mountain	kie33 pɤ33
+Lahu Na	mountain	qhaw
+Zaozou	mountain	ɔ 31 ɔ 31
+Jinuo	mountain	ɯ tha (= forest)
+Naxi	mountain	njy31
+Zaiwa	mountain	pum 21
+Mandarin	mouth	zui ba30
+Nasu	mouth	ɲe_ 55
+Lisu	mouth	mɯ 31 lɯ 35
+Baihong	mouth	me31 bɔ31
+Hani	mouth	meiq baoq
+Nosu	mouth	bbolo
+Samei	mouth	khi
+Nisu	mouth	ni_ɛ_ 21
+Biyue	mouth	o31 mi31
+Kucong	mouth	mɯ
+Nusu	mouth	hi~ ku
+Jinghpo	mouth	n-gup
+Lahu Shi	mouth	mɔ 21 qɔ33
+Lahu Na	mouth	mawr qaw
+Zaozou	mouth	ɲi 44 to 44
+Jinuo	mouth	mɯ khɯ
+Naxi	mouth	nv55 mbi31
+Zaiwa	mouth	nu_t 55
+Mandarin	mud	ni ba20
+Nasu	mud	ɲe_ 55
+Lisu	mud	ne 55 dzɨ 31
+Baihong	mud	dza31 ge55
+Hani	mud	mil caq mil bieiv
+Nosu	mud	nyopbop
+Samei	mud	ɲi ho
+Nisu	mud	ni_ɛ_ 21 mA 55
+Biyue	mud	ɣɤ55 tsɨ31
+Kucong	mud	ni cɯ bæ næ
+Nusu	mud	mre mre
+Jinghpo	mud	hkumpup
+Lahu Shi	mud	A35 ji33 vi54
+Lahu Na	mud	mie* u*
+Zaozou	mud	tsɔ 44 ne 44
+Jinuo	mud	a pɹɯ (same as clay)
+Naxi	mud	ʂә tʂɯ33
+Zaiwa	mud	tse_ 21 li_n 55
+Mandarin	mushroom	mo gu20
+Nasu	mushroom	-
+Lisu	mushroom	-
+Baihong	mushroom	a33 xom55
+Hani	mushroom	ciq aol
+Nosu	mushroom	hmu
+Samei	mushroom	mu lʊ
+Nisu	mushroom	-
+Biyue	mushroom	-
+Kucong	mushroom	mo lu
+Nusu	mushroom	-
+Jinghpo	mushroom	mati
+Lahu Shi	mushroom	-
+Lahu Na	mushroom	mul
+Zaozou	mushroom	-
+Jinuo	mushroom	mɯ phu (common type); mɯ phi mɯ tʃɨ (general term)
+Naxi	mushroom	mʊ
+Zaiwa	mushroom	-
+Mandarin	music	yin ye14
+Nasu	music	-
+Lisu	music	-
+Baihong	music	ji (ʒi?)55 jy31
+Hani	music	ssilyoq
+Nosu	music	-
+Samei	music	-
+Nisu	music	-
+Biyue	music	-
+Kucong	music	-
+Nusu	music	ʑi jyɛ
+Jinghpo	music	shangui shapyo hpa
+Lahu Shi	music	-
+Lahu Na	music	ka* meu* khawd
+Zaozou	music	-
+Jinuo	music	kɹә khjɔ (cf sink)
+Naxi	music	-
+Zaiwa	music	-
+Mandarin	(finger) nail	zhi jia30
+Nasu	(finger) nail	la_ 55 se 33
+Lisu	(finger) nail	lɛ 31 sɯ 31
+Baihong	(finger) nail	la31 sɤ55
+Hani	(finger) nail	lavqsaoq
+Nosu	(finger) nail	-
+Samei	(finger) nail	le ne sa gy
+Nisu	(finger) nail	li_ɛ_ 21 ʂɨ 33
+Biyue	(finger) nail	la31 sɨ31
+Kucong	(finger) nail	la çe kho
+Nusu	(finger) nail	lo sæ (se?)
+Jinghpo	(finger) nail	-
+Lahu Shi	(finger) nail	lA31 ɕɛ31 qhɔ53
+Lahu Na	(finger) nail	lar shif khaw*
+Zaozou	(finger) nail	lou 42 se 31
+Jinuo	(finger) nail	la sɨ (sɚ?)
+Naxi	(finger) nail	la33 tsɯ31 kv.55
+Zaiwa	(finger) nail	lo? 21 siŋ 21
+Mandarin	name	ming zi24
+Nasu	name	mɚ 33
+Lisu	name	e 55 mi 44
+Baihong	name	tso31 me (mi?)55
+Hani	name	yo miaol
+Nosu	name	hmi
+Samei	name	-
+Nisu	name	mE 55
+Biyue	name	o31 mi55
+Kucong	name	co mæ
+Nusu	name	hmre
+Jinghpo	name	mying
+Lahu Shi	name	khɛ35 ku31
+Lahu Na	name	mie
+Zaozou	name	mi 33 khɔ 31
+Jinuo	name	a mi
+Naxi	name	mi31
+Zaiwa	name	mjiŋ 51
+Mandarin	navel	du qi42
+Nasu	navel	tʂha_ 21
+Lisu	navel	tʃhɛ 35 du 31
+Baihong	navel	tsɤ55 pi (by?)55
+Hani	navel	qal beil
+Nosu	navel	quobbupddi
+Samei	navel	tɕa bʊ dә
+Nisu	navel	A 21 bi 21 du 33
+Biyue	navel	dzɔ33 pi31
+Kucong	navel	be du
+Nusu	navel	tʂo
+Jinghpo	navel	shadai
+Lahu Shi	navel	tu35 tɕhɛ 21
+Lahu Na	navel	xud tu shif
+Zaozou	navel	tɕho 42 e~ 33 læ 31
+Jinuo	navel	tʃha to
+Naxi	navel	mbv33 tɕә55
+Zaiwa	navel	tʃho? 55
+Mandarin	near	jin4
+Nasu	near	nɔ 33
+Lisu	near	nɯ 31
+Baihong	near	ɲi31
+Hani	near	niqcanei
+Nosu	near	ggaxnyi
+Samei	near	dza
+Nisu	near	nE 33
+Biyue	near	dʑi55
+Kucong	near	a ba
+Nusu	near	ɲi
+Jinghpo	near	ni
+Lahu Shi	near	ɔ31 pA55 ni53
+Lahu Na	near	nga* ie*
+Zaozou	near	miæ 31
+Jinuo	near	a ɕɛ
+Naxi	near	nv.55
+Zaiwa	near	tʃa_ŋ 55
+Mandarin	neck	bo zi20
+Nasu	neck	ɳɚ 21 tɕe 21
+Lisu	neck	li 33 be 33
+Baihong	neck	kɔ31 lɯ55
+Hani	neck	kaoqlaol
+Nosu	neck	gutzyt
+Samei	neck	lә bu dzɔ (cf. tongue?)
+Nisu	neck	lɛ_ 21 bɛ_ 21
+Biyue	neck	lɤ55 tsɨ31
+Kucong	neck	gɔ (qɔ) gu ә
+Nusu	neck	la (n)dɔ
+Jinghpo	neck	du
+Lahu Shi	neck	qɔ31 ku53
+Lahu Na	neck	qawf pif
+Zaozou	neck	næ 44 khæ 31 tæ 31
+Jinuo	neck	lɯ tshɨ
+Naxi	neck	tɕәr33 bar
+Zaiwa	neck	liŋ 51 tsiŋ 21
+Mandarin	needle	zhen1
+Nasu	needle	ɣɤ_ 55
+Lisu	needle	ɣo 42
+Baihong	needle	a31 wo (ɣo?)31
+Hani	needle	aq hhovq
+Nosu	needle	yit
+Samei	needle	ɣ. (ɣә)
+Nisu	needle	ɣɤ _21
+Biyue	needle	ge31
+Kucong	needle	u (~vu)
+Nusu	needle	jɛ
+Jinghpo	needle	samyit
+Lahu Shi	needle	A33 vu 21
+Lahu Na	needle	xor
+Zaozou	needle	a 42 a 44
+Jinuo	needle	a ky
+Naxi	needle	ko31
+Zaiwa	needle	ap 55
+Mandarin	nest	chao2
+Nasu	nest	-
+Lisu	nest	-
+Baihong	nest	dza55 bɤ31
+Hani	nest	beeq
+Nosu	nest	kexke
+Samei	nest	ŋɔ phɯ (phu?)
+Nisu	nest	-
+Biyue	nest	-
+Kucong	nest	ŋa phɯ
+Nusu	nest	hau ja
+Jinghpo	nest	tsip
+Lahu Shi	nest	-
+Lahu Na	nest	pheu
+Zaozou	nest	-
+Jinuo	nest	ŋa zɔ a khɯ (ŋa zɔ = bird)
+Naxi	nest	(v. z.) phɯ
+Zaiwa	nest	-
+Mandarin	(fishing) net	wang3
+Nasu	(fishing) net	-
+Lisu	(fishing) net	-
+Baihong	(fishing) net	-
+Hani	(fishing) net	hhazei
+Nosu	(fishing) net	-
+Samei	(fishing) net	vɔ
+Nisu	(fishing) net	-
+Biyue	(fishing) net	-
+Kucong	(fishing) net	ɟe
+Nusu	(fishing) net	-
+Jinghpo	(fishing) net	sumgon
+Lahu Shi	(fishing) net	-
+Lahu Na	(fishing) net	geur
+Zaozou	(fishing) net	-
+Jinuo	(fishing) net	a khi (same as nest/web)
+Naxi	(fishing) net	-
+Zaiwa	(fishing) net	-
+Mandarin	new	xin1
+Nasu	new	ɕi_ 55
+Lisu	new	e 55 ʃɨ 42
+Baihong	new	sɤ31
+Hani	new	siivq
+Nosu	new	ashyt
+Samei	new	ʂɨ
+Nisu	new	sɨ_ 21
+Biyue	new	a31 ʃɨ31
+Kucong	new	a çәr
+Nusu	new	dʑɔ
+Jinghpo	new	nnan
+Lahu Shi	new	ɔ31 sɨ35
+Lahu Na	new	awl siq
+Zaozou	new	tciæ 31
+Jinuo	new	a ɕi
+Naxi	new	ʂɯ55 dza
+Zaiwa	new	a 21 sik 55
+Mandarin	night	ye li40
+Nasu	night	mu 33 tɕhi_ 55
+Lisu	night	sa 44 khua 33
+Baihong	night	ɤ31 gi31
+Hani	night	aoq qivq
+Nosu	night	kette
+Samei	night	ma khә
+Nisu	night	mu 33 tshɨ_ 21
+Biyue	night	mi31 kje33
+Kucong	night	mɔ xa kxɯ
+Nusu	night	swa na
+Jinghpo	night	shana
+Lahu Shi	night	mo55 xA35
+Lahu Na	night	pheu*
+Zaozou	night	so 44 kɯ 55
+Jinuo	night	mi khy
+Naxi	night	mv.33 khv.55
+Zaiwa	night	mjin 55 le 21
+Mandarin	nine	jio3
+Nasu	nine	kɯ 33
+Lisu	nine	ku 44
+Baihong	nine	we (ɣe)31
+Hani	nine	hhyuq
+Nosu	nine	ggu
+Samei	nine	gau
+Nisu	nine	kɯ 55
+Biyue	nine	dʑi31
+Kucong	nine	qo
+Nusu	nine	gɯ
+Jinghpo	nine	jahku
+Lahu Shi	nine	qɔ31 lɛ53
+Lahu Na	nine	qawd
+Zaozou	nine	kɯ 31
+Jinuo	nine	kɯ
+Naxi	nine	ŋgv.33
+Zaiwa	nine	kau 21
+Mandarin	no	bu4 (shi4)
+Nasu	no	ma 21 (ɲe 21)
+Lisu	no	ma 31 (ŋa 33)
+Baihong	no	-
+Hani	no	-
+Nosu	no	-
+Samei	no	-
+Nisu	no	mA 21 (ŋɤ 21)
+Biyue	no	mo31
+Kucong	no	-
+Nusu	no	-
+Jinghpo	no	-
+Lahu Shi	no	mA313 xe53
+Lahu Na	no	-
+Zaozou	no	a 31 (ŋæ 42)
+Jinuo	no	-
+Naxi	no	-
+Zaiwa	no	a 21 (ŋu_t 55)
+Mandarin	nose	bi dzi20
+Nasu	nose	no 21 bi_ 21
+Lisu	nose	na 44 be 33
+Baihong	nose	na55 mɛ55
+Hani	nose	nal meil
+Nosu	nose	hnapbbit
+Samei	nose	nɔ bʊ (possible confused with ear?)
+Nisu	nose	no 55 ko_ 21
+Biyue	nose	na55 mi55
+Kucong	nose	na khɔ
+Nusu	nose	hi~ gau
+Jinghpo	nose	ladi
+Lahu Shi	nose	nA31 qhɔ53
+Lahu Na	nose	naf qhawd
+Zaozou	nose	na 55 a~ 55
+Jinuo	nose	ŋo to
+Naxi	nose	ɲi55 mәr31
+Zaiwa	nose	no_ 51
+Mandarin	not	bu4
+Nasu	not	ma 21
+Lisu	not	ma 31
+Baihong	not	mɔ31
+Hani	not	maq
+Nosu	not	-
+Samei	not	mɔ
+Nisu	not	mA 21
+Biyue	not	mɤ31
+Kucong	not	ma
+Nusu	not	ma (not ~)/mɔ (no)
+Jinghpo	not	n
+Lahu Shi	not	mA53
+Lahu Na	not	mad
+Zaozou	not	a 31
+Jinuo	not	mɔ
+Naxi	not	-
+Zaiwa	not	a 21
+Mandarin	now	xian4 zai4
+Nasu	now	e 21 ŋɔ 33
+Lisu	now	a 44 mɯ 33
+Baihong	now	ɲa31 ŋɯ55
+Hani	now	niaoq'aol
+Nosu	now	apmy
+Samei	now	i sɔ
+Nisu	now	A 21 nE 21
+Biyue	now	jo31 mɤ55
+Kucong	now	a mɯ ga (ŋga?)
+Nusu	now	aba
+Jinghpo	now	ya
+Lahu Shi	now	tɕhɛ33 ti31 tsAŋ35
+Lahu Na	now	chiq tie* kheu*
+Zaozou	now	a 33 tɕi 42
+Jinuo	now	ja tshɨ
+Naxi	now	tʂɨ ka
+Zaiwa	now	a 21 khui 51
+Mandarin	oar	hua2 jiang3
+Nasu	oar	-
+Lisu	oar	-
+Baihong	oar	xɤ55
+Hani	oar	-
+Nosu	oar	-
+Samei	oar	ʐɨ ɣa
+Nisu	oar	-
+Biyue	oar	-
+Kucong	oar	lɔ wɔ du
+Nusu	oar	-
+Jinghpo	oar	-
+Lahu Shi	oar	-
+Lahu Na	oar	waw*? xaw*?
+Zaozou	oar	-
+Jinuo	oar	-
+Naxi	oar	lɯ gu dzɛ
+Zaiwa	oar	-
+Mandarin	old [person]	lao3
+Nasu	old [person]	mɔ 55
+Lisu	old [person]	mo 31
+Baihong	old [person]	mɔ55
+Hani	old [person]	moq
+Nosu	old [person]	mopsu
+Samei	old [person]	mo
+Nisu	old [person]	mA 21
+Biyue	old [person]	mo31
+Kucong	old [person]	mo
+Nusu	old [person]	mɯ
+Jinghpo	old [person]	gumgai dingla
+Lahu Shi	old [person]	mɔ53
+Lahu Na	old [person]	mawd
+Zaozou	old [person]	ma 31
+Jinuo	old [person]	jɔ phɔ
+Naxi	old [person]	mu55
+Zaiwa	old [person]	maŋ 21
+Mandarin	old [thing]	jio4
+Nasu	old [thing]	ɬɯ 33
+Lisu	old [thing]	e 55 be 31
+Baihong	old [thing]	jy55
+Hani	old [thing]	yoyul
+Nosu	old [thing]	axli
+Samei	old [thing]	mo; u mo
+Nisu	old [thing]	ɬɯ 55
+Biyue	old [thing]	gi55
+Kucong	old [thing]	a bi
+Nusu	old [thing]	tsi
+Jinghpo	old [thing]	nsa
+Lahu Shi	old [thing]	ɔ31 pi313
+Lahu Na	old [thing]	awl pif
+Zaozou	old [thing]	uæ 35
+Jinuo	old [thing]	a ɬi
+Naxi	old [thing]	hɔ lu31
+Zaiwa	old [thing]	a 21 tshau 21
+Mandarin	one	yi1
+Nasu	one	tha 21
+Lisu	one	thi 31
+Baihong	one	tɕi31
+Hani	one	qiq
+Nosu	one	cyp
+Samei	one	i
+Nisu	one	thiɛ 21
+Biyue	one	tɤ31
+Kucong	one	de
+Nusu	one	tiɛ
+Jinghpo	one	langai
+Lahu Shi	one	ti33
+Lahu Na	one	ted
+Zaozou	one	tɯ 31
+Jinuo	one	thi
+Naxi	one	ndɯ 13
+Zaiwa	one	ʒa 21
+Mandarin	open	da3 kai1
+Nasu	open	phu 21
+Lisu	open	phu 33
+Baihong	open	poŋ55
+Hani	open	pao
+Nosu	open	pop
+Samei	open	f.
+Nisu	open	khA 21
+Biyue	open	v.55 po33
+Kucong	open	pho
+Nusu	open	phɯ
+Jinghpo	open	hpo
+Lahu Shi	open	phɔ33
+Lahu Na	open	phaw
+Zaozou	open	pho 35
+Jinuo	open	pho
+Naxi	open	phu33
+Zaiwa	open	phoŋ 55
+Mandarin	otter	shui3 ta3
+Nasu	otter	ʑi 21 ʂe 33
+Lisu	otter	ŋua 55 la 31
+Baihong	otter	-
+Hani	otter	eelsaol
+Nosu	otter	sho
+Samei	otter	-
+Nisu	otter	zɨ 21 ɕiɛ 55
+Biyue	otter	ɣɤ55 ɕi55
+Kucong	otter	ɣɯ çu
+Nusu	otter	-
+Jinghpo	otter	sharam
+Lahu Shi	otter	ɕui33 thA 21 mɔ33
+Lahu Na	otter	xeul pheud
+Zaozou	otter	ɣæ 33 ɣa~ 55 o~ 33
+Jinuo	otter	-
+Naxi	otter	-
+Zaiwa	otter	xam 51
+Mandarin	outside	wai4 mian4
+Nasu	outside	ɲe 55
+Lisu	outside	ba 33 sɨ 44
+Baihong	outside	la31 ni (ɲi)55 po31
+Hani	outside	laq nil pyu
+Nosu	outside	hxixgu
+Samei	outside	nɔ bo
+Nisu	outside	A 21 niɛ 55
+Biyue	outside	ɔ31 nv.53 li55
+Kucong	outside	xæ gɔ
+Nusu	outside	zɔ bɔ (za ba ?)
+Jinghpo	outside	shinggan
+Lahu Shi	outside	ɔ31 phɯ33 phɔ53
+Lahu Na	outside	awl pa*
+Zaozou	outside	tha 31 pu 31 ɕi 33
+Jinuo	outside	a no
+Naxi	outside	-
+Zaiwa	outside	ʃiŋ 21 ka_n 21 ma 55
+Mandarin	palm	shou zhang33
+Nasu	palm	la_ 55 kɔ 33
+Lisu	palm	lɛ 31 tʃo 55
+Baihong	palm	la31 xɔ55
+Hani	palm	aq lavq lavq hov
+Nosu	palm	lotbbu
+Samei	palm	le phe
+Nisu	palm	li_ɛ_ 21 thA 21 kA 55
+Biyue	palm	la31 he33
+Kucong	palm	la xu
+Nusu	palm	lo pja
+Jinghpo	palm	ta lahpan
+Lahu Shi	palm	lA31 fu33 pɛ54
+Lahu Na	palm	lar tow pie
+Zaozou	palm	lou 42 pa 42
+Jinuo	palm	la khy
+Naxi	palm	la31 mbә33
+Zaiwa	palm	lo? 21 va 21 khau 21
+Mandarin	penis	yin jing11
+Nasu	penis	dzi 21
+Lisu	penis	hu 31
+Baihong	penis	a31 lu (ly?)31
+Hani	penis	-
+Nosu	penis	-
+Samei	penis	dә
+Nisu	penis	dzɨ 21
+Biyue	penis	bo31 lo33
+Kucong	penis	-
+Nusu	penis	bɯ
+Jinghpo	penis	ja-ku
+Lahu Shi	penis	-
+Lahu Na	penis	nif ta*
+Zaozou	penis	pɯ 31 tæ 31
+Jinuo	penis	-
+Naxi	penis	mbi 33 lɯ njy33
+Zaiwa	penis	ɲi_ 21
+Mandarin	person	ren2
+Nasu	person	tshɔ 21
+Lisu	person	tsho 44 za 31
+Baihong	person	-
+Hani	person	-
+Nosu	person	co
+Samei	person	tsu
+Nisu	person	tʂhA21
+Biyue	person	dzo55
+Kucong	person	-
+Nusu	person	-
+Jinghpo	person	masha
+Lahu Shi	person	tshɔ33
+Lahu Na	person	chaw
+Zaozou	person	tɕa 33 su 33 ʑa 44
+Jinuo	person	-
+Naxi	person	ɕi33
+Zaiwa	person	pju 51
+Mandarin	pestle	chu3
+Nasu	pestle	te_ 55 si_ 21
+Lisu	pestle	lui 31 du 33
+Baihong	pestle	toŋ31 gi55
+Hani	pestle	-
+Nosu	pestle	dipsyt
+Samei	pestle	-
+Nisu	pestle	bE 21 du 21
+Biyue	pestle	to31 dʑi55
+Kucong	pestle	ca de mɯ
+Nusu	pestle	bɯ tʂwe
+Jinghpo	pestle	htumun
+Lahu Shi	pestle	tɕhɛ33 mɤ53
+Lahu Na	pestle	ca* ti* tu*
+Zaozou	pestle	tɕha 31 ?ue 44 tuo 33 a 44
+Jinuo	pestle	tshɔ thɤ
+Naxi	pestle	-
+Zaiwa	pestle	thuŋ 55 kji_ 21
+Mandarin	phlegm	tan2
+Nasu	phlegm	ti 55 po_ 21
+Lisu	phlegm	tshɯ 31 hɯ 31 na 44 pe 35
+Baihong	phlegm	u55 tsa55
+Hani	phlegm	zaoq peivq
+Nosu	phlegm	hapyyr
+Samei	phlegm	æ (ʔæ ?) hæ bɔ
+Nisu	phlegm	ʔiɛ 21 biɛ 33
+Biyue	phlegm	ti31 kɔ31
+Kucong	phlegm	ŋa
+Nusu	phlegm	di kha
+Jinghpo	phlegm	mahka
+Lahu Shi	phlegm	nu35 qhɛ53 nɛ53
+Lahu Na	phlegm	ciq xeud
+Zaozou	phlegm	tæ 44 khɔ 31
+Jinuo	phlegm	khjɔ la
+Naxi	phlegm	tʂәr33 pe
+Zaiwa	phlegm	khjuŋ 21 kjo_? 55
+Mandarin	pick	zhai1
+Nasu	pick	tshɚ_ 21
+Lisu	pick	ha 42
+Baihong	pick	dzɤ31
+Hani	pick	cev
+Nosu	pick	xie
+Samei	pick	ɕi
+Nisu	pick	xɛ_ 21
+Biyue	pick	dzv.33
+Kucong	pick	cæ
+Nusu	pick	dze
+Jinghpo	pick	di
+Lahu Shi	pick	sA35
+Lahu Na	pick	shaq
+Zaozou	pick	tsæ 44
+Jinuo	pick	tʃhu
+Naxi	pick	phɯ55
+Zaiwa	pick	phjo? 55
+Mandarin	pig	zhu1
+Nasu	pig	va_ 55
+Lisu	pig	a 55 vɛ 42
+Baihong	pig	a31 va (ɣa?)31
+Hani	pig	aq hhavq
+Nosu	pig	wo
+Samei	pig	ve
+Nisu	pig	vi_ɛ_ 21
+Biyue	pig	va31
+Kucong	pig	wa (va?)
+Nusu	pig	wo
+Jinghpo	pig	wa
+Lahu Shi	pig	vA 21
+Lahu Na	pig	var
+Zaozou	pig	ao 42 o~ 33
+Jinuo	pig	va ni
+Naxi	pig	mbu31
+Zaiwa	pig	vaʔ 21
+Mandarin	pigeon	ge zi10
+Nasu	pigeon	ɖɯ 55 ɳɯ 33
+Lisu	pigeon	a 55 gu 31
+Baihong	pigeon	xɔ31 xɔ31
+Hani	pigeon	laqhyul hoqhyuq
+Nosu	pigeon	taphlymu
+Samei	pigeon	du gu
+Nisu	pigeon	do 21 tsɨ 55 nu 33
+Biyue	pigeon	ŋa33 jv.55
+Kucong	pigeon	a bɯ
+Nusu	pigeon	tɔ ɬi
+Jinghpo	pigeon	ura
+Lahu Shi	pigeon	kɔ31 tsɨ33
+Lahu Na	pigeon	gu
+Zaozou	pigeon	thæ 33 læ 33
+Jinuo	pigeon	kɔ tsɨ
+Naxi	pigeon	tho33 li31
+Zaiwa	pigeon	ka_i 55 kje 21
+Mandarin	pine	song shu14
+Nasu	pine	thɔ 33 si_ 21
+Lisu	pine	tho 31 dzɨ 44
+Baihong	pine	mi31 ɕu55 a55 b55
+Hani	pine	taoq suq al bol
+Nosu	pine	te
+Samei	pine	-
+Nisu	pine	thA 33 dzE 21
+Biyue	pine	to31 ɕi55
+Kucong	pine	ʝæ gә ɟæ
+Nusu	pine	swa~ dzә
+Jinghpo	pine	marau hpun
+Lahu Shi	pine	thɔ33 sɨ54
+Lahu Na	pine	thawd sit
+Zaozou	pine	tha~ 31 tse~ 33
+Jinuo	pine	soŋ ʃu
+Naxi	pine	tho33 ndzәr31
+Zaiwa	pine	thaŋ 21 mo 55
+Mandarin	piss	niao4
+Nasu	piss	zi 33
+Lisu	piss	zɨ 31
+Baihong	piss	a55 sɨ55
+Hani	piss	al jeil
+Nosu	piss	ssy
+Samei	piss	ʂɨ
+Nisu	piss	sɨ 55
+Biyue	piss	ji31 tsɤ55
+Kucong	piss	ɟә
+Nusu	piss	ʑi
+Jinghpo	piss	jit
+Lahu Shi	piss	dzɨ55
+Lahu Na	piss	dzid
+Zaozou	piss	ɕi 31 khɔ 31
+Jinuo	piss	i tshe
+Naxi	piss	mbi33
+Zaiwa	piss	i 21 ʃi 51
+Mandarin	plantain	ba1 jiao1
+Nasu	plantain	-
+Lisu	plantain	ŋa 44 ma 33
+Baihong	plantain	-
+Hani	plantain	al qul
+Nosu	plantain	-
+Samei	plantain	-
+Nisu	plantain	ni_ɛ_ 33 bɤ 21
+Biyue	plantain	ŋa31 sɨ31
+Kucong	plantain	a bo ba
+Nusu	plantain	-
+Jinghpo	plantain	langu hpun
+Lahu Shi	plantain	A33 pɔ55 sɨ11
+Lahu Na	plantain	aq pawd shif
+Zaozou	plantain	ba 33 tɕio 33
+Jinuo	plantain	na sɨ
+Naxi	plantain	-
+Zaiwa	plantain	ŋo`ʔ 55 mjuʔ 21
+Mandarin	plough (n)	li2
+Nasu	plough (n)	si_ 21 go_ 55
+Lisu	plough (n)	sɨ 35 go 42
+Baihong	plough (n)	tɕe31
+Hani	plough (n)	niuqcieq
+Nosu	plough (n)	syrggut
+Samei	plough (n)	ji
+Nisu	plough (n)	dʐo 33
+Biyue	plough (n)	nv.31 tsɤ31
+Kucong	plough (n)	cɛ
+Nusu	plough (n)	ʐu
+Jinghpo	plough (n)	nahtai
+Lahu Shi	plough (n)	lA33 phɯ53
+Lahu Na	plough (n)	lad pheud
+Zaozou	plough (n)	ɣo~ 31 tso~ 33
+Jinuo	plough (n)	li
+Naxi	plough (n)	ɣ. lɯ dʐɔ
+Zaiwa	plough (n)	li 21
+Mandarin	poison	du2 yao4
+Nasu	poison	do_ 55 tshi 33
+Lisu	poison	do 42
+Baihong	poison	dʊ31 jo31
+Hani	poison	naciqciqduvq
+Nosu	poison	ddutcy
+Samei	poison	tsu no mo
+Nisu	poison	tu_ 21 no 21 tshɨ 33
+Biyue	poison	dv.31 jo35
+Kucong	poison	do
+Nusu	poison	du
+Jinghpo	poison	gung
+Lahu Shi	poison	nA35 tshɨ33 to31 pɯ35
+Lahu Na	poison	nat zhid tawr ma
+Zaozou	poison	ta 42
+Jinuo	poison	to tshɨ
+Naxi	poison	ndv31
+Zaiwa	poison	mjo 21 noʔ 55
+Mandarin	pull	la1
+Nasu	pull	ŋghɔ 21
+Lisu	pull	tʃɨ 35
+Baihong	pull	ɣɯ (ɯ?)55
+Hani	pull	hhe
+Nosu	pull	mgo
+Samei	pull	ɕi
+Nisu	pull	gA 21
+Biyue	pull	dzɨ53
+Kucong	pull	go
+Nusu	pull	na
+Jinghpo	pull	gang
+Lahu Shi	pull	ɣɔ31
+Lahu Na	pull	xawl
+Zaozou	pull	xe 33
+Jinuo	pull	mjo
+Naxi	pull	ta31
+Zaiwa	pull	laŋ 21
+Mandarin	pumpkin	nan gua21
+Nasu	pumpkin	o 33 phu 55
+Lisu	pumpkin	a 55 phu 31
+Baihong	pumpkin	ma55 de31
+Hani	pumpkin	mal dei
+Nosu	pumpkin	-
+Samei	pumpkin	-
+Nisu	pumpkin	A 55 phɤ 21 sE 55
+Biyue	pumpkin	ma55 tje33
+Kucong	pumpkin	a mɯ çi
+Nusu	pumpkin	-
+Jinghpo	pumpkin	hkumhkye
+Lahu Shi	pumpkin	mɯ55 sɨ11
+Lahu Na	pumpkin	peud meud shif
+Zaozou	pumpkin	tɕa 31 ɔ 35
+Jinuo	pumpkin	ma pa
+Naxi	pumpkin	-
+Zaiwa	pumpkin	phe` 55 xum 51
+Mandarin	push	tui1
+Nasu	push	mbhu 33
+Lisu	push	de 31
+Baihong	push	de31
+Hani	push	deiq
+Nosu	push	ddip
+Samei	push	tsu
+Nisu	push	ti 55
+Biyue	push	di33
+Kucong	push	bɯ
+Nusu	push	du
+Jinghpo	push	nong
+Lahu Shi	push	bɯ54
+Lahu Na	push	car
+Zaozou	push	pe~ 42
+Jinuo	push	zɨ
+Naxi	push	my55
+Zaiwa	push	tʃu_n 21
+Mandarin	put	fang4
+Nasu	put	to 33
+Lisu	put	fu 44
+Baihong	put	xe31 dɤ (dɔ?)55
+Hani	put	pieiq
+Nosu	put	tip
+Samei	put	gɯ dɔ
+Nisu	put	to 33
+Biyue	put	v.55 tɔ31
+Kucong	put	da
+Nusu	put	kha
+Jinghpo	put	ton
+Lahu Shi	put	zu31 tA31
+Lahu Na	put	iie* ta*
+Zaozou	put	tɔ 44
+Jinuo	put	ko khɹɒ
+Naxi	put	a tɕi33
+Zaiwa	put	to 21
+Mandarin	rain, to	xia4 yu3
+Nasu	rain, to	ho 21
+Lisu	rain, to	ha 33
+Baihong	rain, to	ɔ31 je55 je55 (ʒe ʒe?)
+Hani	rain, to	aoq sseil sseil
+Nosu	rain, to	-
+Samei	rain, to	mә hɔ hɔ
+Nisu	rain, to	xiɛ 55
+Biyue	rain, to	ɔ31 xo55 xo55
+Kucong	rain, to	mo ʝɛ ʝɛ qɔ
+Nusu	rain, to	mw ʐɔ (ʐo) (tian + xia)
+Jinghpo	rain, to	marang htu
+Lahu Shi	rain, to	lA31
+Lahu Na	rain, to	mud yi* la*
+Zaozou	rain, to	v.u 33 (typo?)
+Jinuo	rain, to	mi tha xo
+Naxi	rain, to	-
+Zaiwa	rain, to	vo 51
+Mandarin	rain	yu3
+Nasu	rain	mu 33 ho 33
+Lisu	rain	mɯ 31 ha 33
+Baihong	rain	ɔ31 je (ʒe?)55
+Hani	rain	aoq sseil
+Nosu	rain	mahxa
+Samei	rain	mә ho
+Nisu	rain	A 55 xo 33
+Biyue	rain	o31 xo55
+Kucong	rain	mɔ jɛ
+Nusu	rain	mɯ ʐuo (= tian xia)
+Jinghpo	rain	marang
+Lahu Shi	rain	mo55 ʑe31
+Lahu Na	rain	mud yel
+Zaozou	rain	mɯ 31 ɣe 42
+Jinuo	rain	mi tha
+Naxi	rain	xɯ31
+Zaiwa	rain	mau 21
+Mandarin	rainbow	cai hong32
+Nasu	rainbow	a 55 mu 33 sa_ 55 ʑi_ 33
+Lisu	rainbow	a 55 mo 31 ʃɨ 33
+Baihong	rainbow	dɤ31 bɤ31 la55 tɕʊ31
+Hani	rainbow	bei dol lul cuq
+Nosu	rainbow	siw
+Samei	rainbow	lau de gɔ
+Nisu	rainbow	vi_ɛ_ 21 mo 21 sE 55 zɨ 55
+Biyue	rainbow	ɲi55 tsa55 la55 kv33
+Kucong	rainbow	a na na çjʊ
+Nusu	rainbow	to dʐɨ
+Jinghpo	rainbow	n-golatum
+Lahu Shi	rainbow	nA33 mo31 nA33 gɤ53 sɯ54
+Lahu Na	rainbow	a mud lal shiq jaw
+Zaozou	rainbow	mæ 44 kho 33
+Jinuo	rainbow	ko (kɔ?) ta ko tshœ
+Naxi	rainbow	mɯ33 ɕin nda nji31
+Zaiwa	rainbow	voʔ 21 kan 21 ʃiŋ 55 jaŋ 21
+Mandarin	rat	lao shu33
+Nasu	rat	ha_ 21
+Lisu	rat	hɛ 35
+Baihong	rat	f.55 dza55
+Hani	rat	hacavq
+Nosu	rat	axhxie
+Samei	rat	hɔ
+Nisu	rat	mi 21 dɤ 33
+Biyue	rat	fv.33 tsa31
+Kucong	rat	fa ca
+Nusu	rat	ʐu
+Jinghpo	rat	yu
+Lahu Shi	rat	fA53 tshA31
+Lahu Na	rat	fat
+Zaozou	rat	vu 42 o~ 33
+Jinuo	rat	ho tʃha
+Naxi	rat	fv.55
+Zaiwa	rat	ŋo 21 noʔ 21
+Mandarin	raw	sheng1
+Nasu	raw	dzɨ 33
+Lisu	raw	e 55 dzɨ 31
+Baihong	raw	-
+Hani	raw	-
+Nosu	raw	-
+Samei	raw	ji
+Nisu	raw	dzE 33
+Biyue	raw	dʑi31
+Kucong	raw	ɟә
+Nusu	raw	dʐɔ
+Jinghpo	raw	gatsing
+Lahu Shi	raw	mA31 mɛ33
+Lahu Na	raw	awl zid
+Zaozou	raw	tɕiæ 31
+Jinuo	raw	a tʃe
+Naxi	raw	-
+Zaiwa	raw	a 21 tʃum 21
+Mandarin	red	hong2
+Nasu	red	ne 21
+Lisu	red	e 55 sɨ 31
+Baihong	red	ɲi55
+Hani	red	nil
+Nosu	red	ahni
+Samei	red	ɲi
+Nisu	red	nɤ 55
+Biyue	red	nɤ55
+Kucong	red	a ni
+Nusu	red	xi
+Jinghpo	red	hkye
+Lahu Shi	red	ni33
+Lahu Na	red	ni
+Zaozou	red	ne 33
+Jinuo	red	a nә
+Naxi	red	ɕy31
+Zaiwa	red	ne 51
+Mandarin	release	shi fang44
+Nasu	release	-
+Lisu	release	-
+Baihong	release	pje31
+Hani	release	-
+Nosu	release	fat
+Samei	release	sɨ ji
+Nisu	release	-
+Biyue	release	-
+Kucong	release	phæ feu
+Nusu	release	ga
+Jinghpo	release	dat
+Lahu Shi	release	-
+Lahu Na	release	phied
+Zaozou	release	-
+Jinuo	release	fa nә
+Naxi	release	le khɯ
+Zaiwa	release	-
+Mandarin	remember	ji de42
+Nasu	remember	tɕhɚ 33
+Lisu	remember	tʃi 55 ua 44
+Baihong	remember	ny31 dɤ31
+Hani	remember	nyuqduv qivq
+Nosu	remember	shutyip
+Samei	remember	dz(ɨ) dɔ
+Nisu	remember	tɤ 33 do 21
+Biyue	remember	dʑi55 gɔ_31
+Kucong	remember	do no
+Nusu	remember	sœ
+Jinghpo	remember	lu matsing
+Lahu Shi	remember	dɔ55 nɔ53
+Lahu Na	remember	nawd
+Zaozou	remember	tɕɯ 44 ɣuo 35
+Jinuo	remember	tʃɨ a mә
+Naxi	remember	tɕә55 ty33 ndɯ33
+Zaiwa	remember	vo 55 ŋa_m 21
+Mandarin	return	hui2
+Nasu	return	go_ 55
+Lisu	return	li 42 ge 33
+Baihong	return	xo31
+Hani	return	hhuvq
+Nosu	return	bur
+Samei	return	u li
+Nisu	return	gu_ 21
+Biyue	return	di55 la55
+Kucong	return	go la (la = come)
+Nusu	return	da ŋa
+Jinghpo	return	wa
+Lahu Shi	return	qui 21
+Lahu Na	return	qawr e (= huiqu)
+Zaozou	return	tæ 33
+Jinuo	return	no phoj
+Naxi	return	le33 tɕy31
+Zaiwa	return	lo 51
+Mandarin	rice (cooked)	fan4
+Nasu	rice (cooked)	a 21 ja 33
+Lisu	rice (cooked)	dza 33
+Baihong	rice (cooked)	a55 xo (xɔ?)31
+Hani	rice (cooked)	hoq
+Nosu	rice (cooked)	zza
+Samei	rice (cooked)	dzo
+Nisu	rice (cooked)	dʐo 21
+Biyue	rice (cooked)	xo31
+Kucong	rice (cooked)	o
+Nusu	rice (cooked)	miɛ miɛ
+Jinghpo	rice (cooked)	shat
+Lahu Shi	rice (cooked)	o11
+Lahu Na	rice (cooked)	awf
+Zaozou	rice (cooked)	tsou 33 mi 42
+Jinuo	rice (cooked)	a me
+Naxi	rice (cooked)	tʂwa pәr
+Zaiwa	rice (cooked)	tsaŋ 21
+Mandarin	rice plant	dao4
+Nasu	rice plant	tʂhe 21
+Lisu	rice plant	tʃhɯ 44
+Baihong	rice plant	tɕe55
+Hani	rice plant	ceil
+Nosu	rice plant	che
+Samei	rice plant	tɕi
+Nisu	rice plant	tɕhiɛ 21
+Biyue	rice plant	dɕi55
+Kucong	rice plant	ɟa
+Nusu	rice plant	miɛ miɛ
+Jinghpo	rice plant	mam
+Lahu Shi	rice plant	tsA31
+Lahu Na	rice plant	cal
+Zaozou	rice plant	kɯ 31 ɕyi 31
+Jinuo	rice plant	tao
+Naxi	rice plant	ɕi31
+Zaiwa	rice plant	jo` 21 thuŋ 21 kuʔ 21
+Mandarin	ride	qi2
+Nasu	ride	dzo, 33
+Lisu	ride	dzɯ 31
+Baihong	ride	dʑi31
+Hani	ride	ziiq
+Nosu	ride	zzy
+Samei	ride	jia
+Nisu	ride	dzE 33
+Biyue	ride	dzɨ31
+Kucong	ride	ʝi
+Nusu	ride	dzɨ
+Jinghpo	ride	jon
+Lahu Shi	ride	tɕi53
+Lahu Na	ride	cid
+Zaozou	ride	tɕi 31
+Jinuo	ride	tsɨ
+Naxi	ride	ndza33
+Zaiwa	ride	tʃi 21
+Mandarin	right	you4
+Nasu	right	se 55
+Lisu	right	lɛ 31 ʒɛ 44
+Baihong	right	-
+Hani	right	jaqmal
+Nosu	right	yi
+Samei	right	le jɔ
+Nisu	right	A 55 ʐo 33
+Biyue	right	la31 tha31
+Kucong	right	la ʝɛ
+Nusu	right	jɔ
+Jinghpo	right	hkra
+Lahu Shi	right	lA 21 tsuo53
+Lahu Na	right	lar sha
+Zaozou	right	lou 42 ʑo 33
+Jinuo	right	la mɒ (la = hand)
+Naxi	right	ʑi31
+Zaiwa	right	lo? 21 jo 51
+Mandarin	ripe	shu2
+Nasu	ripe	mɚ 21
+Lisu	ripe	mi 44
+Baihong	ripe	ɣɔ31
+Hani	ripe	ovq
+Nosu	ripe	hmip
+Samei	ripe	mi
+Nisu	ripe	mi_ɛ_ 21
+Biyue	ripe	mi33
+Kucong	ripe	mæ
+Nusu	ripe	hmre
+Jinghpo	ripe	myin
+Lahu Shi	ripe	mɛ55 ɣɔ313
+Lahu Na	ripe	mie
+Zaozou	ripe	me 35
+Jinuo	ripe	tʃa; a tʃa
+Naxi	ripe	mi55
+Zaiwa	ripe	mji_ŋ 55
+Mandarin	river	jiang1
+Nasu	river	ʑi 21 bu 33
+Lisu	river	e 31 ma 33
+Baihong	river	lɔ55 ba31
+Hani	river	baq ma
+Nosu	river	nuoyy
+Samei	river	ʐɨ mɔ dʐɔ
+Nisu	river	lA 33
+Biyue	river	lo55 bo31
+Kucong	river	-
+Nusu	river	-
+Jinghpo	river	hka
+Lahu Shi	river	lɔ31 kA35
+Lahu Na	river	la zhid xeul
+Zaozou	river	kho~ 31 kho~ 31
+Jinuo	river	a khɹo
+Naxi	river	ndzi33
+Zaiwa	river	vui 21 mo 55
+Mandarin	road	lu4
+Nasu	road	jo_ 21 mo_ 21
+Lisu	road	dʒa 44 gu 44
+Baihong	road	ga31 ma55
+Hani	road	gal ma
+Nosu	road	gga
+Samei	road	go
+Nisu	road	dʐo 21 mo 21
+Biyue	road	ja55 mo33
+Kucong	road	la qɔ
+Nusu	road	tɕi pu
+Jinghpo	road	lam
+Lahu Shi	road	zA 21 qɔ33
+Lahu Na	road	yie* qaw
+Zaozou	road	khou 33 mɔ 35
+Jinuo	road	ja kho
+Naxi	road	ʐɯ33 ŋgv.33
+Zaiwa	road	khjo 51
+Mandarin	roof	wu ding13
+Nasu	roof	-
+Lisu	roof	-
+Baihong	roof	-
+Hani	roof	-
+Nosu	roof	yiiqix
+Samei	roof	ŋә phɔ sɔ
+Nisu	roof	-
+Biyue	roof	-
+Kucong	roof	khɔ bɔ
+Nusu	roof	jɔ khɯ mɯ
+Jinghpo	roof	numgo
+Lahu Shi	roof	-
+Lahu Na	roof	yiel qhod
+Zaozou	roof	-
+Jinuo	roof	kho lo
+Naxi	roof	ji gʊ
+Zaiwa	roof	-
+Mandarin	root	gen1
+Nasu	root	tɕe 21
+Lisu	root	e 55 tʃe 44
+Baihong	root	a55 tɕi31
+Hani	root	daoq qil
+Nosu	root	njip
+Samei	root	ʂɨ khә be
+Nisu	root	pɛ_ 21
+Biyue	root	o31 dzɤ55
+Kucong	root	çә ci
+Nusu	root	dʐɨ
+Jinghpo	root	pot
+Lahu Shi	root	ɔ31 tɕhi55 ku53
+Lahu Na	root	awl geu
+Zaozou	root	tɯ 55 ka~ 31
+Jinuo	root	a phu
+Naxi	root	khɯ33
+Zaiwa	root	a 21 pu_n 51
+Mandarin	rope	shen2
+Nasu	rope	tʂa_ 21
+Lisu	rope	po 44 tʃua 44
+Baihong	rope	a55 dza31
+Hani	rope	al cav
+Nosu	rope	jiebop
+Samei	rope	dzɔ ʂɨ (same as thread)
+Nisu	rope	tɕi_ɛ_ 33
+Biyue	rope	dɤ31 dzɔ33
+Kucong	rope	a ja
+Nusu	rope	hju~ brә
+Jinghpo	rope	sumri
+Lahu Shi	rope	A33 tsA35 khɛ33
+Lahu Na	rope	aq ja* khie
+Zaozou	rope	ʑa 35 tɕio 55
+Jinuo	rope	a phi
+Naxi	rope	jæ~
+Zaiwa	rope	tu_i 21
+Mandarin	rotten	fu lan34
+Nasu	rotten	tʂhɨ 55
+Lisu	rotten	tʃhɨ 31 ʒe 33
+Baihong	rotten	bʊ31
+Hani	rotten	buvq geel buvq leiv
+Nosu	rotten	chypjjip
+Samei	rotten	tɕɔ; f. tʂɨ
+Nisu	rotten	nɛ_ 33
+Biyue	rotten	bje31
+Kucong	rotten	gɯ nu
+Nusu	rotten	bɔ
+Jinghpo	rotten	yat
+Lahu Shi	rotten	nɛ54
+Lahu Na	rotten	keud nul
+Zaozou	rotten	phiæ 31
+Jinuo	rotten	a ɬe (ɬæ)
+Naxi	rotten	tʂhәr33
+Zaiwa	rotten	pup 21
+Mandarin	round	yan2
+Nasu	round	vɚ 21
+Lisu	round	lu 55 lu 55 za 31
+Baihong	round	tɤ31 lɯ55 lɯ55 e
+Hani	round	hhao'laonei
+Nosu	round	volecyp
+Samei	round	wә
+Nisu	round	lɤ 21
+Biyue	round	lo55
+Kucong	round	a wo lo
+Nusu	round	wi
+Jinghpo	round	din
+Lahu Shi	round	lɛ35 lA33
+Lahu Na	round	vaw ie*
+Zaozou	round	la 31 lue~ 35
+Jinuo	round	a la
+Naxi	round	lœ lœ
+Zaiwa	round	liŋ 55
+Mandarin	run	pao3
+Nasu	run	ʑi 55
+Lisu	run	tɯ 35
+Baihong	run	ge31
+Hani	run	xeiv
+Nosu	run	bot
+Samei	run	lә
+Nisu	run	pi_ 33
+Biyue	run	dzo31
+Kucong	run	ʝi
+Nusu	run	tsɔ
+Jinghpo	run	gat
+Lahu Shi	run	to55 tɕi55
+Lahu Na	run	xeud
+Zaozou	run	ta 55
+Jinuo	run	thɒ
+Naxi	run	njә31
+Zaiwa	run	tin 51
+Mandarin	salt	yan2
+Nasu	salt	tsho 33
+Lisu	salt	tsha 42 bo 44
+Baihong	salt	dza31 dɤ31?
+Hani	salt	caq devq
+Nosu	salt	ce
+Samei	salt	tsa
+Nisu	salt	tʂho 33
+Biyue	salt	dzɔ31 mje31
+Kucong	salt	ca
+Nusu	salt	tso
+Jinghpo	salt	jum
+Lahu Shi	salt	A33 lɛ31
+Lahu Na	salt	aq lier
+Zaozou	salt	tshou 31
+Jinuo	salt	tsha kha (~kho??)
+Naxi	salt	tshe33
+Zaiwa	salt	i 55 tʃum 21
+Mandarin	salty	xian2
+Nasu	salty	khɔ 33
+Lisu	salty	khua 31
+Baihong	salty	xa31 (same as bitter)
+Hani	salty	haq
+Nosu	salty	-
+Samei	salty	tsa khɔ (tsa = salt)
+Nisu	salty	khA 33
+Biyue	salty	kɔ31
+Kucong	salty	kha
+Nusu	salty	kha
+Jinghpo	salty	shum
+Lahu Shi	salty	qhA53
+Lahu Na	salty	qhad
+Zaozou	salty	khɔ 31
+Jinuo	salty	a mja
+Naxi	salty	-
+Zaiwa	salty	kho 21
+Mandarin	scratch	zhua1
+Nasu	scratch	tɕho_ 21
+Lisu	scratch	tʃhe 35
+Baihong	scratch	pja31
+Hani	scratch	piav
+Nosu	scratch	yu
+Samei	scratch	dzwɔ
+Nisu	scratch	tʂA_ 33
+Biyue	scratch	pe33
+Kucong	scratch	ga
+Nusu	scratch	hɤ
+Jinghpo	scratch	magra
+Lahu Shi	scratch	gA54
+Lahu Na	scratch	gat
+Zaozou	scratch	kɔ 44
+Jinuo	scratch	tshu
+Naxi	scratch	zɯ
+Zaiwa	scratch	kji_n 51
+Mandarin	see	kan jian44
+Nasu	see	ŋɔ 21
+Lisu	see	mo 33
+Baihong	see	mɔ55
+Hani	see	hu mol
+Nosu	see	wepmo
+Samei	see	nu u
+Nisu	see	ŋA 21
+Biyue	see	mo53
+Kucong	see	ŋo mo
+Nusu	see	ʐɔ (ʐa?)
+Jinghpo	see	mu
+Lahu Shi	see	mɔ31
+Lahu Na	see	ni mawl
+Zaozou	see	ŋa 33
+Jinuo	see	te mjɒ
+Naxi	see	ly31 ndo31
+Zaiwa	see	mjaŋ 51
+Mandarin	seed	zhong zi30
+Nasu	seed	ʂɨ 55 mo 21
+Lisu	seed	e 55 ʃɨ 55
+Baihong	seed	a55 zɨ (ʐɨ?)31
+Hani	seed	al ssyuq
+Nosu	seed	lyp
+Samei	seed	-
+Nisu	seed	ʂɨ 21
+Biyue	seed	a31 dʒɨ33
+Kucong	seed	a jo
+Nusu	seed	ɕi
+Jinghpo	seed	li
+Lahu Shi	seed	ɔ31 zɨ53
+Lahu Na	seed	awl yawd xeu* qha*
+Zaozou	seed	ʑɯ 31 læ 31
+Jinuo	seed	a tsɨ a pɔ
+Naxi	seed	bɯ
+Zaiwa	seed	a 21 mji 21
+Mandarin	seed/pit	-
+Nasu	seed/pit	ɲi_ 21
+Lisu	seed/pit	e 55 ni 35 ma 44
+Baihong	seed/pit	-
+Hani	seed/pit	-
+Nosu	seed/pit	-
+Samei	seed/pit	-
+Nisu	seed/pit	kA 55
+Biyue	seed/pit	a31 ne33 a31 dʒɨ33
+Kucong	seed/pit	-
+Nusu	seed/pit	-
+Jinghpo	seed/pit	-
+Lahu Shi	seed/pit	ɔ31 u53 ku33
+Lahu Na	seed/pit	-
+Zaozou	seed/pit	tɯ 55 sɨ 35 læ 31
+Jinuo	seed/pit	-
+Naxi	seed/pit	-
+Zaiwa	seed/pit	a 21 tʃi 55
+Mandarin	sell	mai4
+Nasu	sell	vu 55
+Lisu	sell	vu 31
+Baihong	sell	woŋ (ɣoŋ)31
+Hani	sell	aoq
+Nosu	sell	vup
+Samei	sell	vә
+Nisu	sell	ɣo 21
+Biyue	sell	o31
+Kucong	sell	xo
+Nusu	sell	ŋu
+Jinghpo	sell	dut
+Lahu Shi	sell	xɔ~53
+Lahu Na	sell	hawd
+Zaozou	sell	ʔo 31
+Jinuo	sell	ko
+Naxi	sell	tɕhi33
+Zaiwa	sell	uŋ 21
+Mandarin	seven	qi1
+Nasu	seven	ɕi 55
+Lisu	seven	ʃɨ 31
+Baihong	seven	sɨ31
+Hani	seven	siivq
+Nosu	seven	shyp
+Samei	seven	ʂyr
+Nisu	seven	ʂɨ 21
+Biyue	seven	ʃɨ31
+Kucong	seven	çәr (çɚ?)
+Nusu	seven	hna
+Jinghpo	seven	sanit
+Lahu Shi	seven	sɨ31
+Lahu Na	seven	sif
+Zaozou	seven	ne 44
+Jinuo	seven	ɕi
+Naxi	seven	ʂәr33
+Zaiwa	seven	ɲi_t 55
+Mandarin	sew	feng ren24
+Nasu	sew	jɯ_ 55
+Lisu	sew	dʒi 31
+Baihong	sew	gʊ31
+Hani	sew	guvq
+Nosu	sew	vitggut ggatcha
+Samei	sew	gәur
+Nisu	sew	dʐɨ_ 21
+Biyue	sew	gv.31
+Kucong	sew	næ ɟu
+Nusu	sew	tʂa (tʂɔ?)
+Jinghpo	sew	chyui
+Lahu Shi	sew	gɯ 21
+Lahu Na	sew	mawd tawq
+Zaozou	sew	khe~ 42
+Jinuo	sew	sɨ
+Naxi	sew	fv.
+Zaiwa	sew	khjup 55
+Mandarin	shadow	ying zi30
+Nasu	shadow	ʑi_ 21
+Lisu	shadow	ɣɯ 33 ŋo 31
+Baihong	shadow	a31 ba31 la55 sɤ55
+Hani	shadow	aq bal
+Nosu	shadow	satyy
+Samei	shadow	i sɔ
+Nisu	shadow	zɨ_ 33
+Biyue	shadow	o31 ko33 lo31 ɲi55
+Kucong	shadow	gɯ xa
+Nusu	shadow	bjɛ
+Jinghpo	shadow	shingna
+Lahu Shi	shadow	ɔ31 xA33 li54
+Lahu Na	shadow	aq xeur ha
+Zaozou	shadow	la 42 lo 33 o~ 33
+Jinuo	shadow	a khjɔ
+Naxi	shadow	nda33 ga
+Zaiwa	shadow	vup 21 tso 21
+Mandarin	shallow	qian3
+Nasu	shallow	de 21
+Lisu	shallow	thɛ 31
+Baihong	shallow	de55
+Hani	shallow	teiv
+Nosu	shallow	ixhmu
+Samei	shallow	mɔ ne (not deep)
+Nisu	shallow	mA 21 ni_ɛ_ 21
+Biyue	shallow	ma31 ne31
+Kucong	shallow	a? na
+Nusu	shallow	ma tʂu (not deep)
+Jinghpo	shallow	tang
+Lahu Shi	shallow	mA31 nA35
+Lahu Na	shallow	pheu* [pf.?]
+Zaozou	shallow	a 31 hæ 33
+Jinuo	shallow	i tʃhɔ a ji (water + not + many)
+Naxi	shallow	mbe33
+Zaiwa	shallow	po_ 55
+Mandarin	sharp1	(dao) kuai14
+Nasu	sharp1	tha_ 21
+Lisu	sharp1	tshɛ 35
+Baihong	sharp1	-
+Hani	sharp1	-
+Nosu	sharp1	-
+Samei	sharp1	-
+Nisu	sharp1	pi_ɛ_ 21
+Biyue	sharp1	ta33
+Kucong	sharp1	-
+Nusu	sharp1	-
+Jinghpo	sharp1	-
+Lahu Shi	sharp1	thAŋ55
+Lahu Na	sharp1	-
+Zaozou	sharp1	ne 35
+Jinuo	sharp1	-
+Naxi	sharp1	-
+Zaiwa	sharp1	tho? 55
+Mandarin	sharp2	feng li14
+Nasu	sharp2	-
+Lisu	sharp2	-
+Baihong	sharp2	da55
+Hani	sharp2	tav
+Nosu	sharp2	tuo
+Samei	sharp2	the
+Nisu	sharp2	-
+Biyue	sharp2	-
+Kucong	sharp2	djә tha
+Nusu	sharp2	tʊ
+Jinghpo	sharp2	nshan
+Lahu Shi	sharp2	-
+Lahu Na	sharp2	zit jad
+Zaozou	sharp2	-
+Jinuo	sharp2	ji tha
+Naxi	sharp2	gʊ tʂɔ
+Zaiwa	sharp2	-
+Mandarin	she	ta1
+Nasu	she	-
+Lisu	she	-
+Baihong	she	a31 jo31
+Hani	she	aq yoq
+Nosu	she	-
+Samei	she	u
+Nisu	she	-
+Biyue	she	-
+Kucong	she	jo
+Nusu	she	ja
+Jinghpo	she	shi
+Lahu Shi	she	-
+Lahu Na	she	yawd
+Zaozou	she	-
+Jinuo	she	khә
+Naxi	she	-
+Zaiwa	she	-
+Mandarin	sheep	yang2
+Nasu	sheep	tʂhi_ 55 hɔ 21
+Lisu	sheep	a 55 tʃhɨ 42
+Baihong	sheep	a55 dzɨ31
+Hani	sheep	aq civq
+Nosu	sheep	chytyo
+Samei	sheep	tʂyr
+Nisu	sheep	A 55 tshɨ_ 21
+Biyue	sheep	tʃɨ_31
+Kucong	sheep	ci
+Nusu	sheep	tʂә
+Jinghpo	sheep	sagu
+Lahu Shi	sheep	ʑAŋ31
+Lahu Na	sheep	aq cher
+Zaozou	sheep	tɕiæ 42
+Jinuo	sheep	thɕi pe
+Naxi	sheep	jɔ
+Zaiwa	sheep	pai 21 nam 55
+Mandarin	(egg) shell	ke2
+Nasu	(egg) shell	ʈho_ 21 kɤ 33
+Lisu	(egg) shell	e 55 fu 44 ko 55 go 42
+Baihong	(egg) shell	v.55 xo31
+Hani	(egg) shell	al hov
+Nosu	(egg) shell	zipddu
+Samei	(egg) shell	ʑi f.(ɯ) kɔ
+Nisu	(egg) shell	ʑi_ɛ_ fu 21 kɤ_ 33
+Biyue	(egg) shell	v.33 ko31
+Kucong	(egg) shell	auu
+Nusu	(egg) shell	jɔ
+Jinghpo	(egg) shell	kop
+Lahu Shi	(egg) shell	u~33 gɯ31 ku35
+Lahu Na	(egg) shell	quq
+Zaozou	(egg) shell	tɯ 55 vu 35 khua~ 42
+Jinuo	(egg) shell	a khɔ
+Naxi	(egg) shell	kv.55
+Zaiwa	(egg) shell	u 55 kja_p 55
+Mandarin	shit	shi3
+Nasu	shit	ɬi 33
+Lisu	shit	khi 31
+Baihong	shit	a31 ki31
+Hani	shit	xiq
+Nosu	shit	qy
+Samei	shit	ʂɨr
+Nisu	shit	thi 33
+Biyue	shit	o31 tɕi31
+Kucong	shit	khe
+Nusu	shit	tʂi
+Jinghpo	shit	hkyi
+Lahu Shi	shit	qhɛ53
+Lahu Na	shit	qhied
+Zaozou	shit	tɕhi 31 pæ~ 33
+Jinuo	shit	a khɹi
+Naxi	shit	tɕhәr33
+Zaiwa	shit	khji 21
+Mandarin	shoot	she4
+Nasu	shoot	mbhɚ_ 21
+Lisu	shoot	bɯ 44
+Baihong	shoot	bɤ31
+Hani	shoot	bev
+Nosu	shoot	nbie
+Samei	shoot	-
+Nisu	shoot	bɛ_ 33
+Biyue	shoot	bɔ33
+Kucong	shoot	kha bo
+Nusu	shoot	bjɛ
+Jinghpo	shoot	gap
+Lahu Shi	shoot	bɔ54
+Lahu Na	shoot	bawt
+Zaozou	shoot	ke~ 35
+Jinuo	shoot	pa
+Naxi	shoot	kha55
+Zaiwa	shoot	pik 21
+Mandarin	short (of stature)	ai3
+Nasu	short (of stature)	nɚ 21
+Lisu	short (of stature)	e~ 44
+Baihong	short (of stature)	ɲʊ55
+Hani	short (of stature)	biov
+Nosu	short (of stature)	-
+Samei	short (of stature)	ɯr
+Nisu	short (of stature)	di 55
+Biyue	short (of stature)	ge33
+Kucong	short (of stature)	næ
+Nusu	short (of stature)	hjɔ
+Jinghpo	short (of stature)	nem
+Lahu Shi	short (of stature)	nɛ31
+Lahu Na	short (of stature)	niel
+Zaozou	short (of stature)	i~ 31
+Jinuo	short (of stature)	a me
+Naxi	short (of stature)	-
+Zaiwa	short (of stature)	ɲu_m 51
+Mandarin	short (of length)	duan3
+Nasu	short (of length)	ɲɤ 33
+Lisu	short (of length)	nio 55
+Baihong	short (of length)	ɲu (ni?)55
+Hani	short (of length)	niaol
+Nosu	short (of length)	ixsho
+Samei	short (of length)	dau
+Nisu	short (of length)	nɤ 33
+Biyue	short (of length)	bi35
+Kucong	short (of length)	dɔ
+Nusu	short (of length)	dwɔ
+Jinghpo	short (of length)	gadun
+Lahu Shi	short (of length)	ŋɛ33
+Lahu Na	short (of length)	ngie
+Zaozou	short (of length)	tyi 42
+Jinuo	short (of length)	a ɕɛ
+Naxi	short (of length)	ndәr33
+Zaiwa	short (of length)	to_t 21
+Mandarin	shoulder	jian bang13
+Nasu	shoulder	va_ 55 bu 21 mi 33 tɕhi 33
+Lisu	shoulder	lɛ 31 phɯ 33
+Baihong	shoulder	la31 ba55
+Hani	shoulder	bavq tavq
+Nosu	shoulder	liexbba
+Samei	shoulder	le phe dʐɨ
+Nisu	shoulder	lE 21 pho 33
+Biyue	shoulder	la31 pv.53
+Kucong	shoulder	la phi qæ
+Nusu	shoulder	go lo dzo
+Jinghpo	shoulder	gahpa
+Lahu Shi	shoulder	lA31 phɛ33
+Lahu Na	shoulder	lar qaq
+Zaozou	shoulder	kɯ 31 pa 35
+Jinuo	shoulder	la phu
+Naxi	shoulder	la31 kho33 tv.31
+Zaiwa	shoulder	koʔ 21 san 51
+Mandarin	sick	bing4
+Nasu	sick	no 21
+Lisu	sick	na 33
+Baihong	sick	na55
+Hani	sick	al nal
+Nosu	sick	na
+Samei	sick	nau (no?)
+Nisu	sick	no 21
+Biyue	sick	na55
+Kucong	sick	na
+Nusu	sick	nwɔ
+Jinghpo	sick	ana
+Lahu Shi	sick	nA31
+Lahu Na	sick	nal
+Zaozou	sick	no 33
+Jinuo	sick	nɔ; nɔ nә
+Naxi	sick	ŋgu31 tsә
+Zaiwa	sick	no 51
+Mandarin	silver	yin2
+Nasu	silver	ʈhu 33
+Lisu	silver	phu 44
+Baihong	silver	pʊ55
+Hani	silver	piul
+Nosu	silver	qu
+Samei	silver	-
+Nisu	silver	thu 33
+Biyue	silver	pv.55
+Kucong	silver	phu
+Nusu	silver	gi
+Jinghpo	silver	gumhpro
+Lahu Shi	silver	in 21 zɨ33
+Lahu Na	silver	phu
+Zaozou	silver	ŋue 33
+Jinuo	silver	phɹu tʃhɔ (=possibly for coins only)
+Naxi	silver	ŋv.31
+Zaiwa	silver	ŋun 51
+Mandarin	sing	chang4
+Nasu	sing	tʂha_ 55 ko 33
+Lisu	sing	mo 31 gua 31 gua 33
+Baihong	sing	tsaŋ55
+Hani	sing	caf
+Nosu	sing	chat
+Samei	sing	dy tsɔ (dy = song)
+Nisu	sing	ko 33 tʂhA 55
+Biyue	sing	dza~55 go55
+Kucong	sing	ga mɯ (ga = çong)
+Nusu	sing	tsa go = song; tsa go tsa = sing
+Jinghpo	sing	mahkon
+Lahu Shi	sing	qA33
+Lahu Na	sing	qa
+Zaozou	sing	tɕi 31 tɕa~ 33
+Jinuo	sing	kɹa khja kɹa mɯ
+Naxi	sing	ndzәr33
+Zaiwa	sing	ma` 21 khon 51 tho 51
+Mandarin	sit	zuo4
+Nasu	sit	ɲi 21
+Lisu	sit	ɲi 44 ta 55
+Baihong	sit	dzo31
+Hani	sit	jol
+Nosu	sit	nyi
+Samei	sit	ɲʊ de
+Nisu	sit	ni 21
+Biyue	sit	ɲi55 dza33
+Kucong	sit	mɯ
+Nusu	sit	ɲi
+Jinghpo	sit	dung
+Lahu Shi	sit	mɤ33
+Lahu Na	sit	meu
+Zaozou	sit	ni 33
+Jinuo	sit	tɤ ɲi
+Naxi	sit	ndzɯ31
+Zaiwa	sit	tsuŋ 51
+Mandarin	six	liu4
+Nasu	six	tɕho_ 55
+Lisu	six	tʃho 42
+Baihong	six	gʊ55
+Hani	six	kuvq
+Nosu	six	fut
+Samei	six	khɔ
+Nisu	six	tʂhu_ 21
+Biyue	six	kv.31
+Kucong	six	kho
+Nusu	six	tʂʊ
+Jinghpo	six	kru
+Lahu Shi	six	khɔ 21
+Lahu Na	six	khawr
+Zaozou	six	kha 42
+Jinuo	six	khjɔ
+Naxi	six	tʂhua55
+Zaiwa	six	khju? 55
+Mandarin	skin	pi fu21
+Nasu	skin	xo 33 se 33
+Lisu	skin	ko 35 dʒi 33
+Baihong	skin	sa31 gɯ55
+Hani	skin	saqgeel
+Nosu	skin	njyxshe
+Samei	skin	hɔ gɯ
+Nisu	skin	dzɨ phiɛ 21
+Biyue	skin	o31 dʑi55
+Kucong	skin	çja gɯ (=roupi)
+Nusu	skin	ky ʐi
+Jinghpo	skin	hpyi
+Lahu Shi	skin	ɔ31 gɯ31 ku35
+Lahu Na	skin	awl geul
+Zaozou	skin	lo 31 xo 31 ?ua 55
+Jinuo	skin	sɒ kho; a kho
+Naxi	skin	ɣɯ33 phi31
+Zaiwa	skin	ʃo` 21 ku_ 21
+Mandarin	sky	tian kong11
+Nasu	sky	mu 33 kɔ 33
+Lisu	sky	mi 31 ɣo 31
+Baihong	sky	ʊ55 ɣoŋ55
+Hani	sky	aoq tav laol qaol
+Nosu	sky	muvut
+Samei	sky	ne phɔ mɔ
+Nisu	sky	mu 33 gA 21
+Biyue	sky	mi31 tha31
+Kucong	sky	mɔ ta
+Nusu	sky	mɯ bo
+Jinghpo	sky	lamu
+Lahu Shi	sky	mo31 phi33
+Lahu Na	sky	mud naw qaw
+Zaozou	sky	mɯ 33 læ 31
+Jinuo	sky	tshɨ na
+Naxi	sky	mɯ33
+Zaiwa	sky	mau 21 khuŋ 51
+Mandarin	sleep	shui jiao44
+Nasu	sleep	ʑi_ 55
+Lisu	sleep	e 31 ta 55
+Baihong	sleep	v.55 dʒa (tɕa?)55
+Hani	sleep	yiuvq
+Nosu	sleep	itnyigu
+Samei	sleep	ʐɨ
+Nisu	sleep	zɨ_ 21
+Biyue	sleep	ji33 dza33
+Kucong	sleep	i
+Nusu	sleep	jɔ hmi
+Jinghpo	sleep	yup
+Lahu Shi	sleep	zɨ31
+Lahu Na	sleep	rir
+Zaozou	sleep	ɲa 42 me 35
+Jinuo	sleep	ɪ the
+Naxi	sleep	ʑi55
+Zaiwa	sleep	jup 55
+Mandarin	slow	man4
+Nasu	slow	lɤ 21
+Lisu	slow	tɛ 31
+Baihong	slow	ɔ31 lɔ31 lɔ31
+Hani	slow	loyeinei
+Nosu	slow	ap nji
+Samei	slow	lә lә
+Nisu	slow	ʐE 21
+Biyue	slow	pi35
+Kucong	slow	lu ʝә
+Nusu	slow	ɲɔ
+Jinghpo	slow	lanyan
+Lahu Shi	slow	phi31
+Lahu Na	slow	naid
+Zaozou	slow	tyi 31
+Jinuo	slow	pjɒ
+Naxi	slow	hwɔ
+Zaiwa	slow	ɲa_m 21
+Mandarin	small	xiao3
+Nasu	small	ɲo, 33
+Lisu	small	ʒo 44
+Baihong	small	-
+Hani	small	nil
+Nosu	small	ietzyr
+Samei	small	zɤ
+Nisu	small	nE 55
+Biyue	small	nɤ55
+Kucong	small	i
+Nusu	small	dzi
+Jinghpo	small	gaji
+Lahu Shi	small	ɔ31 nA35 pi53
+Lahu Na	small	i
+Zaozou	small	ɲæ 33
+Jinuo	small	a ni
+Naxi	small	tɕi55
+Zaiwa	small	ti_ʔ 55
+Mandarin	smell, to (vt.)	wen2
+Nasu	smell, to (vt.)	be 55 ne 33
+Lisu	smell, to (vt.)	tʃhɨ 31 nu 33
+Baihong	smell, to (vt.)	sʊ31 nʊ55
+Hani	smell, to (vt.)	naqgaq
+Nosu	smell, to (vt.)	gge
+Samei	smell, to (vt.)	ni
+Nisu	smell, to (vt.)	nɤ 21
+Biyue	smell, to (vt.)	ni55
+Kucong	smell, to (vt.)	nu
+Nusu	smell, to (vt.)	ɲjɛ
+Jinghpo	smell, to (vt.)	manam
+Lahu Shi	smell, to (vt.)	nu31
+Lahu Na	smell, to (vt.)	nu*
+Zaozou	smell, to (vt.)	nɔ 33
+Jinuo	smell, to (vt.)	ne
+Naxi	smell, to (vt.)	tʂɨr nv.31
+Zaiwa	smell, to (vt.)	nam 51
+Mandarin	smile	wei xiao14
+Nasu	smile	-
+Lisu	smile	-
+Baihong	smile	lʊ31 ga55
+Hani	smile	eelniq niq
+Nosu	smile	yyxsyw
+Samei	smile	gә
+Nisu	smile	-
+Biyue	smile	-
+Kucong	smile	ɣɯ
+Nusu	smile	ʐe
+Jinghpo	smile	sum
+Lahu Shi	smile	-
+Lahu Na	smile	xeul
+Zaozou	smile	-
+Jinuo	smile	ɤ
+Naxi	smile	ʐa
+Zaiwa	smile	-
+Mandarin	smoke	yan1
+Nasu	smoke	mu 33 khɯ 33
+Lisu	smoke	a 55 to 55 mu 31 khu 31
+Baihong	smoke	a55 dza31 xwe
+Hani	smoke	aq hyuq
+Nosu	smoke	mugu
+Samei	smoke	ʑi
+Nisu	smoke	A 55 khɯ 33
+Biyue	smoke	mi31 tɕi31
+Kucong	smoke	ʝa
+Nusu	smoke	mi khɯ
+Jinghpo	smoke	wanhkut
+Lahu Shi	smoke	A31 mi31 mo31
+Lahu Na	smoke	shuq
+Zaozou	smoke	mi 31 khɯ 31
+Jinuo	smoke	mi khy (same as fog)
+Naxi	smoke	mu55 khɯ31
+Zaiwa	smoke	mji 21 khau 21
+Mandarin	smooth (of surface)	guang hua12
+Nasu	smooth (of surface)	-
+Lisu	smooth (of surface)	-
+Baihong	smooth (of surface)	-
+Hani	smooth (of surface)	julluqnei
+Nosu	smooth (of surface)	bbaxyuo
+Samei	smooth (of surface)	-
+Nisu	smooth (of surface)	-
+Biyue	smooth (of surface)	-
+Kucong	smooth (of surface)	-
+Nusu	smooth (of surface)	khja
+Jinghpo	smooth (of surface)	-
+Lahu Shi	smooth (of surface)	-
+Lahu Na	smooth (of surface)	-
+Zaozou	smooth (of surface)	-
+Jinuo	smooth (of surface)	-
+Naxi	smooth (of surface)	ndy jɔ
+Zaiwa	smooth (of surface)	-
+Mandarin	snake	she2
+Nasu	snake	bu 33 ʂo, 33
+Lisu	snake	fu 44
+Baihong	snake	ɔ31 lɔ55
+Hani	snake	ollol
+Nosu	snake	bbushy
+Samei	snake	-
+Nisu	snake	se 55
+Biyue	snake	ɣɤ55 lo55
+Kucong	snake	vɯ
+Nusu	snake	ʐui
+Jinghpo	snake	lapu
+Lahu Shi	snake	vɯ31
+Lahu Na	snake	veol
+Zaozou	snake	ɣɔ~ 35
+Jinuo	snake	y
+Naxi	snake	ʐɯ31
+Zaiwa	snake	la_ŋ 51 mui 51
+Mandarin	sneeze	da pen ti314
+Nasu	sneeze	a 55 thi 21
+Lisu	sneeze	hɛ 35 khi 55
+Baihong	sneeze	a55 tɯ31 tɯ31
+Hani	sneeze	heilceq ceq
+Nosu	sneeze	axciemu (= penti)
+Samei	sneeze	-
+Nisu	sneeze	A 55 thi 21 thi 21
+Biyue	sneeze	-
+Kucong	sneeze	a ci mu
+Nusu	sneeze	tʂœ
+Jinghpo	sneeze	gahti
+Lahu Shi	sneeze	-
+Lahu Na	sneeze	haq thid meu*
+Zaozou	sneeze	thɯ 31
+Jinuo	sneeze	ha thɕi mɯ mә
+Naxi	sneeze	a55 thiә33
+Zaiwa	sneeze	at 55 tʃho 21 tʃho 21
+Mandarin	snot	bi ti24
+Nasu	snot	no 55 be 33
+Lisu	snot	tshɯ 31 hɯ 31
+Baihong	snot	na31 be55
+Hani	snot	nalxiq
+Nosu	snot	hnapbbit
+Samei	snot	ɲi bi
+Nisu	snot	nu 55 nu_ 21
+Biyue	snot	na55 bi55
+Kucong	snot	nuŋ khe
+Nusu	snot	hjɛ
+Jinghpo	snot	nep
+Lahu Shi	snot	nu35 qhɛ53
+Lahu Na	snot	nuq qhied
+Zaozou	snot	pa 33 ɕyi 35
+Jinuo	snot	ne pʊ
+Naxi	snot	ɲi55
+Zaiwa	snot	na_p 55
+Mandarin	soft	ruan3
+Nasu	soft	nu 33
+Lisu	soft	nu 31
+Baihong	soft	nɔ31
+Hani	soft	naoq
+Nosu	soft	ixnu
+Samei	soft	ho
+Nisu	soft	nu 33
+Biyue	soft	nɤ33
+Kucong	soft	a nu ne
+Nusu	soft	ɕyә
+Jinghpo	soft	kya
+Lahu Shi	soft	nu53 nɛ54
+Lahu Na	soft	nud
+Zaozou	soft	mæ 42
+Jinuo	soft	a pɹɯ
+Naxi	soft	-
+Zaiwa	soft	ɲo_m XX
+Mandarin	son	er2 zi3
+Nasu	son	zo 33
+Lisu	son	za 31
+Baihong	son	ja31 jo55
+Hani	son	ssaqyo
+Nosu	son	sse
+Samei	son	zɔ
+Nisu	son	ʐo 33
+Biyue	son	ja31 jv.33
+Kucong	son	ʝa ba
+Nusu	son	zwɔ
+Jinghpo	son	gasha la sha
+Lahu Shi	son	zA53 pA31
+Lahu Na	son	yad paf
+Zaozou	son	zo 31 ʑa 44
+Jinuo	son	zɒ ku
+Naxi	son	zo33
+Zaiwa	son	juʔ 21 ke 51 tso 21
+Mandarin	son-in-law	nü xu30
+Nasu	son-in-law	sɯ 55 ɣɯ 21
+Lisu	son-in-law	mɛ 55 vu 33
+Baihong	son-in-law	a31 ja31
+Hani	son-in-law	aq ssaq
+Nosu	son-in-law	apmy satvu
+Samei	son-in-law	ʐɨ ma sɔ vɯ
+Nisu	son-in-law	ʂu_ 21 ʐu_ 33 pho 21
+Biyue	son-in-law	ja31 ma31
+Kucong	son-in-law	ma
+Nusu	son-in-law	ʐwɔ mɔ
+Jinghpo	son-in-law	dama
+Lahu Shi	son-in-law	mA35 pA31
+Lahu Na	son-in-law	awl maq
+Zaozou	son-in-law	zo 31 mo 42 ʑa 44
+Jinuo	son-in-law	lu khe
+Naxi	son-in-law	-
+Zaiwa	son-in-law	tso` 21 moʔ 55
+Mandarin	song	ge1
+Nasu	song	ko 33
+Lisu	song	mo 31 gua 31
+Baihong	song	-
+Hani	song	-
+Nosu	song	-
+Samei	song	-
+Nisu	song	ko 33
+Biyue	song	go55
+Kucong	song	-
+Nusu	song	-
+Jinghpo	song	mahkon
+Lahu Shi	song	kɔ33 tshAŋ35
+Lahu Na	song	-
+Zaozou	song	tɕi 31 tɕa~ 33
+Jinuo	song	-
+Naxi	song	-
+Zaiwa	song	ma` 21 khon 55
+Mandarin	sour	suan1
+Nasu	sour	tʂe 33
+Lisu	sour	tʃɯ 44
+Baihong	sour	tɕe55
+Hani	sour	qeil
+Nosu	sour	ji
+Samei	sour	dʑi
+Nisu	sour	tɕiɛ 55
+Biyue	sour	dzɤ55
+Kucong	sour	ɟɛ
+Nusu	sour	gja
+Jinghpo	sour	hkri
+Lahu Shi	sour	tɕi33
+Lahu Na	sour	ci
+Zaozou	sour	tɕa 55
+Jinuo	sour	a tʃhɨ
+Naxi	sour	tɕi31
+Zaiwa	sour	tʃi_n 51
+Mandarin	speak	shuo hua14
+Nasu	speak	he 21
+Lisu	speak	the 44
+Baihong	speak	e55
+Hani	speak	doq gee
+Nosu	speak	-
+Samei	speak	khi nɔ
+Nisu	speak	bi_ɛ_ 33
+Biyue	speak	mi31
+Kucong	speak	do çjә
+Nusu	speak	du jɛ
+Jinghpo	speak	shaga
+Lahu Shi	speak	zɔ33
+Lahu Na	speak	tawd yaw
+Zaozou	speak	u 31 xua 42
+Jinuo	speak	pɹær mә
+Naxi	speak	-
+Zaiwa	speak	tai 21
+Mandarin	spicy	la4
+Nasu	spicy	phɚ 21
+Lisu	spicy	ba 44
+Baihong	spicy	pi55
+Hani	spicy	cil
+Nosu	spicy	kepy
+Samei	spicy	ɕi
+Nisu	spicy	ʐA 55
+Biyue	spicy	pi55
+Kucong	spicy	phjɛ
+Nusu	spicy	prә
+Jinghpo	spicy	jap
+Lahu Shi	spicy	phA55
+Lahu Na	spicy	phie
+Zaozou	spicy	phe~ 31
+Jinuo	spicy	a phi
+Naxi	spicy	-
+Zaiwa	spicy	phjik 55
+Mandarin	spider	zhi zhu11
+Nasu	spider	a 21 ɲɔ 21
+Lisu	spider	niɛ 55 ma 44
+Baihong	spider	a55 kɯ31 le55 sɤ55
+Hani	spider	byuq zuq
+Nosu	spider	bbunyipmop
+Samei	spider	-
+Nisu	spider	bE 55 nɛ_ 21 mo 21
+Biyue	spider	dɤ31 gɤ55 lɤ55 mo33
+Kucong	spider	a ga la bu
+Nusu	spider	a tʂa bo
+Jinghpo	spider	ndigram
+Lahu Shi	spider	tsA35 gɔ33 lɔ53
+Lahu Na	spider	na gaq pief
+Zaozou	spider	mi 33 ka~ 35 khu 42 o~ 33
+Jinuo	spider	thɕi tʃo pa tʃo
+Naxi	spider	tʂwa m. la ma
+Zaiwa	spider	la 55 kaŋ 21
+Mandarin	spit, to	ou tu34
+Nasu	spit, to	phi_ 55
+Lisu	spit, to	phe 42
+Baihong	spit, to	o31 pje31
+Hani	spit, to	peivq
+Nosu	spit, to	njie
+Samei	spit, to	kho
+Nisu	spit, to	phi_ 21
+Biyue	spit, to	pi33 dv.33
+Kucong	spit, to	phe
+Nusu	spit, to	di pjy
+Jinghpo	spit, to	madon
+Lahu Shi	spit, to	phi 21
+Lahu Na	spit, to	pher
+Zaozou	spit, to	pha 42
+Jinuo	spit, to	phɯ to
+Naxi	spit, to	ji phy55
+Zaiwa	spit, to	phat 55
+Mandarin	saliva	ko shui33
+Nasu	saliva	ɔ 21 ʑi 21
+Lisu	saliva	mɯ 31 ɣɯ 33
+Baihong	saliva	u55 tsa55
+Hani	saliva	eelju
+Nosu	saliva	zypvyt
+Samei	saliva	a ʐ. (ʑi?)
+Nisu	saliva	ʔiɛ 21 zɨ 21
+Biyue	saliva	ɣɤ55 dzɔ33
+Kucong	saliva	mɯ ɯ
+Nusu	saliva	di
+Jinghpo	saliva	hkumbai
+Lahu Shi	saliva	mo53 ɣɯ31
+Lahu Na	saliva	ciq xeud
+Zaozou	saliva	tæ 44 lɯ 31
+Jinuo	saliva	phi khɔ
+Naxi	saliva	tɕi55
+Zaiwa	saliva	tʃi_ 21
+Mandarin	squeeze	ya zha14
+Nasu	squeeze	-
+Lisu	squeeze	-
+Baihong	squeeze	ja (ʒa?)31 be31
+Hani	squeeze	deiq
+Nosu	squeeze	vut
+Samei	squeeze	dzɤ
+Nisu	squeeze	-
+Biyue	squeeze	-
+Kucong	squeeze	ɲi
+Nusu	squeeze	tɕɔ (tɕa?)
+Jinghpo	squeeze	dip sha
+Lahu Shi	squeeze	-
+Lahu Na	squeeze	niq
+Zaozou	squeeze	-
+Jinuo	squeeze	zɨ
+Naxi	squeeze	nәr
+Zaiwa	squeeze	-
+Mandarin	stand up	zhan4
+Nasu	stand up	he_ 55
+Lisu	stand up	he 42
+Baihong	stand up	ke31 tʊ55
+Hani	stand up	xovq
+Nosu	stand up	hxit
+Samei	stand up	hɯ dæ
+Nisu	stand up	xɤ_ 21
+Biyue	stand up	tv.55
+Kucong	stand up	ɟa du
+Nusu	stand up	do
+Jinghpo	stand up	tsap
+Lahu Shi	stand up	fu35
+Lahu Na	stand up	tu* huq
+Zaozou	stand up	la 42
+Jinuo	stand up	hæ (= zhan); tɯ tho (= zhan qi lai)
+Naxi	stand up	gә hy
+Zaiwa	stand up	jap 21
+Mandarin	star	xing xing11
+Nasu	star	tɕo, 33
+Lisu	star	ko 44 ma 44 se 33
+Baihong	star	a55 gɯ55
+Hani	star	aq geel siq
+Nosu	star	mujy
+Samei	star	gy lɔ
+Nisu	star	tsE 55
+Biyue	star	mi31 dʑi55
+Kucong	star	mɔ gɯ
+Nusu	star	dʐɨ ɕi lA (lɔ?)
+Jinghpo	star	shagan
+Lahu Shi	star	mo53 kɤ31
+Lahu Na	star	meor keo
+Zaozou	star	ki 55 læ 31
+Jinuo	star	pʊ khe
+Naxi	star	kɯ31
+Zaiwa	star	kji_ 51
+Mandarin	steal	tou1
+Nasu	steal	khɯ 33
+Lisu	steal	khu 31
+Baihong	steal	xwe31
+Hani	steal	hyuq
+Nosu	steal	ku
+Samei	steal	khaur
+Nisu	steal	khɯ 33
+Biyue	steal	dɕi31
+Kucong	steal	qho
+Nusu	steal	khɯ
+Jinghpo	steal	lagu
+Lahu Shi	steal	qhɔ53
+Lahu Na	steal	qhawd
+Zaozou	steal	khɯ 31
+Jinuo	steal	khy
+Naxi	steal	khv.33
+Zaiwa	steal	khau 21
+Mandarin	stink	chou4
+Nasu	stink	tʂɨ 55 be 55 ne 33
+Lisu	stink	tʃhɨ 31 nu 33
+Baihong	stink	be31 nu55
+Hani	stink	buvq
+Nosu	stink	chypni
+Samei	stink	tɕɔ
+Nisu	stink	tʂhɨ 21
+Biyue	stink	bv.31
+Kucong	stink	ɟɛ nu
+Nusu	stink	ɲɛ
+Jinghpo	stink	hpu
+Lahu Shi	stink	kɯ55 nu31
+Lahu Na	stink	nul
+Zaozou	stink	tɕiæ 31 no 33
+Jinuo	stink	a ne
+Naxi	stink	jʊ jʊ (possibly switched with rotten)
+Zaiwa	stink	nam 51
+Mandarin	stomach	wei4
+Nasu	stomach	hi_ 55
+Lisu	stomach	he 31 ma 44
+Baihong	stomach	bo31 ma55
+Hani	stomach	bao ma
+Nosu	stomach	hxit
+Samei	stomach	-
+Nisu	stomach	xi_ 21 mo 21
+Biyue	stomach	v.53 mo33
+Kucong	stomach	a fɯ
+Nusu	stomach	jɛ
+Jinghpo	stomach	kan
+Lahu Shi	stomach	vei35
+Lahu Na	stomach	awl qie*
+Zaozou	stomach	ʔi~ 33 læ 31
+Jinuo	stomach	v. mɔ
+Naxi	stomach	xu55
+Zaiwa	stomach	khji 21 pham 21
+Mandarin	stone	shi tou20
+Nasu	stone	lo_ 21
+Lisu	stone	lo 44 tshɨ 35
+Baihong	stone	xa55 lʊ55
+Hani	stone	haq luv
+Nosu	stone	lurmat
+Samei	stone	no ma
+Nisu	stone	lu_ 33
+Biyue	stone	lv.33 mɔ33
+Kucong	stone	xa çi
+Nusu	stone	lu lA
+Jinghpo	stone	nlung
+Lahu Shi	stone	xɛ54 mɛ54 qu33
+Lahu Na	stone	haq peu
+Zaozou	stone	la 42 læ 31
+Jinuo	stone	lo mo
+Naxi	stone	ji lv.33 pa33
+Zaiwa	stone	lu`? 21 kok 21
+Mandarin	straight	zhi2
+Nasu	straight	tu 21
+Lisu	straight	dʒo 31
+Baihong	straight	-
+Hani	straight	gaol ssiq nei
+Nosu	straight	-
+Samei	straight	dzo
+Nisu	straight	tu 21
+Biyue	straight	dʒɨ35
+Kucong	straight	çjɔ
+Nusu	straight	-
+Jinghpo	straight	ding
+Lahu Shi	straight	the55 lA33
+Lahu Na	straight	thed
+Zaozou	straight	tu 35
+Jinuo	straight	a thɒ
+Naxi	straight	-
+Zaiwa	straight	sɯ 31 tu 55
+Mandarin	strong	qiang zhuang31
+Nasu	strong	tshu 33 pɤ 21
+Lisu	strong	ko 33 de 31 dʒi 33
+Baihong	strong	ɣa (a?)31 xa55 v.55
+Hani	strong	daovq siq nei
+Nosu	strong	gurdur
+Samei	strong	lә
+Nisu	strong	xɯ 21
+Biyue	strong	go31 ka33
+Kucong	strong	a ɣa na
+Nusu	strong	tɕi gә gje
+Jinghpo	strong	bong
+Lahu Shi	strong	ɤ31 dzAŋ53
+Lahu Na	strong	ta (= shenti hao)
+Zaozou	strong	ʔo 31 ʑi 31
+Jinuo	strong	ji kha mɯ
+Naxi	strong	ga ji
+Zaiwa	strong	phiŋ 55
+Mandarin	summer	xia4 tian1
+Nasu	summer	ʂe 33
+Lisu	summer	tsha 44 tsɨ 55
+Baihong	summer	wo (ɣo)55 dʊ31 ba31 la31
+Hani	summer	aoq laol ba la
+Nosu	summer	mushe tejjyp
+Samei	summer	tswɔ dʐɨ
+Nisu	summer	ɕiɛ 55
+Biyue	summer	ɕa 213
+Kucong	summer	ʝɛ ɣo
+Nusu	summer	tsɤ ɬɔ
+Jinghpo	summer	n lum ta
+Lahu Shi	summer	xɔ33 thA53
+Lahu Na	summer	mud yel yad
+Zaozou	summer	tshɨ 33 ɣɔ 33
+Jinuo	summer	ɬo khe (khje? cf. winter)
+Naxi	summer	mɯ33 ʐu31
+Zaiwa	summer	tsan 51 nam 55
+Mandarin	sun	tai yang42
+Nasu	sun	ɲi 21 ji 21
+Lisu	sun	mi 31 mi 33
+Baihong	sun	nɯ55 ma31
+Hani	sun	naol ma
+Nosu	sun	hxobbu
+Samei	sun	ә tsɔ
+Nisu	sun	ni 21 jiɛ_ 21 mo 21
+Biyue	sun	ɲi55 mo33
+Kucong	sun	mɔ ni
+Nusu	sun	ɲi
+Jinghpo	sun	jan
+Lahu Shi	sun	mo31 ni33
+Lahu Na	sun	mud ni
+Zaozou	sun	mɯ 35 læ 31
+Jinuo	sun	ɲɔ
+Naxi	sun	ɲi33 me33
+Zaiwa	sun	pui 51
+Mandarin	swallow	tun1
+Nasu	swallow	lɤ 33 ndhɔ 33
+Lisu	swallow	go 33 le 33
+Baihong	swallow	-
+Hani	swallow	-
+Nosu	swallow	-
+Samei	swallow	dʊ
+Nisu	swallow	dA 21
+Biyue	swallow	mv.33 gi33
+Kucong	swallow	læ do
+Nusu	swallow	hni
+Jinghpo	swallow	maut
+Lahu Shi	swallow	lɛ33 dɔ31
+Lahu Na	swallow	-
+Zaozou	swallow	ɲa 55
+Jinuo	swallow	mjʊ
+Naxi	swallow	-
+Zaiwa	swallow	mji_ 51
+Mandarin	swap	jiao huan14
+Nasu	swap	-
+Lisu	swap	-
+Baihong	swap	pa55
+Hani	swap	bavq pal
+Nosu	swap	jjyxge
+Samei	swap	bo (bɔ?)
+Nisu	swap	-
+Biyue	swap	-
+Kucong	swap	the da
+Nusu	swap	jɔ (jo?)
+Jinghpo	swap	galai hkat
+Lahu Shi	swap	-
+Lahu Na	swap	pa dar
+Zaozou	swap	-
+Jinuo	swap	le
+Naxi	swap	khæ khæ
+Zaiwa	swap	-
+Mandarin	sweat	han shui43
+Nasu	sweat	ʂɨ 55
+Lisu	sweat	tʃi 55 ʒi 33
+Baihong	sweat	kɤ31 pʊ (pf.)55
+Hani	sweat	kaoq piul
+Nosu	sweat	gupma
+Samei	sweat	ga
+Nisu	sweat	tsɛ_ 21 zɨ 21
+Biyue	sweat	dɕi31 dza55
+Kucong	sweat	gɯ ɯ
+Nusu	sweat	dʑyi
+Jinghpo	sweat	salat
+Lahu Shi	sweat	kɤ31
+Lahu Na	sweat	keul
+Zaozou	sweat	kæ 44
+Jinuo	sweat	khi
+Naxi	sweat	tsu55
+Zaiwa	sweat	pui 51 pu 51
+Mandarin	sweet	tian2
+Nasu	sweet	tʂhɨ 33
+Lisu	sweet	tʃhɨ 44
+Baihong	sweet	tʃɨ55
+Hani	sweet	qul
+Nosu	sweet	qy
+Samei	sweet	tʂɨ
+Nisu	sweet	tʂhɨ 55
+Biyue	sweet	tʃɨ55
+Kucong	sweet	co
+Nusu	sweet	kjɯ (khjɯ?)
+Jinghpo	sweet	dui
+Lahu Shi	sweet	tshɨ33
+Lahu Na	sweet	chaw
+Zaozou	sweet	tɕhɯ 33
+Jinuo	sweet	a tʃhɨ
+Naxi	sweet	tɕhi31
+Zaiwa	sweet	tʃhui 21
+Mandarin	swell	zhong3
+Nasu	swell	phɤ_ 55
+Lisu	swell	o~ 44
+Baihong	swell	pʊ31
+Hani	swell	puq
+Nosu	swell	wop
+Samei	swell	phy
+Nisu	swell	phɤ_ 21
+Biyue	swell	dzɨ33
+Kucong	swell	phu
+Nusu	swell	ʐɛ
+Jinghpo	swell	bum
+Lahu Shi	swell	phu 21
+Lahu Na	swell	phor
+Zaozou	swell	ɣo 31
+Jinuo	swell	pɯ
+Naxi	swell	u33
+Zaiwa	swell	vam 21
+Mandarin	swim	you yong22
+Nasu	swim	ʑi 21 bu 21
+Lisu	swim	e 33 bɯ 44 lu 44
+Baihong	swim	ɯ55 bɯ31 bɯ31
+Hani	swim	aq bul seil
+Nosu	swim	yyxiy
+Samei	swim	ʐ. le va
+Nisu	swim	zɨ 21 tʂA 21 dE 33
+Biyue	swim	o31 mo55 dzɨ31
+Kucong	swim	mo læ læ
+Nusu	swim	gu
+Jinghpo	swim	hka hpungyot
+Lahu Shi	swim	A55 kA54 xɛ~313
+Lahu Na	swim	xeul luaid
+Zaozou	swim	ka 31 tɕu 44
+Jinuo	swim	i tʃhɔ tsɨ (i tʃhɔ=water)
+Naxi	swim	nji31 ndʐәr33
+Zaiwa	swim	vui 51 li 21 li 21
+Mandarin	tail	wei ba30
+Nasu	tail	mɔ 21 ʂu 33
+Lisu	tail	mɯ 55
+Baihong	tail	dɔ31 mi31
+Hani	tail	daoq miq
+Nosu	tail	pupshu
+Samei	tail	ma
+Nisu	tail	mE 33
+Biyue	tail	do31 mi31
+Kucong	tail	a mo da
+Nusu	tail	xi(m?) ba
+Jinghpo	tail	mai
+Lahu Shi	tail	ɔ31 mɛ31 tu35
+Lahu Na	tail	mief tu
+Zaozou	tail	tɯ 55 ɲi 44 pa 44
+Jinuo	tail	to mi
+Naxi	tail	ma33
+Zaiwa	tail	ʃo` 21 mji 21
+Mandarin	tall (of stature)	gao1
+Nasu	tall (of stature)	-
+Lisu	tall (of stature)	-
+Baihong	tall (of stature)	mɔ55
+Hani	tall (of stature)	-
+Nosu	tall (of stature)	-
+Samei	tall (of stature)	a m.
+Nisu	tall (of stature)	-
+Biyue	tall (of stature)	-
+Kucong	tall (of stature)	mɔ
+Nusu	tall (of stature)	hmræ
+Jinghpo	tall (of stature)	tso
+Lahu Shi	tall (of stature)	-
+Lahu Na	tall (of stature)	-
+Zaozou	tall (of stature)	-
+Jinuo	tall (of stature)	la mjʊ a
+Naxi	tall (of stature)	-
+Zaiwa	tall (of stature)	-
+Mandarin	taste	chang2
+Nasu	taste	-
+Lisu	taste	-
+Baihong	taste	dza55 f.31 f.55
+Hani	taste	keelmil aol huhu
+Nosu	taste	-
+Samei	taste	dzɔ (= eat)
+Nisu	taste	-
+Biyue	taste	-
+Kucong	taste	ɟa ŋo ni
+Nusu	taste	dzo ʐu zɛ
+Jinghpo	taste	chyim
+Lahu Shi	taste	-
+Lahu Na	taste	cad ha* ni*
+Zaozou	taste	-
+Jinuo	taste	tso te
+Naxi	taste	-
+Zaiwa	taste	-
+Mandarin	ten	shi2
+Nasu	ten	tshe 21
+Lisu	ten	tshɨ 44
+Baihong	ten	tse31
+Hani	ten	ceil
+Nosu	ten	ci
+Samei	ten	tɕi
+Nisu	ten	tʂhɤ 21
+Biyue	ten	dzɤ55
+Kucong	ten	ci
+Nusu	ten	tse
+Jinghpo	ten	shi
+Lahu Shi	ten	ti31 tɕhi33
+Lahu Na	ten	ted chi
+Zaozou	ten	tshe 33
+Jinuo	ten	tshә
+Naxi	ten	tshe31
+Zaiwa	ten	la` 21 tshe 51
+Mandarin	that	na4
+Nasu	that	ɣɯ 55
+Lisu	that	go 33
+Baihong	that	y55
+Hani	that	tyul
+Nosu	that	azzyx
+Samei	that	-
+Nisu	that	kɤ 55
+Biyue	that	nɔ33
+Kucong	that	çi
+Nusu	that	ʐa (?)
+Jinghpo	that	dai
+Lahu Shi	that	ɔ53
+Lahu Na	that	od
+Zaozou	that	tɕio 55
+Jinuo	that	ɤ
+Naxi	that	a tʂɨ
+Zaiwa	that	xie 51
+Mandarin	there	na li40
+Nasu	there	ɣɯ 55 mɔ 55
+Lisu	there	a 33 li 33
+Baihong	there	y55 ga55
+Hani	there	tyulgei
+Nosu	there	-
+Samei	there	do ba
+Nisu	there	kɤ 55 ni_ɛ_ 33
+Biyue	there	nɔ33 dza55
+Kucong	there	çi bo
+Nusu	there	wra (?) dɯ
+Jinghpo	there	dai ko
+Lahu Shi	there	ɔ53 phɔ53
+Lahu Na	there	od kal
+Zaozou	there	xo 55 ka 44
+Jinuo	there	u khә
+Naxi	there	-
+Zaiwa	there	xie 51 ma 55
+Mandarin	thick	hou4
+Nasu	thick	thu 33
+Lisu	thick	thu 44
+Baihong	thick	tʊ31
+Hani	thick	tul
+Nosu	thick	adu
+Samei	thick	tau
+Nisu	thick	thu 21
+Biyue	thick	xeu55
+Kucong	thick	tu
+Nusu	thick	tʊ
+Jinghpo	thick	htat
+Lahu Shi	thick	thu33
+Lahu Na	thick	thu
+Zaozou	thick	thu 33
+Jinuo	thick	a thu
+Naxi	thick	la55
+Zaiwa	thick	thu 51
+Mandarin	thin [object]	bao2
+Nasu	thin [object]	bo 33
+Lisu	thin [object]	ba 31
+Baihong	thin [object]	ba31
+Hani	thin [object]	baq
+Nosu	thin [object]	ixbbo
+Samei	thin [object]	-
+Nisu	thin [object]	bo 33
+Biyue	thin [object]	bɔ35
+Kucong	thin [object]	ba
+Nusu	thin [object]	bwɔ
+Jinghpo	thin [object]	hpa
+Lahu Shi	thin [object]	pA55 thɛ55
+Lahu Na	thin [object]	pad
+Zaozou	thin [object]	pu 31
+Jinuo	thin [object]	a phja
+Naxi	thin [object]	mbe33
+Zaiwa	thin [object]	ja_m 55
+Mandarin	thin [person]	shou4
+Nasu	thin [person]	dɚ 33
+Lisu	thin [person]	tʃɯ 44
+Baihong	thin [person]	go31
+Hani	thin [person]	xeivq
+Nosu	thin [person]	ggexiji
+Samei	thin [person]	ou
+Nisu	thin [person]	kɤ_ 33
+Biyue	thin [person]	gi55
+Kucong	thin [person]	go
+Nusu	thin [person]	ʑa
+Jinghpo	thin [person]	lasi
+Lahu Shi	thin [person]	gɔ31
+Lahu Na	thin [person]	cawq
+Zaozou	thin [person]	kæ~ 33
+Jinuo	thin [person]	a khju
+Naxi	thin [person]	ndza33
+Zaiwa	thin [person]	kji 55
+Mandarin	thirsty	ke3
+Nasu	thirsty	si_ 55
+Lisu	thirsty	se 42
+Baihong	thirsty	me31
+Hani	thirsty	kaoq baoq gee
+Nosu	thirsty	syt
+Samei	thirsty	ʂɨ
+Nisu	thirsty	sɨ_ 21
+Biyue	thirsty	ʃɨ31
+Kucong	thirsty	ɯ ga ʝɛ mɯ (xiang chi)
+Nusu	thirsty	ɕjɔ
+Jinghpo	thirsty	hpang gara
+Lahu Shi	thirsty	ɕi35
+Lahu Na	thirsty	shiq
+Zaozou	thirsty	khɔ 31
+Jinuo	thirsty	i tʃhɔ mɤ (i tʃhɔ = water; mɤ same as in hungry)
+Naxi	thirsty	pv.31
+Zaiwa	thirsty	vui 51 ʃit 55
+Mandarin	this	zhe4
+Nasu	this	tʂhɤ 33
+Lisu	this	the 33
+Baihong	this	xɤ31
+Hani	this	xil
+Nosu	this	cyx
+Samei	this	i
+Nisu	this	ʔi 55
+Biyue	this	jɔ33
+Kucong	this	cjo
+Nusu	this	a kwʊ
+Jinghpo	this	ndai
+Lahu Shi	this	tɕhi33
+Lahu Na	this	chi
+Zaozou	this	ɣuo 35
+Jinuo	this	xi
+Naxi	this	tʂhɯ33
+Zaiwa	this	xii 51
+Mandarin	thorn	ci4
+Nasu	thorn	dzɯ 55
+Lisu	thorn	e 55 tʃhu 31
+Baihong	thorn	a31 goŋ55
+Hani	thorn	al gao
+Nosu	thorn	mgut
+Samei	thorn	ji go
+Nisu	thorn	A 55 dʐɤ 21
+Biyue	thorn	o31 gɤ33
+Kucong	thorn	a cu
+Nusu	thorn	dʐu
+Jinghpo	thorn	ju
+Lahu Shi	thorn	A35 tshu53
+Lahu Na	thorn	i* chud
+Zaozou	thorn	tsɨ 31 a 44
+Jinuo	thorn	a kjo
+Naxi	thorn	tɕhi33
+Zaiwa	thorn	tsu 21
+Mandarin	thread	xian4
+Nasu	thread	tɕhɚ 21
+Lisu	thread	tʃhɨ 44 za 31
+Baihong	thread	sa31 kɯ55
+Hani	thread	saqkaol
+Nosu	thread	xi
+Samei	thread	dzɔ ʂɨ
+Nisu	thread	tʂhE 21 po_ 21
+Biyue	thread	kɤ55 mi_33
+Kucong	thread	gɯ khɔ
+Nusu	thread	jɛ hmi
+Jinghpo	thread	ri
+Lahu Shi	thread	A33 vu 21 tsA313
+Lahu Na	thread	khie
+Zaozou	thread	khe~ 33
+Jinuo	thread	a khɤ
+Naxi	thread	khɯ31
+Zaiwa	thread	khjiŋ 51
+Mandarin	three	san1
+Nasu	three	sa 33
+Lisu	three	sa 44
+Baihong	three	sɔ55
+Hani	three	saol
+Nosu	three	suo
+Samei	three	sy
+Nisu	three	ʂA 55
+Biyue	three	ɕi55
+Kucong	three	çæu
+Nusu	three	sa
+Jinghpo	three	masum
+Lahu Shi	three	ɕɛ33 lɛ53
+Lahu Na	three	shiet
+Zaozou	three	sæ~ 31
+Jinuo	three	sɨ
+Naxi	three	sɯ31
+Zaiwa	three	sum 21
+Mandarin	throw	pao1
+Nasu	throw	-
+Lisu	throw	-
+Baihong	throw	bje31
+Hani	throw	zei
+Nosu	throw	pao
+Samei	throw	lɔ ji
+Nisu	throw	-
+Biyue	throw	-
+Kucong	throw	ci ba
+Nusu	throw	wa
+Jinghpo	throw	gabai
+Lahu Shi	throw	-
+Lahu Na	throw	bal
+Zaozou	throw	-
+Jinuo	throw	wɒ tsʊ
+Naxi	throw	dœ
+Zaiwa	throw	-
+Mandarin	thunder	lei dian24
+Nasu	thunder	mu 33 kɯ 21
+Lisu	thunder	mu 31 gu 31
+Baihong	thunder	ɤ31 dʑi31
+Hani	thunder	aoq miaovq ssol nei aoq jiq (aoqjiq = lei)
+Nosu	thunder	muzyr
+Samei	thunder	mә gә lә ә
+Nisu	thunder	mu 33 tɯ 21
+Biyue	thunder	dzv.31
+Kucong	thunder	mɔ dɔ
+Nusu	thunder	mɯ dʐɨ
+Jinghpo	thunder	myihprap
+Lahu Shi	thunder	mo53 tɔ31
+Lahu Na	thunder	mud taw*
+Zaozou	thunder	mɯ 31 pa 55
+Jinuo	thunder	-
+Naxi	thunder	mɯ33 ŋgv.33
+Zaiwa	thunder	mau 21 mjiŋ 51
+Mandarin	tie	jie2
+Nasu	tie	-
+Lisu	tie	-
+Baihong	tie	dza31
+Hani	tie	taoqsiq
+Nosu	tie	tip
+Samei	tie	dә khә
+Nisu	tie	-
+Biyue	tie	-
+Kucong	tie	a thæ
+Nusu	tie	tɔ (tao?)
+Jinghpo	tie	makyit
+Lahu Shi	tie	-
+Lahu Na	tie	awl peu* thie*
+Zaozou	tie	-
+Jinuo	tie	thɯ
+Naxi	tie	dʐœ dʐœ
+Zaiwa	tie	-
+Mandarin	tiger	lao hu33
+Nasu	tiger	lo 55
+Lisu	tiger	la 31 ma 44
+Baihong	tiger	xa31 la31
+Hani	tiger	haqlaq
+Nosu	tiger	coxzze latmop
+Samei	tiger	laɔ ma gu
+Nisu	tiger	lo_ 21
+Biyue	tiger	lo31 mi31
+Kucong	tiger	la
+Nusu	tiger	lo
+Jinghpo	tiger	sharo
+Lahu Shi	tiger	tsA31 mɛ33
+Lahu Na	tiger	lad qhad peu
+Zaozou	tiger	lou 31 ko~ 55
+Jinuo	tiger	lɔ mɯ
+Naxi	tiger	la33
+Zaiwa	tiger	lo 21 mo 55
+Mandarin	tongue	she tou20
+Nasu	tongue	ɬo 33
+Lisu	tongue	la 44 tʃhɯ 44
+Baihong	tongue	mɛ31 la55
+Hani	tongue	lal ma
+Nosu	tongue	hxanie
+Samei	tongue	lә bu (cf. neck)
+Nisu	tongue	ɬo 55
+Biyue	tongue	a31 la55
+Kucong	tongue	xa gu
+Nusu	tongue	hɬɔ
+Jinghpo	tongue	shinglet
+Lahu Shi	tongue	xA33 li53
+Lahu Na	tongue	ha lie*
+Zaozou	tongue	le 55 tæ 31
+Jinuo	tongue	mɯ ɬɔ
+Naxi	tongue	ɕi55
+Zaiwa	tongue	ʃo 51
+Mandarin	tooth	ya chi23
+Nasu	tooth	d&o, 21
+Lisu	tooth	sɨ 31 tʃhi 44
+Baihong	tooth	sɤ31
+Hani	tooth	seq
+Nosu	tooth	rry
+Samei	tooth	dzɤ
+Nisu	tooth	dzE 21
+Biyue	tooth	o31 dzɨ55
+Kucong	tooth	ʝi
+Nusu	tooth	i sœ
+Jinghpo	tooth	wa
+Lahu Shi	tooth	su 21
+Lahu Na	tooth	cil
+Zaozou	tooth	tɕyi 33 læ31
+Jinuo	tooth	a tʃɨ
+Naxi	tooth	xɯ33
+Zaiwa	tooth	tsui 51
+Mandarin	tree	shu4
+Nasu	tree	si_ 33 dzɨ 33
+Lisu	tree	sɨ 35 dzɨ 44
+Baihong	tree	a55 bɔ55
+Hani	tree	al bol
+Nosu	tree	syrbbo
+Samei	tree	ʂɨ go
+Nisu	tree	sɨ_ 33
+Biyue	tree	sɨ33 dzɨ55
+Kucong	tree	çә ɟæ
+Nusu	tree	si dzә
+Jinghpo	tree	hpun
+Lahu Shi	tree	sɨ54 tɕɛ31
+Lahu Na	tree	sit
+Zaozou	tree	sæ 42 tse~ 33
+Jinuo	tree	a tsɨ
+Naxi	tree	ndzәr31
+Zaiwa	tree	sik 55
+Mandarin	turtle	wu gui11
+Nasu	turtle	-
+Lisu	turtle	kɯ 35
+Baihong	turtle	v. gwej
+Hani	turtle	byuq qul byuq biol aq ma
+Nosu	turtle	uoxba shaho
+Samei	turtle	-
+Nisu	turtle	bɤ 21 gɤ 21 mo 21
+Biyue	turtle	v.33 gui33
+Kucong	turtle	u gwej (wugui)
+Nusu	turtle	u gwej
+Jinghpo	turtle	taukok
+Lahu Shi	turtle	-
+Lahu Na	turtle	taof quq
+Zaozou	turtle	tha~ 31 kyi 33 ɕi 31 o~ 33
+Jinuo	turtle	pu pjɔ
+Naxi	turtle	v. ɣwej
+Zaiwa	turtle	ta_u 55 kop 21
+Mandarin	two	er4
+Nasu	two	ɲi 55
+Lisu	two	ɲi 31
+Baihong	two	ɲi31
+Hani	two	niq
+Nosu	two	nyip
+Samei	two	ŋә
+Nisu	two	ni 21
+Biyue	two	ɲi31
+Kucong	two	ɲi
+Nusu	two	ʑɛ
+Jinghpo	two	lahkong
+Lahu Shi	two	ni53
+Lahu Na	two	nid
+Zaozou	two	næ 42
+Jinuo	two	ɲi
+Naxi	two	ɲi 13
+Zaiwa	two	i 55
+Mandarin	uncle (maternal)	jiu4
+Nasu	uncle (maternal)	a 55 ɣɯ 33
+Lisu	uncle (maternal)	a 44 vu 33
+Baihong	uncle (maternal)	a31 we (ɣye?)55
+Hani	uncle (maternal)	aq hhyu
+Nosu	uncle (maternal)	-
+Samei	uncle (maternal)	a vy
+Nisu	uncle (maternal)	A 55 ɣɯ 55
+Biyue	uncle (maternal)	a55 dʑv.55
+Kucong	uncle (maternal)	dә dә
+Nusu	uncle (maternal)	phɯ phɯ
+Jinghpo	uncle (maternal)	tsa
+Lahu Shi	uncle (maternal)	tA35 tɕiu35
+Lahu Na	uncle (maternal)	aq phad
+Zaozou	uncle (maternal)	a 33 tɕo 55
+Jinuo	uncle (maternal)	a ky
+Naxi	uncle (maternal)	-
+Zaiwa	uncle (maternal)	a 55 tsa_ 21
+Mandarin	undress	tuo1
+Nasu	undress	lɯ_ 55
+Lisu	undress	ʒɨ 55
+Baihong	undress	le31
+Hani	undress	leiv
+Nosu	undress	ly
+Samei	undress	lә
+Nisu	undress	ɬɤ_ 33
+Biyue	undress	lje33
+Kucong	undress	ge
+Nusu	undress	tSo
+Jinghpo	undress	ro
+Lahu Shi	undress	qɛ35 khA33
+Lahu Na	undress	qiet
+Zaozou	undress	khua 42
+Jinuo	undress	-
+Naxi	undress	phv.55
+Zaiwa	undress	khjut 55
+Mandarin	vagina	yin dao14
+Nasu	vagina	pɚ 33
+Lisu	vagina	to 55 bi 31
+Baihong	vagina	a31 be31
+Hani	vagina	-
+Nosu	vagina	vagga
+Samei	vagina	dau
+Nisu	vagina	pi 55
+Biyue	vagina	dzv.31 bje31
+Kucong	vagina	ɔ
+Nusu	vagina	dzu tʂɨ
+Jinghpo	vagina	n sa lam
+Lahu Shi	vagina	-
+Lahu Na	vagina	cha qhaw
+Zaozou	vagina	po 44 tɕi 35 khɔ 31
+Jinuo	vagina	-
+Naxi	vagina	mbi lɯ ɲy33
+Zaiwa	vagina	tʃu? 21
+Mandarin	valley	shan gu13
+Nasu	valley	-
+Lisu	valley	-
+Baihong	valley	-
+Hani	valley	ceil
+Nosu	valley	ladda
+Samei	valley	bu dzɨ
+Nisu	valley	-
+Biyue	valley	-
+Kucong	valley	lɔ khu
+Nusu	valley	khwa
+Jinghpo	valley	hkaro
+Lahu Shi	valley	-
+Lahu Na	valley	lawl qhor (=gu)/ lawl qhor (=gushan)
+Zaozou	valley	-
+Jinuo	valley	a khɹo
+Naxi	valley	khæ
+Zaiwa	valley	-
+Mandarin	village	cun zi10
+Nasu	village	kha_ 21
+Lisu	village	kha 35
+Baihong	village	pʊ31 si31
+Hani	village	puv kaq
+Nosu	village	bbapga
+Samei	village	khɔ li
+Nisu	village	tɕhi_ɛ_ 33
+Biyue	village	dzai35 dzɨ33
+Kucong	village	kha
+Nusu	village	gjɔ
+Jinghpo	village	gahtong
+Lahu Shi	village	tshɔ33 qhA53
+Lahu Na	village	qhat qhaw
+Zaozou	village	o 33 o 33
+Jinuo	village	tso mi
+Naxi	village	mbe33 kʊ
+Zaiwa	village	va 31
+Mandarin	voice	sheng yin11
+Nasu	voice	tɕhu 33
+Lisu	voice	sɛ 42
+Baihong	voice	jo31 te55
+Hani	voice	yoteil
+Nosu	voice	-
+Samei	voice	khi thi
+Nisu	voice	tʂho 33 tɤ 21
+Biyue	voice	o31 tɤ55
+Kucong	voice	do kho
+Nusu	voice	so
+Jinghpo	voice	nsen
+Lahu Shi	voice	tɔ33 khɔ53
+Lahu Na	voice	awl khawd
+Zaozou	voice	sou 42 khɔ 31
+Jinuo	voice	a thә
+Naxi	voice	-
+Zaiwa	voice	the 51
+Mandarin	vomit (n)	ou tu wu 344
+Nasu	vomit (n)	-
+Lisu	vomit (n)	-
+Baihong	vomit (n)	o31 be31
+Hani	vomit (n)	-
+Nosu	vomit (n)	-
+Samei	vomit (n)	-
+Nisu	vomit (n)	-
+Biyue	vomit (n)	-
+Kucong	vomit (n)	-
+Nusu	vomit (n)	-
+Jinghpo	vomit (n)	-
+Lahu Shi	vomit (n)	-
+Lahu Na	vomit (n)	pher
+Zaozou	vomit (n)	-
+Jinuo	vomit (n)	phɯ to me
+Naxi	vomit (n)	pœ
+Zaiwa	vomit (n)	-
+Mandarin	wait	deng3
+Nasu	wait	ɳɔ 21
+Lisu	wait	lo 55 niɛ 35
+Baihong	wait	do31
+Hani	wait	doq
+Nosu	wait	zip
+Samei	wait	ʂu (su?)
+Nisu	wait	xA 21
+Biyue	wait	do33 ko55
+Kucong	wait	lo
+Nusu	wait	na (nɔ?)
+Jinghpo	wait	la
+Lahu Shi	wait	lɔ33
+Lahu Na	wait	law
+Zaozou	wait	na 35
+Jinuo	wait	tɒ
+Naxi	wait	xu33
+Zaiwa	wait	laŋ 55
+Mandarin	walk	zou3
+Nasu	walk	sɯ 55
+Lisu	walk	se 31
+Baihong	walk	jʊ31
+Hani	walk	ssuq
+Nosu	walk	ggaxshu
+Samei	walk	sәr
+Nisu	walk	ʂɤ 33
+Biyue	walk	jo31
+Kucong	walk	ɟu
+Nusu	walk	ŋga
+Jinghpo	walk	hkom
+Lahu Shi	walk	tu53
+Lahu Na	walk	tod (=zou); yal qaw jud (=zoulu)
+Zaozou	walk	sɨ 31
+Jinuo	walk	zo
+Naxi	walk	nji33
+Zaiwa	walk	so 21
+Mandarin	wall	qiang bi24
+Nasu	wall	lu 21 bu 33
+Lisu	wall	dʒɛ 35
+Baihong	wall	tsa31 toŋ31
+Hani	wall	kaolto
+Nosu	wall	zapux
+Samei	wall	dau lau ba
+Nisu	wall	ni_ɛ_ 21 tʂɤ 55
+Biyue	wall	dzo31 to31
+Kucong	wall	cә jɛ
+Nusu	wall	tɕa~ bi
+Jinghpo	wall	shakum
+Lahu Shi	wall	tɕhAŋ31
+Lahu Na	wall	chiel bad
+Zaozou	wall	tsɔ 33 pɔ 31 ɣuo 33
+Jinuo	wall	-
+Naxi	wall	by
+Zaiwa	wall	tshe` 55 vam 51
+Mandarin	warm	nuan huo30
+Nasu	warm	lɤ 21 mɤ 33
+Lisu	warm	le 33 me 31
+Baihong	warm	lʊ55
+Hani	warm	laoldunei
+Nosu	warm	ca
+Samei	warm	tso my
+Nisu	warm	miɛ 33
+Biyue	warm	o31 li55 li55
+Kucong	warm	ɟɛ læ
+Nusu	warm	la
+Jinghpo	warm	lum
+Lahu Shi	warm	lɛ31 dA 21
+Lahu Na	warm	liel/ liel ief
+Zaozou	warm	læ 33
+Jinuo	warm	ɬo (same as hot)
+Naxi	warm	tsә
+Zaiwa	warm	lum 55
+Mandarin	wash	xi3
+Nasu	wash	tshi 33
+Lisu	wash	tshɨ 31
+Baihong	wash	tɕi31
+Hani	wash	ciq
+Nosu	wash	yyxcy
+Samei	wash	tʂɨr
+Nisu	wash	tshɨ 33
+Biyue	wash	dʒɨ31
+Kucong	wash	cә
+Nusu	wash	tɕi
+Jinghpo	wash	myit
+Lahu Shi	wash	tshɨ53
+Lahu Na	wash	zhid
+Zaozou	wash	tɕhi 31
+Jinuo	wash	la pu tshɨ
+Naxi	wash	tʂhәr33
+Zaiwa	wash	tʃhi 21
+Mandarin	water	shui3
+Nasu	water	ʑi 21
+Lisu	water	e 44 dʒɛ 44
+Baihong	water	u55 dʒu31
+Hani	water	wulquvq
+Nosu	water	ieqyt
+Samei	water	a ji
+Nisu	water	zɨ 21
+Biyue	water	v.55 dzv.31
+Kucong	water	ɯ ga
+Nusu	water	i dʐwә (ɪ ʐwɔ?)
+Jinghpo	water	ntsin
+Lahu Shi	water	A31 kA35
+Lahu Na	water	iq kat
+Zaozou	water	ɣæ 33
+Jinuo	water	i tʃhɔ
+Naxi	water	nji31
+Zaiwa	water	i 21 tʃa_m 21
+Mandarin	wax gourd	dong gua11
+Nasu	wax gourd	-
+Lisu	wax gourd	a 55 phu31 mɯ 44
+Baihong	wax gourd	sa55 pɤ55
+Hani	wax gourd	sal peel
+Nosu	wax gourd	-
+Samei	wax gourd	-
+Nisu	wax gourd	thA 21 xɤ 21
+Biyue	wax gourd	to31 ko31
+Kucong	wax gourd	ça phɯ çi
+Nusu	wax gourd	-
+Jinghpo	wax gourd	hkumjang
+Lahu Shi	wax gourd	phɯ53 mɯ55 sɨ11
+Lahu Na	wax gourd	pheud meuq pheu shif
+Zaozou	wax gourd	to 33 kua 33
+Jinuo	wax gourd	tho kho
+Naxi	wax gourd	-
+Zaiwa	wax gourd	xum 55 tʃaŋ 55
+Mandarin	wax	la4
+Nasu	wax	-
+Lisu	wax	-
+Baihong	wax	ba31 sɔ31
+Hani	wax	biaq saoq
+Nosu	wax	jjipshur
+Samei	wax	-
+Nisu	wax	-
+Biyue	wax	-
+Kucong	wax	bjɛ xɔ
+Nusu	wax	la
+Jinghpo	wax	gatbo
+Lahu Shi	wax	-
+Lahu Na	wax	pied hawf
+Zaozou	wax	-
+Jinuo	wax	-
+Naxi	wax	ba be; mbæ ɕɔ
+Zaiwa	wax	-
+Mandarin	weave	bian zhi11
+Nasu	weave	tʂho, 55
+Lisu	weave	tshɨ 31
+Baihong	weave	dzɤ31
+Hani	weave	ziivq
+Nosu	weave	rrot
+Samei	weave	i (ʑi? )
+Nisu	weave	dE 33
+Biyue	weave	ja31
+Kucong	weave	ci
+Nusu	weave	di
+Jinghpo	weave	htu
+Lahu Shi	weave	-
+Lahu Na	weave	chi*
+Zaozou	weave	ɣo 42
+Jinuo	weave	tsɒ
+Naxi	weave	nda31
+Zaiwa	weave	voʔ 21
+Mandarin	web	zhi zhu wang113
+Nasu	web	a 21 ɲɔ 21 tɕhɚ 21
+Lisu	web	niɛ 55 ma 44 dʒɛ 44 dʒɛ 31
+Baihong	web	-
+Hani	web	byuq zuq bav hhav
+Nosu	web	vot
+Samei	web	-
+Nisu	web	bE 55 nɛ_ 21 pɤ 21
+Biyue	web	dɤ31 gɤ55 lɤ55 mo33 o31 xi55
+Kucong	web	a ga la kha
+Nusu	web	a tʂa bo jau
+Jinghpo	web	ndigram tsip (spider nest)
+Lahu Shi	web	tsA35 gɔ33 lɔ53 phɯ54
+Lahu Na	web	na gaq pief geur
+Zaozou	web	mi 33 ka~ 35 khu 42
+Jinuo	web	thɕi tʃo pa tʃo a khɯ (spider + nest)
+Naxi	web	tʂwa m. la ma phɯ
+Zaiwa	web	kaŋ 21 mja_ 55 sut 55
+Mandarin	wet	shi1
+Nasu	wet	dzɨ 33
+Lisu	wet	pha 31 le 33
+Baihong	wet	tɕɛ (tsɛ?)31
+Hani	wet	jeil
+Nosu	wet	axzzi
+Samei	wet	lɔ bi
+Nisu	wet	lA 55
+Biyue	wet	dzɤ55
+Kucong	wet	bæ
+Nusu	wet	ɚ
+Jinghpo	wet	madi
+Lahu Shi	wet	bɛ35
+Lahu Na	wet	niet
+Zaozou	wet	na 44
+Jinuo	wet	a ji
+Naxi	wet	ndʐәr33
+Zaiwa	wet	te_ʔ 55
+Mandarin	what	shen me20
+Nasu	what	mo 33 tʂo 55
+Lisu	what	a 55 ʃɨ 31
+Baihong	what	xa31 me55
+Hani	what	haljivq
+Nosu	what	-
+Samei	what	a jo
+Nisu	what	A 21 xɤ 33
+Biyue	what	A 21 xɤ33
+Kucong	what	a thu jɛ
+Nusu	what	kɔ tʂɔ
+Jinghpo	what	hpa
+Lahu Shi	what	A33 tho33 phA53
+Lahu Na	what	al ma
+Zaozou	what	se~ 55 ʑa~ 35
+Jinuo	what	khwæ; ŋa kwe
+Naxi	what	-
+Zaiwa	what	xai 51
+Mandarin	white	bai2
+Nasu	white	ʈhu 33
+Lisu	white	e 55 phu 44
+Baihong	white	ba31
+Hani	white	ba nei
+Nosu	white	aqu
+Samei	white	saur
+Nisu	white	thu 21
+Biyue	white	pv.55
+Kucong	white	a phu
+Nusu	white	bo
+Jinghpo	white	hpro
+Lahu Shi	white	phu31 ɕɛ35
+Lahu Na	white	phu
+Zaozou	white	phu 33
+Jinuo	white	a phɹu
+Naxi	white	phәr31
+Zaiwa	white	phju 51
+Mandarin	wife	qi zi10
+Nasu	wife	tɕhi 55
+Lisu	wife	hi 33 sɨ 44 ma 44
+Baihong	wife	xa31 mi55
+Hani	wife	miqssaq
+Nosu	wife	-
+Samei	wife	khә me le
+Nisu	wife	mE 21
+Biyue	wife	a55 mo33 ɲi55
+Kucong	wife	mi ma
+Nusu	wife	mi
+Jinghpo	wife	madu jan
+Lahu Shi	wife	ŋA31 mi55 A33
+Lahu Na	wife	awl mid ma
+Zaozou	wife	miɔ 35 ʑa 55
+Jinuo	wife	khɒ mɒ
+Naxi	wife	-
+Zaiwa	wife	mji 21
+Mandarin	wind	feng1
+Nasu	wind	mu 33 ɳɯ 33
+Lisu	wind	mi 31 hi 33
+Baihong	wind	tʃa (dʑa?)31 le55
+Hani	wind	jaqleil
+Nosu	wind	muhly
+Samei	wind	mә ʂɨ
+Nisu	wind	miɛ 33 xiɛ 33
+Biyue	wind	dzo31 li55
+Kucong	wind	mɔ xɔ
+Nusu	wind	mɯ ɬi
+Jinghpo	wind	nbung
+Lahu Shi	wind	mo55 xɔ~33
+Lahu Na	wind	mud haw
+Zaozou	wind	mɯ 31 læ 55
+Jinuo	wind	li phjɔ
+Naxi	wind	xәr33
+Zaiwa	wind	lai 51
+Mandarin	window	chuang hu20
+Nasu	window	tɕho_ 55 na_ 33 tsɨ 33
+Lisu	window	ɲi 44 mo 33 khu 33
+Baihong	window	xɔ31 bi (by?)55
+Hani	window	caq byu
+Nosu	window	siexnyuo
+Samei	window	a la dә
+Nisu	window	tʂhA 33 fu 33
+Biyue	window	dzua~33 fo~33
+Kucong	window	cwaŋ xu
+Nusu	window	tʂwa~ fu (hu?)
+Jinghpo	window	hkalap
+Lahu Shi	window	tshuAŋ35 tsɨ53
+Lahu Na	window	yiel miq g?*
+Zaozou	window	tshɔ 33 hɔ 33 to~ 31
+Jinuo	window	thʃwaŋ hu
+Naxi	window	lɛ dɛ khɔ
+Zaiwa	window	kho` 21 xot 55
+Mandarin	wing	chi bang43
+Nasu	wing	du 21 la_ 55
+Lisu	wing	du 44 lɛ 42
+Baihong	wing	a55 doŋ55
+Hani	wing	aq daol
+Nosu	wing	ddur
+Samei	wing	daur le
+Nisu	wing	do 21 li_ɛ_ 21
+Biyue	wing	o31 do55
+Kucong	wing	a dɔ la gu
+Nusu	wing	du
+Jinghpo	wing	singko
+Lahu Shi	wing	u~31 tA31 pi35 li54
+Lahu Na	wing	pol lar quq
+Zaozou	wing	to~ 33 pho 42
+Jinuo	wing	pɹe tɔ
+Naxi	wing	ndv33 phi31
+Zaiwa	wing	tuŋ 51
+Mandarin	winter	dong tian11
+Nasu	winter	tshu 33
+Lisu	winter	dʒɛ 44 tsɨ 55
+Baihong	winter	tso55 ga55 ba31 la31
+Hani	winter	aq gav ba la
+Nosu	winter	mucu tejjyp
+Samei	winter	dzɔ dʐɨ
+Nisu	winter	tʂho33
+Biyue	winter	do~55
+Kucong	winter	mo ga ta
+Nusu	winter	dʐwɔ hɬɔ
+Jinghpo	winter	nshung ta
+Lahu Shi	winter	kA35 thA53
+Lahu Na	winter	mud kat yad
+Zaozou	winter	ko 42 ɣɔ 33
+Jinuo	winter	tʃho khje
+Naxi	winter	mɯ33 tshɯ33
+Zaiwa	winter	kjoʔ 21 mjo 21
+Mandarin	woman	nü ren32
+Nasu	woman	mo 21 ne 33 (= funu)
+Lisu	woman	za 31 mɯ 42 za 31
+Baihong	woman	xa31 mi55 ja31
+Hani	woman	ssaq mi ssaq
+Nosu	woman	-
+Samei	woman	ma dzi (dzɨ?) mɔ
+Nisu	woman	A 21 mE 33 ʐo 33
+Biyue	woman	jo31 mi31
+Kucong	woman	ʝa mi ma
+Nusu	woman	mi zɔ
+Jinghpo	woman	num
+Lahu Shi	woman	zA33 mi53
+Lahu Na	woman	ya* mid ma
+Zaozou	woman	su 33 mi 35 ʑa 44
+Jinuo	woman	khɒ mɒ
+Naxi	woman	-
+Zaiwa	woman	mji 21 ve 21
+Mandarin	wood	mu to40
+Nasu	wood	si_ 21 po_ 21
+Lisu	wood	sɨ 35 dui 31
+Baihong	wood	-
+Hani	wood	daoq ma
+Nosu	wood	syrjielurjie
+Samei	wood	ʂɨ thә
+Nisu	wood	sɨ_ 33 lu_ 33
+Biyue	wood	di55 ko31
+Kucong	wood	çәr (çɚ?) du
+Nusu	wood	si dɔ
+Jinghpo	wood	hpun
+Lahu Shi	wood	sɨ54 thoŋ31
+Lahu Na	wood	sit thie qu*
+Zaozou	wood	te~ 44
+Jinuo	wood	sɨ tsɨ
+Naxi	wood	sәr33 lv.33
+Zaiwa	wood	sik 55
+Mandarin	worm	qiu yin13
+Nasu	worm	bi 21 di 33
+Lisu	worm	o 44 bu 31
+Baihong	worm	bv31 dje55
+Hani	worm	buq deil
+Nosu	worm	zazzi bbupdi
+Samei	worm	v. di
+Nisu	worm	bɤ 21 dɤ 21
+Biyue	worm	bi31 de~55
+Kucong	worm	bo di
+Nusu	worm	-
+Jinghpo	worm	gajinjai
+Lahu Shi	worm	po53 ti31 qo54
+Lahu Na	worm	pud til
+Zaozou	worm	ŋo 31 tsa 44 pa 42 ti 31 o~ 33
+Jinuo	worm	pu tә
+Naxi	worm	gɯ lɯ bә di
+Zaiwa	worm	tʃi_ 55 tʃi_n 55
+Mandarin	yawn	da ha qian311
+Nasu	yawn	ʂe 55
+Lisu	yawn	khɯ 31 fu 44
+Baihong	yawn	-
+Hani	yawn	hal bov nei
+Nosu	yawn	hxaxshemu (= haqian)
+Samei	yawn	-
+Nisu	yawn	A 55 xA 21 mu 21
+Biyue	yawn	a31 la55 pi33
+Kucong	yawn	a ci mɯ
+Nusu	yawn	-
+Jinghpo	yawn	gahkam
+Lahu Shi	yawn	xA35 mɤ55 gɤ31
+Lahu Na	yawn	mawr qaw ngaq
+Zaozou	yawn	a 44 ʑɯ 33
+Jinuo	yawn	xɤ haj mɯ mә
+Naxi	yawn	xa55 xa33 ʑi31
+Zaiwa	yawn	a 55 xam 21 xam 21
+Mandarin	year	nian2
+Nasu	year	kho_ 55
+Lisu	year	kho 42
+Baihong	year	xo31
+Hani	year	huvq
+Nosu	year	kut
+Samei	year	khɔ
+Nisu	year	khu_ 21
+Biyue	year	kv.31
+Kucong	year	kho
+Nusu	year	khʊ ʐʊ
+Jinghpo	year	shaning
+Lahu Shi	year	qhɔ 21
+Lahu Na	year	qhawr
+Zaozou	year	va 42
+Jinuo	year	mjɔ
+Naxi	year	khv.55
+Zaiwa	year	tsan 51
+Mandarin	yellow	huang2
+Nasu	yellow	ʂo, 21
+Lisu	yellow	e 55 ʃɨ 44
+Baihong	yellow	sɤ55
+Hani	yellow	siil
+Nosu	yellow	ashy
+Samei	yellow	sɤr (sɚ?)
+Nisu	yellow	sE 55
+Biyue	yellow	sɨ55
+Kucong	yellow	a çI
+Nusu	yellow	ʐwɔ o~ hjy~
+Jinghpo	yellow	htoi
+Lahu Shi	yellow	sɯ33
+Lahu Na	yellow	shiq
+Zaozou	yellow	yi 55
+Jinuo	yellow	a ʃɨ
+Naxi	yellow	ʂɯ31
+Zaiwa	yellow	xui 51
+Mandarin	you	ni3
+Nasu	you	na 33
+Lisu	you	nu 33
+Baihong	you	nɔ55?
+Hani	you	nol
+Nosu	you	ne
+Samei	you	nә
+Nisu	you	nA 21
+Biyue	you	nv.55
+Kucong	you	no
+Nusu	you	ɲɔ
+Jinghpo	you	nang
+Lahu Shi	you	nɔ31
+Lahu Na	you	nawl
+Zaozou	you	ɲɔ 31
+Jinuo	you	na
+Naxi	you	nɯ31
+Zaiwa	you	naŋ 51
+Mandarin	young	nian qing21
+Nasu	young	ɬa_ 55
+Lisu	young	lɛ 55
+Baihong	young	ja31 gʊ31 gʊ
+Hani	young	-
+Nosu	young	-
+Samei	young	-
+Nisu	young	ɬi_ɛ_ 21
+Biyue	young	nɤ55
+Kucong	young	-
+Nusu	young	-
+Jinghpo	young	asak ram
+Lahu Shi	young	niAn31 tɕhiŋ33
+Lahu Na	young	-
+Zaozou	young	tshæ 42 ɲæ 33
+Jinuo	young	-
+Naxi	young	-
+Zaiwa	young	a 21 sak 21 ti_ʔ 55
