@@ -8,9 +8,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/3.0/
 
 Available online at http://purl.stanford.edu/wv919xj7158
 
-Conceptlists in Concepticon:
-- [SatterthwaitePhillips-2011-423](http://concepticon.clld.org/contributions/SatterthwaitePhillips-2011-423)
 
+Conceptlists in Concepticon:
+- [SatterthwaitePhillips-2011-423](https://concepticon.clld.org/contributions/SatterthwaitePhillips-2011-423)
 ## Notes
 
 This dataset comprises a larger concept list of 18 Sino-Tibetan languages.
@@ -27,5 +27,6 @@ This dataset comprises a larger concept list of 18 Sino-Tibetan languages.
 
 - **Varieties:** 18
 - **Concepts:** 422
-- **Lexemes:** 6,845
-- **Synonymy:** 1.01
+- **Lexemes:** 6,812
+- **Sources:** 1
+- **Synonymy:** 1.00
