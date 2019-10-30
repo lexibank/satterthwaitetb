@@ -241,20 +241,14 @@ class Dataset(BaseDataset):
         # write the bibliographic sources
         args.writer.add_sources()
 
-        # add the languages from the language list
-        for language in self.languages:
-            args.writer.add_language(
-                ID=slug(language["Name"]),
-                Name=language["Name"],
-                Glottocode=language["Glottocode"],
-                Glottolog_Name=language["Glottolog_Name"],
-            )
+        # add languages
+        language_lookup = args.writer.add_languages(lookup_factory="Name")
 
         # add the concepts from the concept list
-        # TODO: add `English` and other fields?
         for concept in self.conceptlist.concepts.values():
             args.writer.add_concept(
                 ID=slug(concept.label),
+                Name=concept.english,
                 Concepticon_ID=concept.concepticon_id,
                 Concepticon_Gloss=concept.concepticon_gloss,
             )
@@ -265,7 +259,7 @@ class Dataset(BaseDataset):
         # TODO: replace multiple spaces, strip
         for entry in progressbar(self._read_raw_data()):
             args.writer.add_forms_from_value(
-                Language_ID=slug(entry["language"]),
+                Language_ID=language_lookup[entry["language"]],
                 Parameter_ID=slug(entry["concept"]),
                 Value=entry["value"],
                 Source=["SatterthwaitePhillips2011"],

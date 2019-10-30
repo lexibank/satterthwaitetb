@@ -188,27 +188,19 @@
 | baihong-bad-1 | baihong | bad | dy55 | d y <s> <?> </s> |
 | baihong-bamboo-1 | baihong | bamboo | xa31 bo55 | x a <s> <?> </s> + b o <s> <?> </s> |
 | baihong-banana-1 | baihong | banana | na31 dʑi31 a 55 sɨ31 | n a <s> <?> </s> + dʑ i <s> <?> </s> + a + <s> <?> </s> + s ɨ <s> <?> </s> |
-| biyue-ant-1 | biyue | ant | bi31 sv._33 | b i <s> <?> </s> + s v <s> <?> </s> _ <s> <?> </s> |
-| biyue-arm-1 | biyue | arm | la_31 tv.55 | l a _ <s> <?> </s> + t v <s> <?> </s> <s> <?> </s> |
-| biyue-arrow-1 | biyue | arrow | nv.31 ti55 | n v <s> <?> </s> <s> <?> </s> + t i <s> <?> </s> |
-| biyue-ashes-1 | biyue | ashes | ko31 li55 | k o <s> <?> </s> + l i <s> <?> </s> |
-| biyue-awaken-1 | biyue | awaken | ɲi31 | ɲ i <s> <?> </s> |
-| biyue-bad-1 | biyue | bad | mo31 mɔ33 | m o <s> <?> </s> + m ɔ <s> <?> </s> |
-| biyue-bamboo-1 | biyue | bamboo | o31 bo55 | o <s> <?> </s> + b o <s> <?> </s> |
-| biyue-banana-1 | biyue | banana | ɕa~55 dʑau55 | ɕ a <s> <<~>> </s> <s> <?> </s> + dʑ a u <s> <?> </s> |
+| biyo-ant-1 | biyo | ant | bi31 sv._33 | b i <s> <?> </s> + s v <s> <?> </s> _ <s> <?> </s> |
+| biyo-arm-1 | biyo | arm | la_31 tv.55 | l a _ <s> <?> </s> + t v <s> <?> </s> <s> <?> </s> |
+| biyo-arrow-1 | biyo | arrow | nv.31 ti55 | n v <s> <?> </s> <s> <?> </s> + t i <s> <?> </s> |
+| biyo-ashes-1 | biyo | ashes | ko31 li55 | k o <s> <?> </s> + l i <s> <?> </s> |
+| biyo-awaken-1 | biyo | awaken | ɲi31 | ɲ i <s> <?> </s> |
+| biyo-bad-1 | biyo | bad | mo31 mɔ33 | m o <s> <?> </s> + m ɔ <s> <?> </s> |
+| biyo-bamboo-1 | biyo | bamboo | o31 bo55 | o <s> <?> </s> + b o <s> <?> </s> |
+| biyo-banana-1 | biyo | banana | ɕa~55 dʑau55 | ɕ a <s> <<~>> </s> <s> <?> </s> + dʑ a u <s> <?> </s> |
 | hani-animal-1 | hani | animal | yo deiv ssaq | y o + d e i v + <s> ss </s> a q |
 | hani-ashes-1 | hani | ashes | yahyuq hallyul | y a h y u q + h a <s> ll </s> y u l |
-| jinghpo-ashes-1 | jinghpo | ashes | salik wan numwu | s a l i k + w a n + n u <s> mw </s> u |
-| jinghpo-back-1 | jinghpo | back | shingma | <s> sh </s> i n g m a |
-| jinuo-arrow-1 | jinuo | arrow | lu tʃhɨ | l u + <s> tʃh </s> ɨ |
-| lahuna-animal-1 | lahuna | animal | to nud to shat | t o + n u d + t o + <s> sh </s> a t |
-| lahuna-ant-1 | lahuna | ant | piq xawt ni* | p i q + x a w t + n i <s> <?> </s> |
-| lahuna-ashamed-1 | lahuna | ashamed | mad qaw* yi* | m a d + q a w <s> <?> </s> + y i <s> <?> </s> |
-| lahuna-ashes-1 | lahuna | ashes | shuq xeor | <s> sh </s> u q + x e o r |
-| lahuna-back-1 | lahuna | back | phie* | pʰ i e <s> <?> </s> |
-| lahuna-bad-1 | lahuna | bad | lul qeu* | l u l + q e u <s> <?> </s> |
-| lahuna-bamboo-1 | lahuna | bamboo | va jie* | v a + j i e <s> <?> </s> |
-| lahuna-banana-1 | lahuna | banana | aq pawd hawq shif | a q + p a w d + h a w q + <s> sh </s> i f |
+| jinghpaw-ashes-1 | jinghpaw | ashes | salik wan numwu | s a l i k + w a n + n u <s> mw </s> u |
+| jinghpaw-back-1 | jinghpaw | back | shingma | <s> sh </s> i n g m a |
+| jino-arrow-1 | jino | arrow | lu tʃhɨ | l u + <s> tʃh </s> ɨ |
 | lahushi-ant-1 | lahushi | ant | pɤ331 ɣɔ53 | p ɤ <s> <?> </s> + ɣ ɔ <s> <?> </s> |
 | lahushi-arm-1 | lahushi | arm | lA31 pɯ31 | l <s> <?> </s> <s> <?> </s> + p ɯ <s> <?> </s> |
 | lahushi-arrow-1 | lahushi | arrow | khA313 tɕi33 | kʰ <s> <?> </s> <s> <?> </s> + tɕ i <s> <?> </s> |
@@ -224,6 +216,7 @@
 | lisu-awaken-1 | lisu | awaken | xua 55 sʃhɨ 31 | x u a + <s> <?> </s> + <s> sʃh </s> ɨ + <s> <?> </s> |
 | lisu-bad-1 | lisu | bad | ma 31 dʒi 33 | m a + <s> <?> </s> + dʒ i + <s> <?> </s> |
 | lisu-bamboo-1 | lisu | bamboo | ma 44 da 33 | m a + <s> <?> </s> + d a + <s> <?> </s> |
+| lisu-banana-1 | lisu | banana | ŋa 44 ma 33 | ŋ a + <s> <?> </s> + m a + <s> <?> </s> |
 | mandarin-animal-1 | mandarin | animal | dong wu44 | d o n g + w u <s> <?> </s> |
 | mandarin-ant-1 | mandarin | ant | ma yi33 | m a + y i <s> <?> </s> |
 | mandarin-arm-1 | mandarin | arm | ge bo10 | g e + b o <s> <?> </s> |
@@ -235,13 +228,14 @@
 | mandarin-bad-1 | mandarin | bad | huai4 | h u a i <s> <?> </s> |
 | mandarin-bamboo-1 | mandarin | bamboo | zhu zi20 | <s> zh </s> u + z i <s> <?> </s> |
 | mandarin-banana-1 | mandarin | banana | xiang jiao14 | x i a n g + j i a o <s> <?> </s> |
-| nasu-ant-1 | nasu | ant | bi_ 55 ʑo_ 33 | b i _ + <s> <?> </s> + ʑ o _ + <s> <?> </s> |
-| nasu-arm-1 | nasu | arm | la_ 55 pu 33 | l a _ + <s> <?> </s> + p u + <s> <?> </s> |
-| nasu-arrow-1 | nasu | arrow | nu 33 tɕhɚ 33 | n u + <s> <?> </s> + <s> tɕh </s> ə˞ + <s> <?> </s> |
-| nasu-ashes-1 | nasu | ashes | khu 55 | kʰ u + <s> <?> </s> |
-| nasu-awaken-1 | nasu | awaken | ʑi_ 55 tɕhɚ 33 | ʑ i _ + <s> <?> </s> + <s> tɕh </s> ə˞ + <s> <?> </s> |
-| nasu-bad-1 | nasu | bad | ɖa_ 21 | ɖ a _ + <s> <?> </s> |
-| nasu-bamboo-1 | nasu | bamboo | mo 33 | m o + <s> <?> </s> |
+| na-animal-1 | na | animal | to nud to shat | t o + n u d + t o + <s> sh </s> a t |
+| na-ant-1 | na | ant | piq xawt ni* | p i q + x a w t + n i <s> <?> </s> |
+| na-ashamed-1 | na | ashamed | mad qaw* yi* | m a d + q a w <s> <?> </s> + y i <s> <?> </s> |
+| na-ashes-1 | na | ashes | shuq xeor | <s> sh </s> u q + x e o r |
+| na-back-1 | na | back | phie* | pʰ i e <s> <?> </s> |
+| na-bad-1 | na | bad | lul qeu* | l u l + q e u <s> <?> </s> |
+| na-bamboo-1 | na | bamboo | va jie* | v a + j i e <s> <?> </s> |
+| na-banana-1 | na | banana | aq pawd hawq shif | a q + p a w d + h a w q + <s> sh </s> i f |
 | naxi-ant-1 | naxi | ant | tɕho55 lo33 | <s> tɕh </s> o <s> <?> </s> + l o <s> <?> </s> |
 | naxi-arm-1 | naxi | arm | la31 wa | l a <s> <?> </s> + w a |
 | naxi-arrow-1 | naxi | arrow | lɯ33 sɯ33 | l ɯ <s> <?> </s> + s ɯ <s> <?> </s> |
@@ -249,6 +243,13 @@
 | naxi-awaken-1 | naxi | awaken | gә no33 | g <s> <?> </s> + n o <s> <?> </s> |
 | naxi-bamboo-1 | naxi | bamboo | mɯ55 | m ɯ <s> <?> </s> |
 | naxi-banana-1 | naxi | banana | ɕa33 tsia33 | ɕ a <s> <?> </s> + ts i a <s> <?> </s> |
+| nesu-ant-1 | nesu | ant | bi_ 55 ʑo_ 33 | b i _ + <s> <?> </s> + ʑ o _ + <s> <?> </s> |
+| nesu-arm-1 | nesu | arm | la_ 55 pu 33 | l a _ + <s> <?> </s> + p u + <s> <?> </s> |
+| nesu-arrow-1 | nesu | arrow | nu 33 tɕhɚ 33 | n u + <s> <?> </s> + <s> tɕh </s> ə˞ + <s> <?> </s> |
+| nesu-ashes-1 | nesu | ashes | khu 55 | kʰ u + <s> <?> </s> |
+| nesu-awaken-1 | nesu | awaken | ʑi_ 55 tɕhɚ 33 | ʑ i _ + <s> <?> </s> + <s> tɕh </s> ə˞ + <s> <?> </s> |
+| nesu-bad-1 | nesu | bad | ɖa_ 21 | ɖ a _ + <s> <?> </s> |
+| nesu-bamboo-1 | nesu | bamboo | mo 33 | m o + <s> <?> </s> |
 | nisu-ant-1 | nisu | ant | bɤ 55 xɤ_ 21 | b ɤ + <s> <?> </s> + x ɤ _ + <s> <?> </s> |
 | nisu-arm-1 | nisu | arm | li_ɛ_ 21 ʑi_ɛ_ 33 po_ 21 | l i _ ɛ _ + <s> <?> </s> + ʑ i _ ɛ _ + <s> <?> </s> + p o _ + <s> <?> </s> |
 | nisu-arrow-1 | nisu | arrow | tɕhi_ɛ_ 21 ?u_ 33 thiɛ 55 | <s> tɕh </s> i _ ɛ _ + <s> <?> </s> + <s> <?> </s> u _ + <s> <?> </s> + tʰ i ɛ + <s> <?> </s> |
@@ -256,12 +257,12 @@
 | nisu-awaken-1 | nisu | awaken | nɯ 33 | n ɯ + <s> <?> </s> |
 | nisu-bad-1 | nisu | bad | dɤ 55 | d ɤ + <s> <?> </s> |
 | nisu-bamboo-1 | nisu | bamboo | mo 55 | m o + <s> <?> </s> |
-| nosu-animal-1 | nosu | animal | lyrw | l y <s> rw </s> |
-| nosu-awaken-1 | nosu | awaken | jyjji | j y <s> jj </s> i |
 | nusu-arrow-1 | nusu | arrow | mra gwa | m r a + <s> gw </s> a |
 | nusu-bamboo-1 | nusu | bamboo | hm,ɯ | h m <s> <<,>> </s> ɯ |
 | samei-ant-1 | samei | ant | gә li hә | g <s> <?> </s> + l i + h <s> <?> </s> |
 | samei-bad-1 | samei | bad | o mɔ dә | o + m ɔ + d <s> <?> </s> |
+| sichuanyi-animal-1 | sichuanyi | animal | lyrw | l y <s> rw </s> |
+| sichuanyi-awaken-1 | sichuanyi | awaken | jyjji | j y <s> jj </s> i |
 | zaiwa-ant-1 | zaiwa | ant | pau 51 vo? 55 | p a u + <s> <?> </s> + v o <s> <?> </s> + <s> <?> </s> |
 | zaiwa-arm-1 | zaiwa | arm | lo? 21 pu 55 | l o <s> <?> </s> + <s> <?> </s> + p u + <s> <?> </s> |
 | zaiwa-arrow-1 | zaiwa | arrow | lai 21 mjo 21 | l a i + <s> <?> </s> + m j o + <s> <?> </s> |
@@ -269,14 +270,13 @@
 | zaiwa-awaken-1 | zaiwa | awaken | pun 21 | p u n + <s> <?> </s> |
 | zaiwa-bad-1 | zaiwa | bad | then 21 | tʰ e n + <s> <?> </s> |
 | zaiwa-bamboo-1 | zaiwa | bamboo | va 21 | v a + <s> <?> </s> |
-| zaozou-ant-1 | zaozou | ant | pha 55 vu 42 o~ 33 | pʰ a + <s> <?> </s> + v u + <s> <?> </s> + o <s> <<~>> </s> + <s> <?> </s> |
-| zaozou-arm-1 | zaozou | arm | lou 42 ɣæ 31 | l o u + <s> <?> </s> + ɣ æ + <s> <?> </s> |
-| zaozou-arrow-1 | zaozou | arrow | ɲo 31 a 44 | ɲ o + <s> <?> </s> + a + <s> <?> </s> |
-| zaozou-ashes-1 | zaozou | ashes | na 55 ma 35 phu 33 | n a + <s> <?> </s> + m a + <s> <?> </s> + pʰ u + <s> <?> </s> |
-| zaozou-awaken-1 | zaozou | awaken | ɲe 35 | ɲ e + <s> <?> </s> |
-| zaozou-bad-1 | zaozou | bad | tɕhɯ 31 | <s> tɕh </s> ɯ + <s> <?> </s> |
-| zaozou-bamboo-1 | zaozou | bamboo | khuɔ 33 tse~ 33 | kʰ u ɔ + <s> <?> </s> + ts e <s> <<~>> </s> + <s> <?> </s> |
-| zaozou-banana-1 | zaozou | banana | ɕa 33 tɕiɔ 31 | ɕ a + <s> <?> </s> + tɕ i ɔ + <s> <?> </s> |
+| zauzou-ant-1 | zauzou | ant | pha 55 vu 42 o~ 33 | pʰ a + <s> <?> </s> + v u + <s> <?> </s> + o <s> <<~>> </s> + <s> <?> </s> |
+| zauzou-arm-1 | zauzou | arm | lou 42 ɣæ 31 | l o u + <s> <?> </s> + ɣ æ + <s> <?> </s> |
+| zauzou-arrow-1 | zauzou | arrow | ɲo 31 a 44 | ɲ o + <s> <?> </s> + a + <s> <?> </s> |
+| zauzou-ashes-1 | zauzou | ashes | na 55 ma 35 phu 33 | n a + <s> <?> </s> + m a + <s> <?> </s> + pʰ u + <s> <?> </s> |
+| zauzou-awaken-1 | zauzou | awaken | ɲe 35 | ɲ e + <s> <?> </s> |
+| zauzou-bad-1 | zauzou | bad | tɕhɯ 31 | <s> tɕh </s> ɯ + <s> <?> </s> |
+| zauzou-bamboo-1 | zauzou | bamboo | khuɔ 33 tse~ 33 | kʰ u ɔ + <s> <?> </s> + ts e <s> <<~>> </s> + <s> <?> </s> |
 
 (100 rows)
 

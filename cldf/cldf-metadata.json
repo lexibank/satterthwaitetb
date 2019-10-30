@@ -18,13 +18,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/satterthwaitetb",
-            "dc:created": "v2.0.1-8-g74182ee"
+            "dc:created": "v2.0.1-9-ga3a93e0"
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.1.0-104-g9190b75"
         },
         {
             "rdf:type": "prov:Entity",
@@ -34,9 +34,9 @@
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.1.0-104-g9190b75"
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
