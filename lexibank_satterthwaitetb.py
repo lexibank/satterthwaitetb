@@ -3,9 +3,11 @@ import itertools
 from pathlib import Path
 import re
 
+from clldutils import text
 from clldutils.misc import slug
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.util import progressbar
+from pylexibank import progressbar
+from pylexibank import FormSpec
 
 ERRATA = {
     "earth": {"repl": "earth1|earth2", "num_tokens": 2},
@@ -85,11 +87,36 @@ ROW_IDX = {
 }
 
 
+@attr.s
+class FormSpecWithReplacement(FormSpec):
+    replacements = attr.ib(default={}, validator=attr.validators.instance_of(dict))
+
+    def clean(self, form, item=None):
+        # make replacements first
+        for s, t in sorted(
+            self.replacements.items(), key=lambda x: len(x[0]), reverse=True
+        ):
+            form = form.replace(s, t)
+
+        if form not in self.missing_data:
+            if self.strip_inside_brackets:
+                return text.strip_brackets(form, brackets=self.brackets)
+
+            return form
+
+
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "satterthwaitetb"
+    form_spec = FormSpecWithReplacement(
+        separators=";/",
+        brackets={"(": ")"},
+        strip_inside_brackets=True,
+        #        first_form_only=True,
+        replacements={"= song": "", "= sing": "", "(ɨ)": "ɨ", "(y)": "y", "(r)": "r"},
+    )
 
-    def _read_page_data(self):
+    def _read_raw_data(self):
         # The raw data for this dataset is a bit complex to process, with
         # all the common quircks. It is separated in pages which need to
         # be cleaned and joined, besides being distributed in lines which
@@ -192,13 +219,25 @@ class Dataset(BaseDataset):
             # Finally collect the page data
             page_data.append(page_rows)
 
-        return page_data
+        # Once all pages have been collected, we can map the data
+        # to a dictionary with language, concept, and form. Please note
+        # that the forms still need cleaning, splitting, etc.
+        raw_data = []
+        for page in page_data:
+            for idx, concept in enumerate(page["concepts"]):
+                for lang in page.keys():
+                    # Skip over non-english concept data
+                    if lang in ["concepts", "Hanzi"]:
+                        continue
+
+                    # Append the current entry
+                    raw_data.append(
+                        {"language": lang, "concept": concept, "value": page[lang][idx]}
+                    )
+
+        return raw_data
 
     def cmd_makecldf(self, args):
-        # read page data, solving all PDF conversion problems (forms still
-        # need to be cleaned)
-        page_data = self._read_page_data()
-
         # write the bibliographic sources
         args.writer.add_sources()
 
@@ -220,42 +259,14 @@ class Dataset(BaseDataset):
                 Concepticon_Gloss=concept.concepticon_gloss,
             )
 
-        for page in progressbar(page_data):
-            # for each concept...
-            for idx, english in enumerate(page["concepts"]):
-                for lang in page.keys():
-                    if lang in ["concepts", "Hanzi"]:
-                        continue
-                    # extract the value (raw transcription) and apply
-                    # some initial correction before splitting into the
-                    # various forms; before removing parentheses, we
-                    # manually correct and preserve the few cases in which
-                    # the parentheses are actual sound information and
-                    # not comments
-                    value = page[lang][idx]
-                    value = value.replace("(y)", "y")
-                    value = value.replace("(r)", "r")
-                    value = value.replace("(ɨ)", "ɨ")
-                    #                    value = strip_brackets(value, brackets={"(": ")"})
-
-                    for form in value.split(";"):
-                        #                    for form in split_text(value, separators=";/"):
-                        # correct forms with glosses without parentheses
-                        form = form.replace("= song", "")
-                        form = form.replace("= sing", "")
-
-                        # remove multiple spaces and leading/trailing
-                        form = re.sub(r"\s+", " ", form).strip()
-
-                        # skip over empty forms
-                        if form == "-":
-                            continue
-
-                        # add lexeme to database
-                        args.writer.add_form(
-                            Language_ID=slug(lang),
-                            Parameter_ID=slug(english),
-                            Value=form,
-                            Form=form,
-                            Source=["SatterthwaitePhillips2011"],
-                        )
+        # Iterate over the raw data, provided by `._read_raw_data()` as
+        # a list of dictionaries. This logic allows to skip over all the
+        # complex processing and fixing of the PDF conversion output.
+        # TODO: replace multiple spaces, strip
+        for entry in progressbar(self._read_raw_data()):
+            args.writer.add_forms_from_value(
+                Language_ID=slug(entry["language"]),
+                Parameter_ID=slug(entry["concept"]),
+                Value=entry["value"],
+                Source=["SatterthwaitePhillips2011"],
+            )

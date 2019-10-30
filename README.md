@@ -24,9 +24,15 @@ This dataset comprises a larger concept list of 18 Sino-Tibetan languages.
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-brightgreen.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 62%](https://img.shields.io/badge/BIPA-62%25-orange.svg "BIPA: 62%")
+![CLTS SoundClass: 62%](https://img.shields.io/badge/CLTS%20SoundClass-62%25-orange.svg "CLTS SoundClass: 62%")
 
 - **Varieties:** 18
 - **Concepts:** 422
-- **Lexemes:** 6,812
+- **Lexemes:** 6,822
 - **Sources:** 1
-- **Synonymy:** 1.00
+- **Synonymy:** 1.01
+- **Invalid lexemes:** 0
+- **Tokens:** 38,571
+- **Segments:** 154 (59 BIPA errors, 59 CTLS sound class errors, 95 CLTS modified)
+- **Inventory size (avg):** 45.83
