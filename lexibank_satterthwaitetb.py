@@ -29,13 +29,10 @@ class Dataset(BaseDataset):
         language_lookup = args.writer.add_languages(lookup_factory="Name")
 
         # add the concepts from the concept list
-        for concept in self.conceptlist.concepts.values():
-            args.writer.add_concept(
-                ID=slug(concept.label),
-                Name=concept.english,
-                Concepticon_ID=concept.concepticon_id,
-                Concepticon_Gloss=concept.concepticon_gloss,
-            )
+        concept_lookup = args.writer.add_concepts(
+            id_factory=lambda x: "%s_%s" % (x.number, slug(x.label)),
+            lookup_factory="Name",
+        )
 
         # Read the source diretly; the file was generated from a pdf2txt
         # conversion of the appendix of the thesis in question, and later
@@ -45,7 +42,7 @@ class Dataset(BaseDataset):
         ):
             args.writer.add_forms_from_value(
                 Language_ID=language_lookup[entry["language"]],
-                Parameter_ID=slug(entry["concept"]),
+                Parameter_ID=concept_lookup[entry["concept"]],
                 Value=entry["value"],
                 Source=["SatterthwaitePhillips2011"],
             )
