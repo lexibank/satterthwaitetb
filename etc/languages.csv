@@ -1,19 +1,19 @@
-Name,Glottocode,Glottolog_Name
-Mandarin,mand1415,Mandarin Chinese
-Baihong,baih1238,Baihong
-Biyue,biyo1243,Biyo
-Hani,hani1248,Hani
-Jinghpo,kach1280,Jinghpaw
-Jinuo,jino1236,Jino
-Kucong,kuco1235,Kucong
-Lahu Na,naaa1244,Na (Lahu)
-Lahu Shi,lahu1252,Lahu Shi
-Lisu,lisu1250,Lisu
-Nasu,nesu1235,Nesu
-Naxi,naxi1245,Naxi
-Nisu,nisu1238,Nisu
-Nosu,sich1238,Sichuan Yi
-Nusu,nusu1239,Nusu
-Samei,same1240,Samei
-Zaiwa,zaiw1241,Zaiwa
-Zaozou,zauz1238,Zauzou
+ID,Name,Glottocode,Glottolog_Name
+Mandarin,Mandarin,mand1415,Mandarin Chinese
+Baihong,Baihong,baih1238,Baihong
+Biyo,Biyue,biyo1243,Biyo
+Hani,Hani,hani1248,Hani
+Jinghpaw,Jinghpo,kach1280,Jinghpaw
+Jino,Jinuo,jino1236,Jino
+Kucong,Kucong,kuco1235,Kucong
+Na,Lahu Na,naaa1244,Na (Lahu)
+LahuShi,Lahu Shi,lahu1252,Lahu Shi
+Lisu,Lisu,lisu1250,Lisu
+Nesu,Nasu,nesu1235,Nesu
+Naxi,Naxi,naxi1245,Naxi
+Nisu,Nisu,nisu1238,Nisu
+SichuanYi,Nosu,sich1238,Sichuan Yi
+Nusu,Nusu,nusu1239,Nusu
+Samei,Samei,same1240,Samei
+Zaiwa,Zaiwa,zaiw1241,Zaiwa
+Zauzou,Zaozou,zauz1238,Zauzou
