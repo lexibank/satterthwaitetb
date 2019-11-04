@@ -27,6 +27,6 @@ This dataset comprises a larger concept list of 18 Sino-Tibetan languages.
 
 - **Varieties:** 18
 - **Concepts:** 422
-- **Lexemes:** 6,822
+- **Lexemes:** 6,778
 - **Sources:** 1
-- **Synonymy:** 1.01
+- **Synonymy:** 1.00
