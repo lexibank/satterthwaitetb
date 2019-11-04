@@ -30,7 +30,7 @@ class Dataset(BaseDataset):
 
         # add the concepts from the concept list
         concept_lookup = args.writer.add_concepts(
-            id_factory=lambda x: "%s_%s" % (x.number, slug(x.label)),
+            id_factory=lambda x:x.id.split("-")[-1]+"_"+slug(x.label),
             lookup_factory="Name",
         )
 
