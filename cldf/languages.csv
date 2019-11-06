@@ -1,19 +1,19 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-Mandarin,Mandarin,mand1415,Mandarin Chinese,,,,,
-Baihong,Baihong,baih1238,Baihong,,,,,
-Biyo,Biyue,biyo1243,Biyo,,,,,
-Hani,Hani,hani1248,Hani,,,,,
-Jinghpaw,Jinghpo,kach1280,Jinghpaw,,,,,
-Jino,Jinuo,jino1236,Jino,,,,,
-Kucong,Kucong,kuco1235,Kucong,,,,,
-Na,Lahu Na,naaa1244,Na (Lahu),,,,,
-LahuShi,Lahu Shi,lahu1252,Lahu Shi,,,,,
-Lisu,Lisu,lisu1250,Lisu,,,,,
-Nesu,Nasu,nesu1235,Nesu,,,,,
-Naxi,Naxi,naxi1245,Naxi,,,,,
-Nisu,Nisu,nisu1238,Nisu,,,,,
-SichuanYi,Nosu,sich1238,Sichuan Yi,,,,,
-Nusu,Nusu,nusu1239,Nusu,,,,,
-Samei,Samei,same1240,Samei,,,,,
-Zaiwa,Zaiwa,zaiw1241,Zaiwa,,,,,
-Zauzou,Zaozou,zauz1238,Zauzou,,,,,
+Mandarin,Mandarin,mand1415,Mandarin Chinese,cmn,Eurasia,40.0209,116.228,Sino-Tibetan
+Baihong,Baihong,baih1238,Baihong,,Eurasia,,,Sino-Tibetan
+Biyo,Biyue,biyo1243,Biyo,byo,Eurasia,22.511,101.652,Sino-Tibetan
+Hani,Hani,hani1248,Hani,hni,Eurasia,22.67753,102.851673333,Sino-Tibetan
+Jinghpaw,Jinghpo,kach1280,Jinghpaw,kac,Eurasia,25.4634,97.3278,Sino-Tibetan
+Jino,Jinuo,jino1236,Jino,,,,,Sino-Tibetan
+Kucong,Kucong,kuco1235,Kucong,lkc,Eurasia,22.26,101.25,Sino-Tibetan
+Na,Lahu Na,naaa1244,Na (Lahu),,Eurasia,,,Sino-Tibetan
+LahuShi,Lahu Shi,lahu1252,Lahu Shi,lhi,Eurasia,21.2078,100.97,Sino-Tibetan
+Lisu,Lisu,lisu1250,Lisu,lis,Eurasia,26.91,98.94,Sino-Tibetan
+Nesu,Nasu,nesu1235,Nesu,,,,,Sino-Tibetan
+Naxi,Naxi,naxi1245,Naxi,nxq,Eurasia,27.5,100.0,Sino-Tibetan
+Nisu,Nisu,nisu1238,Nisu,,,,,Sino-Tibetan
+SichuanYi,Nosu,sich1238,Sichuan Yi,iii,Eurasia,28.1947,102.121,Sino-Tibetan
+Nusu,Nusu,nusu1239,Nusu,nuf,Eurasia,26.7292,98.8801,Sino-Tibetan
+Samei,Samei,same1240,Samei,smh,Eurasia,24.7859,99.9217,Sino-Tibetan
+Zaiwa,Zaiwa,zaiw1241,Zaiwa,atb,Eurasia,24.1726,98.3643,Sino-Tibetan
+Zauzou,Zaozou,zauz1238,Zauzou,zal,Eurasia,26.4572,98.8634,Sino-Tibetan
