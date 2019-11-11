@@ -1,12 +1,7 @@
-import attr
-import itertools
 from pathlib import Path
-import re
 
-from clldutils import text
 from clldutils.misc import slug
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank import progressbar
 from pylexibank import FormSpec
 
 
@@ -30,16 +25,13 @@ class Dataset(BaseDataset):
 
         # add the concepts from the concept list
         concept_lookup = args.writer.add_concepts(
-            id_factory=lambda x:x.id.split("-")[-1]+"_"+slug(x.label),
-            lookup_factory="Name",
+            id_factory=lambda x: x.id.split("-")[-1] + "_" + slug(x.label), lookup_factory="Name"
         )
 
         # Read the source diretly; the file was generated from a pdf2txt
         # conversion of the appendix of the thesis in question, and later
         # fixed with the fully documented code in raw/parse_pdf2txt.py
-        for entry in self.raw_dir.read_csv(
-            "source.txt", delimiter="\t", dicts=True
-        ):
+        for entry in self.raw_dir.read_csv("source.txt", delimiter="\t", dicts=True):
             args.writer.add_forms_from_value(
                 Language_ID=language_lookup[entry["language"]],
                 Parameter_ID=concept_lookup[entry["concept"]],

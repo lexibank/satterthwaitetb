@@ -14,9 +14,7 @@ setup(
     py_modules=["lexibank_satterthwaitetb"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={
-        "lexibank.dataset": ["satterthwaitetb=lexibank_satterthwaitetb:Dataset"]
-    },
-    install_requires=["pylexibank>=2.0"],
+    entry_points={"lexibank.dataset": ["satterthwaitetb=lexibank_satterthwaitetb:Dataset"]},
+    install_requires=["pylexibank>=2.1"],
     extras_require={"test": ["pytest-cldf"]},
 )
