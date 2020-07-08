@@ -127,7 +127,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 126_fix,fix,3074,FIX
 127_flat,flat,1633,FLAT
 128_flavor,flavor,2938,FLAVOR
-129_flee,flee,956,FLEE
+129_flee,flee,2142,RUN AWAY
 130_float,float,1574,FLOAT
 131_flow,flow,2003,FLOW
 132_flower,flower,239,FLOWER
@@ -231,7 +231,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 231_monkey,monkey,1350,MONKEY
 232_moon,moon,1313,MOON
 233_morning,morning,1339,MORNING
-234_mortar,mortar,224,MORTAR CRUSHER
+234_mortar,mortar,224,MORTAR
 235_mosquito,mosquito,1509,MOSQUITO
 236_mother,mother,1216,MOTHER
 237_mountain,mountain,639,MOUNTAIN
@@ -288,7 +288,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 288_remember,remember,707,REMEMBER
 289_return,return,581,COME BACK
 290_ricecooked,rice (cooked),1191,COOKED RICE
-291_riceplant,rice plant,926,RICE
+291_riceplant,rice plant,2026,RICE PLANT
 292_ride,ride,367,RIDE
 293_right,right,1019,RIGHT
 294_ripe,ripe,178,RIPE

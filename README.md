@@ -1,4 +1,4 @@
-# Phylogenetic Inference of the Tibeto-Burman Languages
+# CLDF dataset derived from Satterthwaite-Phillips' "Phylogenetic Inference of the Tibeto-Burman Languages" from 2011
 
 Cite the source dataset as
 
@@ -30,3 +30,13 @@ This dataset comprises a larger concept list of 18 Sino-Tibetan languages.
 - **Lexemes:** 6,778
 - **Sources:** 1
 - **Synonymy:** 1.00
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Johann-Mattis List | @LinguList | maintainer
+Tiago Tresoldi | @tresoldi | maintainer
+Damian Satterthwaite-Phillips | | DataCollector
+
+
