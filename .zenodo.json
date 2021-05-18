@@ -1,0 +1,33 @@
+{
+    "title": "Phylogenetic Inference of the Tibeto-Burman Languages",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Damian Satterthwaite-Phillips"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Satterthwaite-Phillips, Damian (2011) Phylogenetic inference of the Tibeto-Burman languages or on the usefuseful of lexicostatistics (and &quot;megalo&quot;-comparison) for the subgrouping of Tibeto-Burman. Stanford: Stanford University.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-3.0"
+    }
+}

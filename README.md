@@ -30,3 +30,13 @@ This dataset comprises a larger concept list of 18 Sino-Tibetan languages.
 - **Lexemes:** 6,778
 - **Sources:** 1
 - **Synonymy:** 1.00
+
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Johann-Mattis List | @LinguList | maintainer | Other
+Tiago Tresoldi | @tresoldi | maintainer | Other
+Damian Satterthwaite-Phillips | | shared original data | Author
+
+
