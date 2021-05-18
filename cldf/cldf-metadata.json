@@ -8,7 +8,7 @@
     ],
     "dc:identifier": "http://purl.stanford.edu/wv919xj7158",
     "dc:isVersionOf": null,
-    "dc:license": "https://creativecommons.org/licenses/by-nc/3.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Satterthwaite-Phillips' \"Phylogenetic Inference of the Tibeto-Burman Languages\" from 2011",
@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/satterthwaitetb",
-            "dc:created": "v3.0-1-gf60a1d2"
+            "dc:created": "v3.0-8-g810039b"
         },
         {
             "rdf:type": "prov:Entity",
@@ -30,7 +30,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "dc:created": "v2.4.0-rc.3-46-g91ad1ce"
         },
         {
             "rdf:type": "prov:Entity",

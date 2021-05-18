@@ -28,6 +28,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Satterthwaite-Phillips, Damian (2011) Phylogenetic inference of the Tibeto-Burman languages or on the usefuseful of lexicostatistics (and &quot;megalo&quot;-comparison) for the subgrouping of Tibeto-Burman. Stanford: Stanford University.</p>\n</blockquote>",
     "license": {
-        "id": "CC-BY-NC-3.0"
+        "id": "CC-BY-4.0"
     }
 }
