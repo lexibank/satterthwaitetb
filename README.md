@@ -1,4 +1,4 @@
-# Phylogenetic Inference of the Tibeto-Burman Languages
+# CLDF dataset derived from Satterthwaite-Phillips' "Phylogenetic Inference of the Tibeto-Burman Languages" from 2011
 
 Cite the source dataset as
 

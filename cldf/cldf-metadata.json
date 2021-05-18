@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/3.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Phylogenetic Inference of the Tibeto-Burman Languages",
+    "dc:title": "CLDF dataset derived from Satterthwaite-Phillips' \"Phylogenetic Inference of the Tibeto-Burman Languages\" from 2011",
     "dcat:accessURL": "https://github.com/lexibank/satterthwaitetb",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/satterthwaitetb",
-            "dc:created": "v3.0"
+            "dc:created": "v3.0-1-gf60a1d2"
         },
         {
             "rdf:type": "prov:Entity",
